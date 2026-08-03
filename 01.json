@@ -1,0 +1,1139 @@
+{
+  "total_questions": 182,
+  "part": "1_of_2",
+  "questions": [
+    {
+      "id": 620,
+      "difficulty": "Easy",
+      "question": "Arts advocate: Few universities require that students who are specializing in science and technology take many art courses. However, real progress in science and technology requires an element of creativity, which the arts foster. Thus, to help science and technology students succeed in their careers, universities should increase the number of art courses required for them.\n\nWhich of the following would, if true, most strengthen the argument above?",
+      "options": {
+        "A": "Universities required more art courses for science and technology students in the past.",
+        "B": "Participation in art courses increases students' creative thinking in their science and technology courses.",
+        "C": "More students who are interested in art would specialize in science and technology if the number of art courses required for those programs were increased.",
+        "D": "Some of the most prominent scientists began their careers as artists.",
+        "E": "Discussion of science and technology topics in art courses increases creative thinking among students in those courses."
+      },
+      "correct_answer": "B",
+      "explanation": "الخيار B هو الأقوى لأنه يربط مباشرة بين المشاركة في دورات الفن وزيادة التفكير الإبداعي في مجالات العلوم والتكنولوجيا، وهو الرابط الأساسي الذي تحتاجه الحجة لإثبات أن زيادة دورات الفن ستفيد طلاب العلوم."
+    },
+    {
+      "id": 621,
+      "difficulty": "Easy",
+      "question": "Ramirez: The film industry claims that pirated DVDs, which are usually cheaper than legitimate DVDs and become available well before a film's official DVD release date, adversely affect its bottom line. But the industry should note what the spread of piracy indicates: consumers want lower prices and faster DVD releases. Lowering prices of DVDs and releasing them sooner would mitigate piracy's negative effect on film industry profits.\n\nThe argument above relies on which of the following assumptions?",
+      "options": {
+        "A": "Releasing legitimate DVDs earlier would not cause any reduction in the revenue the film industry receives from the films' theatrical release.",
+        "B": "Some people who would otherwise purchase pirated DVDs would be willing to purchase legitimate DVDs if they were less expensive and released earlier than they are now.",
+        "C": "The film industry will in the future be able to produce DVDs more cheaply than is currently the case.",
+        "D": "Some current sellers of pirated DVDs would likely discontinue their businesses if legitimate DVDs were released faster and priced lower."
+      },
+      "correct_answer": "B",
+      "explanation": "تفترض الحجة أن هناك علاقة سببية بين تحسين شروط الأقراص القانونية وتحول مستهلكي الأقراص المقرصنة إلى الشراء القانوني. الخيار B هو الافتراض الضروري لنجاح هذه الخطة."
+    },
+    {
+      "id": 622,
+      "difficulty": "Easy",
+      "question": "Harunia Province has a relatively dry climate and is attracting a fast-growing population that has put increasing demands on its water supply. The two companies that supply water to the region have struggled to keep up with demand and still remain profitable. Yet now they are asking Harunian authorities to write residential water-use regulations that could reduce their revenues and restrict their future flexibility in supplying water profitably.\n\nWhich of the following, if true, most logically help explain why the water-supply companies are asking the authorities to regulate residential water use?",
+      "options": {
+        "A": "The companies are planning large water-transportation and irrigation systems that require the approval of neighboring provinces.",
+        "B": "The companies believe regulation is inevitable and that having it in place now will allow better planning and thus future profitability.",
+        "C": "Few, if any, Harunian government officials have investments in the companies or serve on their boards of directors.",
+        "D": "The companies believe that the population is not likely to continue to grow.",
+        "E": "Long-term climate projections suggest that greater rainfall will eventually increase the amount of water available."
+      },
+      "correct_answer": "B",
+      "explanation": "يقدم الخيار B سببًا منطقيًا: الشركات تدرك أن التنظيم أمر حتمي، وتفضيل وضعه الآن يساعدها في التخطيط طويل الأجل لضمان الربحية مستقبلًا، مما يبرر طلبها رغم الخسائر قصيرة المدى."
+    },
+    {
+      "id": 623,
+      "difficulty": "Easy",
+      "question": "Loss of the Gocha mangrove forests has caused coastal erosion, reducing fish populations and requiring the Gocha Fishing Cooperative (GFC) to partially fund dredging and new shore facilities. However, as part of its subsidiary businesses, the GFC has now invested in a program to replant significant parts of the coast with mangrove trees. Given income from a controlled harvest of wood with continuing replanting, the mangrove regeneration effort makes it more likely that the cooperative will increase its net income.\n\nWhich of the following, if true, would most strengthen the argument that mangrove replanting will increase the Gocha cooperative's net income?",
+      "options": {
+        "A": "The cost of dredging and shore facilities was shared with the local government.",
+        "B": "The GFC will be able to hire local workers to assist with the mangrove replanting.",
+        "C": "The GFC derives 10 percent of its revenue from salt-production facilities in an area previously cleared of mangroves.",
+        "D": "Mangrove forests tend to increase the commercial fish populations in coastal fishing grounds.",
+        "E": "A controlled harvesting of mangrove wood by the GFC would have little effect on coastal erosion."
+      },
+      "correct_answer": "D",
+      "explanation": "الخيار D يدعم الحجة بشكل مباشر حيث يربط إعادة زراعة المانغروف بزيادة أعداد الأسماك التجارية، مما يؤدي إلى زيادة دخل التعاونية، وهو الهدف الأساسي من الخطة."
+    },
+    {
+      "id": 624,
+      "difficulty": "Easy",
+      "question": "Executives at the Fizzles Beverage Company plan to boost profits in Country X on their range of fruit-flavored drinks by introducing new flavors based on tropical fruits that are little known there. The executives reason that since the fruit drinks of other companies have none of these flavors, Fizzles will not have to compete for customers and thus will be able to sell the drinks at a higher price.\n\nWhich of the following, if true, presents the most serious potential weakness of the plan?",
+      "options": {
+        "A": "The new fruit drinks would be priced significantly higher than other Fizzles fruit drinks with more conventional flavors.",
+        "B": "In a telephone survey, at least one of the consumers contacted said that they preferred many of the new flavors to all of the more familiar flavors.",
+        "C": "To build widespread demand for the new flavors, Fizzles would have to launch an advertising campaign to familiarize consumers with them.",
+        "D": "Consumers choosing among fruit-flavored drinks of different brands generally buy on the basis of name recognition and price rather than the specific fruit flavor.",
+        "E": "Few consumers who are loyal to a specific brand of fruit-flavored drinks would willingly switch to another brand that costs more."
+      },
+      "correct_answer": "D",
+      "explanation": "الخيار D يقوض الفرضية الأساسية للخطة، إذ يشير إلى أن النكهة ليست العامل الحاسم في الشراء، بل السعر والعلامة التجارية، مما يعني أن التفرد بالنكهة لن يضمن الميزة التنافسية أو الأسعار المرتفعة."
+    },
+    {
+      "id": 625,
+      "difficulty": "Easy",
+      "question": "Economist: In 2015, the average per-person amount paid for goods and services purchased by consumers in Country X was the equivalent of $17,570 in United States dollars, just 30 percent of the corresponding figure of $58,566 for Country Y. Yet in 2015, there was already a substantial middle class in Country X that had discretionary income for middle-class consumer goods such as new vehicles, computers, or major household appliances, while a significant portion of the middle class in Country Y did not have sufficient income to purchase such items.\n\nWhich of the following, if true, most helps explain the discrepancy in the relationships described by the economist?",
+      "options": {
+        "A": "There are many consumer goods, such as household appliances, that are produced in Country X to be sold in the Country Y market.",
+        "B": "The volume of trade between Country X and Country Y is increasing rapidly in both directions.",
+        "C": "The economy of Country Y is recovering from a downturn that affected both Country Y and Country X.",
+        "D": "Country X residents pay much less than their Country Y counterparts for housing, transportation, and child care.",
+        "E": "In Country Y as well as in Country X, there are few assembly-line jobs in factories that pay a middle-class wage."
+      },
+      "correct_answer": "D",
+      "explanation": "يفسر الخيار D التناقض: رغم انخفاض متوسط الإنفاق في البلد X، إلا أن المواطنين هناك ينفقون أقل بكثير على أساسيات الحياة (سكن، مواصلات، رعاية أطفال)، مما يترك لديهم دخلاً تقديرياً أعلى للسلع الكمالية مقارنة بالبلد Y."
+    },
+    {
+      "id": 626,
+      "difficulty": "Easy",
+      "question": "Neuroscientist: Memory evolved to help animals react appropriately to situations they encounter by drawing on the past experience of similar situations. But this does not require that animals perfectly recall every detail of all their experiences. Instead, to function well, memory should generalize from past experiences that are similar to the current one.\n\nThe neuroscientist's statements, if true, most strongly support which of the following conclusions?",
+      "options": {
+        "A": "At least some animals perfectly recall every detail of at least some past experiences.",
+        "B": "Perfectly recalling every detail of all their past experiences could help at least some animals react more appropriately than they otherwise would to new situations they encounter.",
+        "C": "Generalizing from past experiences requires clear memories of most if not all the details of those experiences.",
+        "D": "Recalling every detail of all past experiences would be incompatible with any ability to generalize from those experiences.",
+        "E": "Animals can often react more appropriately than they otherwise would to situations they encounter if they draw on generalizations from past experiences of similar situations."
+      },
+      "correct_answer": "E",
+      "explanation": "الخيار E يعيد صياغة النقطة الجوهرية في كلام عالم الأعصاب: التعميم من التجارب الماضية يساعد الحيوانات على التفاعل بشكل أفضل مع المواقف الجديدة، وهو الاستنتاج الأكثر دعمًا بالنص."
+    },
+    {
+      "id": 627,
+      "difficulty": "Easy",
+      "question": "In Country X's last election, the Reform Party beat its main opponent, the Conservative Party, although pollsters, employing in-person interviews shortly before the vote, had projected a Conservative Party victory. Afterward, the pollsters determined that, unlike Conservative Party supporters, Reform Party supporters were less likely to express their party preference during in-person interviews than they were during telephone interviews. Therefore, using only telephone interviews instead would likely result in more accurate projections for the next election.\n\nWhich of the following statements, if true, would most support the argument in the passage?",
+      "options": {
+        "A": "The number of voters in Country X's next election will be significantly larger than the number of voters in the last election.",
+        "B": "The Conservative Party will win the next election.",
+        "C": "For each person interviewed in telephone polls before the next election, pollsters will be able to reasonably determine the likelihood of that person voting.",
+        "D": "People who expressed no party preference during the in-person interviews shortly before Country X's last election did not outnumber the people who expressed a preference for the Conservative Party.",
+        "E": "In the next election, pollsters will be able to conduct more in-person interviews than telephone interviews."
+      },
+      "correct_answer": "C",
+      "explanation": "يدعم الخيار C الحجة بأن الهاتف سيكون أكثر دقة، لأنه يعالج مشكلة أن مجرد الإجابة على هاتف لا تعني أن الشخص سيصوت بالفعل. القدرة على تحديد احتمالية التصويت تجعل العينة أكثر تمثيلاً ودقة."
+    },
+    {
+      "id": 628,
+      "difficulty": "Easy",
+      "question": "A company that manufactures plastic products from recyclable plastic is, surprisingly, unconcerned that economic conditions may worsen, despite analysts' belief that consumers would then consider ecofriendly plastic products an expensive luxury. But the company reasons that it will be able to lower its prices because, in a weakened economy, other ecofriendly plastic manufacturers are likely to fail. Demand among manufacturers for recyclable plastics as raw materials would then plummet, creating an oversupply of such materials, making them less expensive for the manufacturer to purchase and thus lowering the company's costs.\n\nWhich of the following, if true, most weakens the company's reasoning?",
+      "options": {
+        "A": "Smaller ecofriendly plastic manufacturers are more likely to fail in a weakened economy than larger ecofriendly manufacturers are.",
+        "B": "Some retailers whose sales include various companies' ecofriendly plastic products have struggled in recent years despite the overall good economy.",
+        "C": "Consumers would likely soon learn of the oversupply of recyclable plastics and cease recycling them, significantly raising manufacturers' raw-material costs.",
+        "D": "Retailers, including retailers that cater to consumers seeking certain types of ecofriendly products, may lose some business if economic conditions worsen.",
+        "E": "The plastics used by the company in its products were, after a recent investigation by a regulatory body, declared to be safe for consumers."
+      },
+      "correct_answer": "C",
+      "explanation": "الخيار C يقوض تفكير الشركة بتقديم سيناريو معاكس: إذا علم المستهلكون بوفرة المواد القابلة لإعادة التدوير، قد يتوقفون عن إعادة التدوير، مما يقلل العرض ويرفع الأسعار، بدلاً من أن تنخفض كما تفترض الشركة."
+    },
+    {
+      "id": 629,
+      "difficulty": "Easy",
+      "question": "Researchers asked volunteers to imagine they were running a five-kilometer race against 50 people and then against 500 people, races in each of which the top 10 percent would receive a $1,000 prize. Asked about the effort they would apply in the respective cases, the volunteers indicated, on average, that they would run slower in the race against the greater number of people. A likely explanation of this result is that those of the volunteers who were most comparatively inclined—those who most tended to compare themselves with others in the social environment—determined (perhaps unconsciously) that extreme effort would not be worthwhile in the 500-competitor race.\n\nWhich of the following would, if known to be true, most help justify the explanation offered above?",
+      "options": {
+        "A": "The volunteers were chosen because they were unusually competitive.",
+        "B": "The volunteers who were most comparatively inclined tended to report that they would run slower in the 500-competitor race than did the other volunteers.",
+        "C": "The volunteers tended to overestimate the effort they would actually make in such races.",
+        "D": "The volunteers who were most comparatively inclined tended to report that they would run faster in the 50-competitor race than did the other volunteers.",
+        "E": "The volunteers who were most comparatively inclined were also the ones who most wanted to win the prize."
+      },
+      "correct_answer": "D",
+      "explanation": "الخيار D يدعم التفسير: إذا كان الأشخاص الأكثر ميلاً للمقارنة يبذلون جهداً أكبر في سباق الـ50 (حيث فرصة الفوز أكبر)، فهذا يثبت أنهم يقيّمون الجهد بناءً على احتمالية النجاح، وهو ما يفسر تباطؤهم في سباق الـ500."
+    },
+    {
+      "id": 630,
+      "difficulty": "Easy",
+      "question": "According to a study, after a week of high-altitude living, twenty men had slimmed down. The men, middle-aged residents of low-altitude areas, had been taken to a research station at 2,650 meters (8,694 feet) above sea level. They had unrestricted access to food and were forbidden vigorous exercise, yet they lost an average of 1.5 kilograms (3.3 pounds) during their one-week stay. Clearly, the lower availability of oxygen at higher altitudes, or hypobaric hypoxia, can be said to have caused the weight loss, since\n\nWhich of the following would, if true, most logically complete the argument?",
+      "options": {
+        "A": "a decrease in oxygen intake has been shown to depress appetite",
+        "B": "the men all participated in the same kinds of exercise during their stay",
+        "C": "the foods available to the men had fewer calories than the foods they usually ate",
+        "D": "exercise at higher altitudes is more difficult than exercise at lower altitudes is",
+        "E": "several weeks after returning home, the men still weighed less than they had before the study"
+      },
+      "correct_answer": "A",
+      "explanation": "يكمل الخيار A الحجة بشكل منطقي من خلال تقديم آلية سببية: نقص الأكسجين يثبط الشهية، مما يفسر فقدان الوزن رغم توفر الطعام بكثرة ومنع التمارين الشاقة."
+    },
+    {
+      "id": 631,
+      "difficulty": "Easy",
+      "question": "Editorial: Our city's public transportation agency is facing a budget shortfall. The fastest-growing part of the budget has been employee retirement benefits, which are exceptionally generous. Unless the budget shortfall is resolved, transportation service will be cut, and many transportation employees will lose their jobs. Thus, it would be in the employees' best interest for their union to accept cuts in retirement benefits.\n\nWhich of the following is an assumption the editorial's argument requires?",
+      "options": {
+        "A": "The transportation employees' union should not accept cuts in retirement benefits if doing so would not be in the employees' best interest.",
+        "B": "The only feasible way for the agency to resolve the budget shortfall would involve cutting transportation service and eliminating jobs.",
+        "C": "Other things being equal, it is in the transportation employees' interest to have exceptionally generous retirement benefits.",
+        "D": "Cutting the retirement benefits would help resolve the agency's budget shortfall.",
+        "E": "The transportation employees' union will not accept cuts in retirement benefits if doing so will not allow more transportation employees to keep their jobs."
+      },
+      "correct_answer": "D",
+      "explanation": "تفترض الافتتاحية أن تخفيض مزايا التقاعد سيؤدي بالفعل إلى حل العجز في الميزانية. بدون هذا الافتراض، لا يوجد سبب لاعتبار أن الموظفين سيستفيدون من قبول التخفيضات."
+    },
+    {
+      "id": 632,
+      "difficulty": "Easy",
+      "question": "Researchers hope to find clues about the A'mk peoples who lived in the Kaumpta region about one thousand years ago but who left few obvious traces. The researchers plan to hire the few remaining shamans of the modern-day indigenous people in Kaumpta, who are believed to be descended from the A'mk, to lead them to ancestral sites that may be the remains of A'mk buildings or ceremonial spaces. The shamans were taught the location of such sites as part of their traditional training as youths, and their knowledge of traditional Kaumpta customs may help determine the nature of any sites the researchers find.\n\nWhich of the following is an assumption on which the success of the plan depends?",
+      "options": {
+        "A": "The researchers have reliable evidence that the A'mk of one thousand years ago built important ceremonial spaces.",
+        "B": "The shamans have a reasonably accurate memory of A'mk sites they learned about as youths.",
+        "C": "Kaumpta shamans are generally held in high esteem for their traditional knowledge.",
+        "D": "Modern technologies available to the researchers are likely to be able to find some A'mk sites easily.",
+        "E": "Most or all A'mk sites are likely to be found within the Kaumpta region."
+      },
+      "correct_answer": "B",
+      "explanation": "يعتمد نجاح الخطة على أن الشامان يتذكرون بدقة معقولة مواقع أجدادهم التي تعلموها في شبابهم. إذا كانت ذاكرتهم غير دقيقة، فلن تنجح الخطة."
+    },
+    {
+      "id": 633,
+      "difficulty": "Easy",
+      "question": "Astronomer: Most stars are born in groups of thousands, each star in a group forming from the same parent cloud of gas. Each cloud has a unique, homogeneous chemical composition. Therefore, whenever two stars have the same chemical composition as each other, they must have originated from the same cloud of gas.\n\nWhich of the following, if true, would most strengthen the astronomer's argument?",
+      "options": {
+        "A": "In some groups of stars, not every star originated from the same parent cloud of gas.",
+        "B": "Clouds of gas of similar or identical chemical composition may be remote from each other.",
+        "C": "Whenever a star forms, it inherits the chemical composition of its parent cloud of gas.",
+        "D": "Many stars in vastly different parts of the universe are quite similar in their chemical compositions.",
+        "E": "Astronomers can at least sometimes precisely determine whether a star has the same chemical composition as its parent cloud of gas."
+      },
+      "correct_answer": "C",
+      "explanation": "الخيار C يقوي الحجة بتأكيد العلاقة السببية بين السحابة والنجم: إذا كان النجم يرث التركيب الكيميائي لسحابته الأم، فإن تطابق التركيب الكيميائي لنجمين يعني بالضرورة أنهما نشآ من نفس السحابة."
+    },
+    {
+      "id": 634,
+      "difficulty": "Easy",
+      "question": "With employer-paid training, workers have the potential to become more productive not only in their present employment but also in any number of jobs with different employers. To increase the productivity of their workforce, many firms are planning to maintain or even increase their investments in worker training. But some training experts object that if a trained worker is hired away by another firm, the employer that paid for the training has merely subsidized a competitor. They note that such hiring has been on the rise in recent years.\n\nWhich of the following would, if true, contribute most to defeating the training experts' objection to the firms' strategy?",
+      "options": {
+        "A": "Firms that promise opportunities for advancement to their employees get, on average, somewhat larger numbers of job applications from untrained workers than do firms that make no such promise.",
+        "B": "In many industries, employees who take continuing-education courses are more competitive in the job market.",
+        "C": "More and more educational and training institutions are offering reduced tuition fees to firms that subsidize worker training.",
+        "D": "Research shows that workers whose training is wholly or partially subsidized by their employer tend to get at least as much training as do workers who pay for all their own training.",
+        "E": "For most firms that invest in training their employees, the value added by that investment in employees who stay exceeds the value lost through other employees' leaving to work for other companies."
+      },
+      "correct_answer": "E",
+      "explanation": "الخيار E يدحض اعتراض الخبراء بشكل قوي: إذا كانت قيمة الاستثمار في الموظفين الذين يبقون تفوق الخسارة الناتجة عن انتقال الآخرين إلى منافسين، فإن التدريب يظل مربحاً للشركات رغم خطر فقدان بعض الموظفين."
+    },
+    {
+      "id": 635,
+      "difficulty": "Easy",
+      "question": "In emerging economies in Africa and other regions, large foreign banks that were set up during the colonial era have long played a major economic role. These institutions have tended to confine their business to the wealthier of banks' potential customers. But development of these countries' economies requires financing of the small businesses that dominate their manufacturing, farming, and services sectors. So economic growth will be likely to occur if local banks take on this portion of the financial services markets, since\n\nWhich of the following completions would produce the strongest argument?",
+      "options": {
+        "A": "local banks tend not to strive as much as large foreign banks to diversify their investments",
+        "B": "small farming and manufacturing businesses contribute to economic growth if they obtain adequate investment capital",
+        "C": "large foreign banks in emerging economies could, with local employees and appropriate local consultation, profitably expand their business to less wealthy clients",
+        "D": "some small businesses are among the wealthier customers of foreign banks in emerging economies",
+        "E": "local banks in emerging economies tend to be less risk-averse than foreign banks"
+      },
+      "correct_answer": "B",
+      "explanation": "يكمل الخيار B الحجة بشكل منطقي: إذا ساهمت الشركات الصغيرة في النمو الاقتصادي عندما تحصل على رأس مال استثماري كافٍ، فإن تولي البنوك المحلية تمويل هذه الشركات سيؤدي إلى النمو الاقتصادي."
+    },
+    {
+      "id": 636,
+      "difficulty": "Easy",
+      "question": "Exporters in Country X are facing lower revenues due to a shortage of the large metal shipping containers in which they send their goods by sea to other countries. Fewer containers arrive in Country X due to reductions in imports. This has meant lost orders, costly delays, and a scramble for alternatives, such as air freight, all of which are costlier. Moreover, the revenues of exporters in Country X will probably continue to decline in the near future. This is because other countries are likely to find it increasingly unprofitable to export their goods to Country X, and because\n\nWhich of the following would most logically complete the passage?",
+      "options": {
+        "A": "production of shipping containers in Country X is growing rapidly as a response to the shortage",
+        "B": "shipping companies are willing to move containers from country to country only when the containers are full",
+        "C": "the cost of shipping alternatives such as air freight is likely to stabilize in the near future",
+        "D": "consumers in Country X are purchasing more products than ever before",
+        "E": "the worldwide demand for goods made in Country X has only recently begun to rise after a long decline"
+      },
+      "correct_answer": "B",
+      "explanation": "يكمل الخيار B الحجة: إذا كانت شركات الشحن تنقل الحاويات فقط عندما تكون ممتلئة، فإن انخفاض الواردات إلى البلد X يعني وصول عدد أقل من الحاويات الفارغة إليها، مما يؤدي إلى استمرار النقص وتدهور إيرادات المصدرين."
+    },
+    {
+      "id": 637,
+      "difficulty": "Easy",
+      "question": "Candle Corporation's television stations are likely to have more income from advertisers than previously. This is because advertisers prefer to reach people in the 18- to 49-year-old age group and the number of people in that group watching Candle television is increasing. Furthermore, among Candle viewers, the percentage of viewers 18 to 49 years old is increasing.\n\nWhich of the following, if true, would most strengthen the argument that Candle Corporation will receive more income from advertisers?",
+      "options": {
+        "A": "Advertisers carefully monitor the demographic characteristics of television audiences and purchase advertising time to reach the audiences they prefer to reach.",
+        "B": "Among people over 49 years old, fewer viewers of Candle stations buy products advertised on television than do viewers of other stations.",
+        "C": "There will be increasingly more advertisements on television that are directed at viewers who are over 49 years old.",
+        "D": "Candle stations plan to show reruns of television shows during hours when other stations run shows for the first time.",
+        "E": "People 18 to 49 years old generally have less disposable income to spend than do people over 49 years old."
+      },
+      "correct_answer": "A",
+      "explanation": "الخيار A يقوي الحجة بتأكيد أن المعلنين يهتمون بالفعل بالخصائص الديموغرافية ويشترون وقت الإعلان بناءً على ذلك، مما يعني أن زيادة المشاهدين في الفئة العمرية المستهدفة ستؤدي حتمًا إلى زيادة إيرادات الإعلانات."
+    },
+    {
+      "id": 638,
+      "difficulty": "Easy",
+      "question": "A provincial government plans to raise the gasoline tax to give people an incentive to drive less, reducing traffic congestion in the long term. However, skeptics point out that most people in the province live in areas where cars are the only viable transportation to jobs and stores and therefore cannot greatly change their driving habits in response to higher gasoline prices.\n\nIn light of the skeptics' objection, which of the following, if true, would most logically support the prediction that the government's plan will achieve its goal of reducing traffic congestion?",
+      "options": {
+        "A": "The revenue from the tax will be used to make public transportation a viable means of transportation to jobs and stores for far more people.",
+        "B": "The tax will encourage many residents to switch to more fuel-efficient cars, reducing air pollution and other problems.",
+        "C": "Because gasoline has been underpriced for decades, the province has many neighborhoods where cars are the only viable means of transportation.",
+        "D": "Most residents who cannot greatly change their driving habits could compensate for high gasoline prices by reducing other expenses.",
+        "E": "Traffic congestion is an especially serious problem for people for whom cars are the only viable means of transportation."
+      },
+      "correct_answer": "A",
+      "explanation": "يعالج الخيار A اعتراض المشككين مباشرة: إذا تم استخدام إيرادات الضريبة لجعل وسائل النقل العام خيارًا عمليًا، فسيتمكن الناس من تغيير عادات قيادتهم، مما يحقق هدف تقليل الازدحام."
+    },
+    {
+      "id": 639,
+      "difficulty": "Easy",
+      "question": "Editorial: The roof of Northtown's municipal equipment-storage building collapsed under the weight of last week's heavy snowfall. The building was constructed recently and met local building-safety codes in every particular, except that the nails used for attaching roof supports to the building's columns were of a smaller size than the codes specify for this purpose. Clearly, this collapse exemplifies how even a single, apparently insignificant departure from safety standards can have severe consequences.\n\nWhich of the following, if true, most seriously weakens the editorial's argument?",
+      "options": {
+        "A": "The only other buildings to suffer roof collapses from the weight of the snowfall were older buildings constructed according to less exacting standards than those in the codes.",
+        "B": "The amount of snow that accumulated on the roof of the equipment-storage building was greater than the predicted maximum that was used in drawing up the safety codes.",
+        "C": "Because the equipment-storage building was not intended for human occupation, some safety-code provisions that would have applied to an office building did not apply to it.",
+        "D": "The municipality of Northtown itself has the responsibility for ensuring that buildings constructed within its boundaries meet the provisions of the building-safety codes.",
+        "E": "Because the equipment-storage building was used for storing snow-removal equipment, the building was almost completely empty when the roof collapsed."
+      },
+      "correct_answer": "B",
+      "explanation": "الخيار B يضعف الادعاء بأن الانحراف الصغير هو السبب، مشيرًا إلى أن كمية الثلج كانت أكبر من الحد الأقصى المتوقع في قوانين السلامة، مما يعني أن الانهيار كان سيحدث حتى لو تم استخدام المسامير الصحيحة."
+    },
+    {
+      "id": 640,
+      "difficulty": "Easy",
+      "question": "Political theorist: Even with the best spies, area experts, and satellite surveillance, foreign policy assessments can still lack important information. In such circumstances intuitive judgment is vital. A national leader with such judgment can make good decisions about foreign policy even when current information is incomplete, since ______.\n\nWhich of the following, if true, most logically completes the argument?",
+      "options": {
+        "A": "the central reason for failure in foreign policy decision making is the absence of critical information",
+        "B": "those leaders whose foreign policy decisions have been highly ranked have also been found to have good intuitive judgment",
+        "C": "both intuitive judgment and good information are required for sound decision-making",
+        "D": "good foreign policy decisions often lead to improved methods of gathering information",
+        "E": "intuitive judgment can produce good decisions based on past experience, even when there are important gaps in current information"
+      },
+      "correct_answer": "E",
+      "explanation": "يكمل الخيار E الحجة بتوضيح كيف يعمل الحكم البديهي: يمكن أن ينتج قرارات جيدة بناءً على الخبرة السابقة، حتى في ظل وجود فجوات في المعلومات الحالية، وهو ما يبرر اعتماده."
+    },
+    {
+      "id": 641,
+      "difficulty": "Easy",
+      "question": "Supply shortages and signs of growing demand are driving cocoa prices upward. Unusually severe weather in cocoa-producing regions—too much rain in Brazil and too little in West Africa—has limited production. Further, Europe and North America recently reported stronger demand for cocoa. In the first quarter, grinding of cocoa beans—the first stage in processing cocoa for chocolate—rose 8.1 percent in Europe and 16 percent in North America. Analysts have concluded that cocoa's price will continue to rise at least into the near future.\n\nWhich of the following would, if true, most strengthen the reasoning above?",
+      "options": {
+        "A": "Ground cocoa beans can be stored for long periods before they spoil.",
+        "B": "Several European and North American manufacturers that use cocoa have recently improved their processing capacity.",
+        "C": "It takes new cocoa trees five or six years before they start bearing fruit.",
+        "D": "Governments in Europe and North America are likely to change current restrictions on cocoa imports.",
+        "E": "Historically, cocoa production has varied widely from year to year."
+      },
+      "correct_answer": "C",
+      "explanation": "الخيار C يقوي توقع استمرار ارتفاع الأسعار: إذا كانت أشجار الكاكاو الجديدة تحتاج إلى 5-6 سنوات لإنتاج الثمار، فإن زيادة الإنتاج لتلبية الطلب لن تكون ممكنة في المدى القريب، مما يدعم استمرار ارتفاع الأسعار."
+    },
+    {
+      "id": 642,
+      "difficulty": "Easy",
+      "question": "During the earliest period of industrialization in Britain, steam engines were more expensive to build and operate than either windmills or water mills, the other practicable sources of power for factories. Yet despite their significant cost disadvantage, steam-powered factories were built in large numbers well before technical improvements brought their cost down. Furthermore, they were built even in regions where geographical conditions permitted the construction of wind- and water-powered factories close to major markets.\n\nWhich of the following, if true, most helps to explain the proliferation of steam-powered factories during the earliest period of industrialization in Britain?",
+      "options": {
+        "A": "In many areas of Britain, there were fewer steam-powered factories than wind- or water-powered factories in the earliest period of industrialization.",
+        "B": "Unlike wind- or water-powered factories, steam-powered factories were fueled with coal, which sometimes had to be transported significant distances from the mine to the site of the factory.",
+        "C": "It was both difficult and expensive to convert a factory from wind power or water power to steam power.",
+        "D": "Steam engines could be built in a wide range of sizes to meet different power needs.",
+        "E": "Windmills and water mills generally had to be located in rural areas, whereas steam engines could be located in urban centers close to markets and labor."
+      },
+      "correct_answer": "E",
+      "explanation": "يفسر الخيار E الانتشار الكبير للمصانع البخارية: بينما كانت طواحين الهواء والماء تحتاج إلى مواقع ريفية محددة، يمكن وضع المحركات البخارية في المراكز الحضرية القريبة من الأسواق والعمالة، مما يوفر ميزة تنافسية تعوض التكلفة الأعلى."
+    },
+    {
+      "id": 643,
+      "difficulty": "Easy",
+      "question": "Snowmaking machines work by spraying a mist that freezes immediately on contact with cold air. Because the sudden freezing kills bacteria, QuickFreeze is planning to market a wastewater purification system that works on the same principle. The process works only when temperatures are cold, however, so municipalities using it will still need to maintain a conventional system.\n\nWhich of the following, if true, provides the strongest grounds for a prediction that municipalities will buy QuickFreeze's purification system despite the need to maintain a conventional purification system as well?",
+      "options": {
+        "A": "Bacteria are not the only impurities that must be removed from wastewater.",
+        "B": "Many municipalities have old wastewater purification systems that need to be replaced.",
+        "C": "Conventional wastewater purification systems have not been fully successful in killing bacteria at cold temperatures.",
+        "D": "During times of warm weather, when it is not in use, QuickFreeze's purification system requires relatively little maintenance.",
+        "E": "Places where the winters are cold rarely have a problem of water shortage."
+      },
+      "correct_answer": "C",
+      "explanation": "الخيار C يوفر سببًا مقنعًا للشراء: إذا كانت الأنظمة التقليدية غير ناجحة في قتل البكتيريا في درجات الحرارة الباردة، فإن نظام QuickFreeze سيكون مفيدًا بشكل خاص في الشتاء، مما يبرر شراءه كإضافة للنظام التقليدي."
+    },
+    {
+      "id": 644,
+      "difficulty": "Easy",
+      "question": "Plant scientists have used genetic engineering on seeds to produce crop plants that are highly resistant to insect damage. Unfortunately, the seeds themselves are quite expensive, and the plants require more fertilizer and water to grow well than normal ones. Accordingly, for most farmers the savings on pesticides would not compensate for the higher seed costs and the cost of additional fertilizer. However, since consumer demand for grains, fruits, and vegetables grown without the use of pesticides continues to rise, the use of genetically engineered seeds of this kind is likely to become widespread.\n\nIn the argument given, the two portions in boldface play which of the following roles?",
+      "options": {
+        "A": "The first supplies a context for the argument; the second is the argument's main conclusion.",
+        "B": "The first introduces a development that the argument predicts will have a certain outcome; the second is a state of affairs that, according to the argument, contributes to bringing about that outcome.",
+        "C": "The first presents a development that the argument predicts will have a certain outcome; the second acknowledges a consideration that tends to weigh against that prediction.",
+        "D": "The first provides evidence to support a prediction that the argument seeks to defend; the second is that prediction.",
+        "E": "The first and the second each provide evidence to support the argument's main conclusion."
+      },
+      "correct_answer": "C",
+      "explanation": "الجزء الأول (الطلب المتزايد على المنتجات الخالية من المبيدات) يمثل تطورًا يتوقع أن يؤدي إلى انتشار البذور المعدلة وراثيًا. الجزء الثاني (ارتفاع تكاليف البذور والأسمدة) يعتبر اعتبارًا يضعف هذا التوقع، لكنه لا يمنعه بسبب الطلب الاستهلاكي."
+    },
+    {
+      "id": 645,
+      "difficulty": "Easy",
+      "question": "Which of the following most logically completes the passage?\n\nLeptin, a protein occurring naturally in the blood, appears to regulate how much fat the body carries by speeding up the metabolism and decreasing the appetite when the body has too much fat. Mice that do not naturally produce leptin have more fat than other mice, but they lose fat rapidly when they are given leptin injections. Unfortunately, however, leptin cannot be used as a dietary supplement to control fat, since",
+      "options": {
+        "A": "the digestive system breaks down proteins before they can enter the bloodstream",
+        "B": "there are pharmaceuticals already available that can contribute to weight loss by speeding up the metabolism",
+        "C": "people with unusually low levels of leptin in their blood tend to have a high percentage of body fat",
+        "D": "the mice that do not naturally produce leptin were from a specially bred strain of mice",
+        "E": "mice whose bodies did produce leptin also lost some of their body fat when given leptin injections"
+      },
+      "correct_answer": "A",
+      "explanation": "يكمل الخيار A الجملة منطقيًا: الليبتين هو بروتين، والجهاز الهضمي يكسر البروتينات قبل دخولها إلى مجرى الدم، لذا لا يمكن تناوله كمكمل غذائي عن طريق الفم."
+    },
+    {
+      "id": 646,
+      "difficulty": "Easy",
+      "question": "Suncorp, a new corporation with limited funds, has been clearing large sections of the tropical Amazon forest for cattle ranching. This practice continues even though greater profits can be made from rubber tapping, which does not destroy the forest, than from cattle ranching, which does destroy the forest.\n\nWhich of the following, if true, most helps to explain why Suncorp has been pursuing the less profitable of the two economic activities mentioned above?",
+      "options": {
+        "A": "The soil of the Amazon forest is very rich in nutrients that are important in the development of grazing lands.",
+        "B": "Cattle-ranching operations that are located in tropical climates are more profitable than cattle-ranching operations that are located in cold-weather climates.",
+        "C": "In certain districts, profits made from cattle ranching are more heavily taxed than profits made from any other industry.",
+        "D": "Some of the cattle that are raised on land cleared in the Amazon are killed by wildcats.",
+        "E": "The amount of money required to begin a rubber-tapping operation is twice as high as the amount needed to begin a cattle ranch."
+      },
+      "correct_answer": "E",
+      "explanation": "يفسر الخيار E سلوك Suncorp: رغم أن استخراج المطاط أكثر ربحية، إلا أنه يتطلب رأس مال ابتدائيًا أعلى بكثير. وبما أن Suncorp شركة جديدة ذات أموال محدودة، فإن تربية الماشية هي الخيار العملي الوحيد المتاح."
+    },
+    {
+      "id": 647,
+      "difficulty": "Easy",
+      "question": "Archaeologists use technology to analyze ancient sites. It is likely that this technology will advance considerably in the near future, allowing archaeologists to gather more information than is currently possible. If they study certain sites now, they risk contaminating or compromising them for future studies. Therefore, in order to maximize the potential for gathering knowledge in the long run, a team of archaeologists plans to delay the examination of a newly excavated site.\n\nWhich of the following would be most useful to investigate for the purpose of evaluating the plan's prospects for achieving its goal?",
+      "options": {
+        "A": "Whether any of the contents of the site will significantly deteriorate before the anticipated technology is available",
+        "B": "Whether there will continue to be improvements on the relevant technology",
+        "C": "Whether the team can study a site other than the newly excavated site for the time being",
+        "D": "Whether the site was inhabited by a very ancient culture",
+        "E": "Whether the anticipated technology will damage objects under study"
+      },
+      "correct_answer": "A",
+      "explanation": "لتقييم الخطة، من الأهمية معرفة ما إذا كانت محتويات الموقع ستتدهور قبل توفر التكنولوجيا الجديدة. إذا كان التدهور وشيكًا، فإن التأخير سيؤدي إلى فقدان المعلومات بدلاً من تعظيمها."
+    },
+    {
+      "id": 648,
+      "difficulty": "Easy",
+      "question": "More and more law firms specializing in corporate taxes are paid on a contingency-fee basis. Under this arrangement, if a case is won, the firm usually receives more than it would have received if it had been paid on the alternate hourly rate basis. If the case is lost, the firm receives nothing. Most firms are likely to make more under the contingency-fee arrangement.\n\nWhich of the following, if true, would most strengthen the prediction above?",
+      "options": {
+        "A": "Firms that work exclusively under the hourly rate arrangement spend, on average, fewer hours on cases that are won than on cases that are lost.",
+        "B": "Some litigation can last for years before any decision is reached, and, even then, the decision may be appealed.",
+        "C": "Firms under the contingency-fee arrangement still pay their employees on an hourly basis.",
+        "D": "Since the majority of firms specialize in certain kinds of cases, they are able to assess accurately their chances of winning each potential case.",
+        "E": "Firms working under the contingency-fee arrangement take in fewer cases per year than do firms working under the hourly rate arrangement."
+      },
+      "correct_answer": "D",
+      "explanation": "الخيار D يقوي التوقع بأن معظم الشركات ستربح أكثر: إذا كانت الشركات تستطيع تقييم فرص الفوز بدقة، فستختار القضايا التي من المرجح أن تربحها، مما يزيد من احتمالية تحقيق أرباح أعلى من نظام الرسوم المشروطة."
+    },
+    {
+      "id": 649,
+      "difficulty": "Easy",
+      "question": "Pretzel vendor: The new license fee for operating a pretzel stand outside the art museum is prohibitively expensive. Charging typical prices, I would need to sell an average of 25 pretzels per hour to break even. At my stand outside City Hall, with about as many passers-by as at the art museum, I average only 15 per hour. So I could not break even running a stand outside the art museum, much less turn a profit.\n\nWhich of the following, if true, most seriously weakens the pretzel vendor's argument?",
+      "options": {
+        "A": "The pretzel vendor does not sell anything other than pretzels.",
+        "B": "People who visit the art museum are more likely to buy pretzels than are people who go to City Hall.",
+        "C": "The license fee for operating a pretzel stand outside City Hall will not increase.",
+        "D": "People who buy pretzels at pretzel stands are more likely to do so during the lunch hour than at other times.",
+        "E": "The city will grant more licenses for pretzel stands outside the art museum than the number it grants for stands outside City Hall."
+      },
+      "correct_answer": "B",
+      "explanation": "الخيار B يضعف الحجة: إذا كان زوار المتحف أكثر ميلاً لشراء الكعك من زوار مبنى البلدية، فقد يبيع البائع أكثر من 15 كعكة في الساعة رغم تساوي عدد المارة، مما قد يسمح له بتحقيق التعادل."
+    },
+    {
+      "id": 650,
+      "difficulty": "Easy",
+      "question": "Beginning in 1966, all new cars sold in Morodia were required to have safety belts and power steering. Previously, most cars in Morodia were without these features. Safety belts help to prevent injuries in collisions, and power steering helps to avoid collisions in the first place. But even though in 1966 one-seventh of the cars in Morodia were replaced with new cars, the number of car collisions and collision-related injuries did not decline.\n\nWhich of the following, if true about Morodia, most helps to explain why the number of collisions and collision-related injuries in Morodia failed to decline in 1966?",
+      "options": {
+        "A": "Because of a driver-education campaign, most drivers and passengers in cars that did have safety belts used them in 1966.",
+        "B": "Most of the new cars bought in 1966 were bought in the months of January and February.",
+        "C": "In 1965, substantially more than one-seventh of the cars in Morodia were replaced with new cars.",
+        "D": "An excessive reliance on the new safety features led many owners of new cars to drive less cautiously in 1966 than before.",
+        "E": "The seat belts and power steering put into new cars sold in 1966 had to undergo strict quality-control inspections by manufacturers, whether the cars were manufactured in Morodia or not."
+      },
+      "correct_answer": "D",
+      "explanation": "يفسر الخيار D المفارقة: الاعتماد المفرط على ميزات الأمان الجديدة جعل سائقي السيارات الجديدة يقودون بحذر أقل، مما عوض أي فوائد محتملة من تقليل الحوادث والإصابات."
+    },
+    {
+      "id": 651,
+      "difficulty": "Easy",
+      "question": "Manufacturers of mechanical pencils make most of their profit on pencil leads rather than on the pencils themselves. The Write Company, which cannot sell its leads as cheaply as other manufacturers can, plans to alter the design of its mechanical pencil so that it will accept only a newly designed Write Company lead, which will be sold at the same price as the Write Company's current lead.\n\nWhich of the following, if true, most strongly supports the Write Company's projection that its plan will lead to an increase in its sales of pencil leads?",
+      "options": {
+        "A": "The new Write Company pencil will be introduced at a price higher than the price the Write Company charges for its current model.",
+        "B": "In the foreseeable future, manufacturers of mechanical pencils will probably have to raise the prices they charge for mechanical pencils.",
+        "C": "The newly designed Write Company lead will cost somewhat more to manufacture than the Write Company's current lead does.",
+        "D": "A rival manufacturer recently announced similar plans to introduce a mechanical pencil that would accept only the leads produced by that manufacturer.",
+        "E": "In extensive test marketing, mechanical-pencil users found the new Write Company pencil markedly superior to other mechanical pencils they had used."
+      },
+      "correct_answer": "E",
+      "explanation": "الخيار E يدعم الخطة: إذا وجد المستخدمون القلم الجديد متفوقًا بشكل ملحوظ على الأقلام الأخرى، فسيرغبون في شرائه، وبما أنه يقبل فقط رصاص Write Company الجديد، فإن مبيعات الرصاص ستزداد."
+    },
+    {
+      "id": 652,
+      "difficulty": "Easy",
+      "question": "Enterprise Bank currently requires customers with checking accounts to maintain a minimum balance or pay a monthly fee. Enterprise plans to offer accounts with no monthly fee and no minimum-balance requirement; to cover their projected administrative costs of $3 per account per month, they plan to charge $30 for overdrawing an account. Since each month on average slightly more than 10 percent of Enterprise's customers overdraw their accounts, bank officials predict the new accounts will generate a profit.\n\nWhich of the following, if true, most strongly supports the bank officials' prediction?",
+      "options": {
+        "A": "Some of Enterprise Bank's current checking account customers are expected to switch to the new accounts once they are offered.",
+        "B": "One-third of Enterprise Bank's revenues are currently derived from monthly fees tied to checking accounts.",
+        "C": "Many checking account customers who occasionally pay a fee for not maintaining a minimum balance in their account generally maintain a balance well above the minimum.",
+        "D": "Customers whose checking accounts do not have a minimum-balance requirement are more likely than others to overdraw their checking accounts.",
+        "E": "Customers whose checking accounts do not have a minimum-balance requirement are more likely than others to write checks for small amounts."
+      },
+      "correct_answer": "D",
+      "explanation": "الخيار D يدعم توقع البنك: إذا كان العملاء الذين ليس لديهم حد أدنى للرصيد أكثر عرضة للسحب على المكشوف، فإن نسبة الـ 10% المذكورة ستكون أعلى في الواقع، مما يزيد إيرادات رسوم السحب على المكشوف ويضمن الربحية."
+    },
+    {
+      "id": 653,
+      "difficulty": "Easy",
+      "question": "Highway official: When resurfacing our concrete bridges, we should use electrically conductive concrete (ECC) rather than standard concrete. In the winter, ECC can be heated by passing an electric current through it, thereby preventing ice buildup. The cost of the electricity needed is substantially lower than the cost of the deicing salt we currently use.\n\nTaxpayer: But ECC is vastly more expensive than standard concrete, so your proposal is probably not justifiable on economic grounds.\n\nWhich of the following, if true, could best be used by the highway official to support the official's proposal in the face of the taxpayer's objection?",
+      "options": {
+        "A": "The use of deicing salt causes corrosion of reinforcing steel in concrete bridge decks and damage to the concrete itself, thereby considerably shortening the useful life of concrete bridges.",
+        "B": "Severe icing conditions can cause power outages and slow down the work of emergency crews trying to get power restored.",
+        "C": "In weather conditions conducive to icing, ice generally forms on the concrete surfaces of bridges well before it forms on parts of the roadway that go over solid ground.",
+        "D": "Aside from its potential use for deicing bridges, ECC might also be an effective means of keeping other concrete structures such as parking garages and airport runways ice free.",
+        "E": "If ECC were to be used for a bridge surface, the electric current would be turned on only at times at which ice was likely to form."
+      },
+      "correct_answer": "A",
+      "explanation": "يدعم الخيار A الاقتراح في مواجهة اعتراض دافع الضرائب: إضافة إلى توفير تكلفة الملح، فإن استخدام ECC يمنع تآكل الفولاذ والخرسانة الناتج عن الملح، مما يطيل عمر الجسور ويوفر تكاليف صيانة واستبدال كبيرة، مما يجعل الاقتراح مبررًا اقتصاديًا على المدى الطويل."
+    },
+    {
+      "id": 654,
+      "difficulty": "Easy",
+      "question": "In virtually any industry, technological improvements increase labor productivity, which is the output of goods and services per person-hour worked. In Parland's industries, labor productivity is significantly higher than it is in Vergia's industries. Clearly, therefore, Parland's industries must, on the whole, be further advanced technologically than Vergia's are.\n\nThe argument is most vulnerable to which of the following criticisms?",
+      "options": {
+        "A": "It offers a conclusion that is no more than a paraphrase of one of the pieces of information provided in its support.",
+        "B": "It presents as evidence in support of a claim information that is inconsistent with other evidence presented in support of the same claim.",
+        "C": "It takes one possible cause of a condition to be the actual cause of that condition without considering any other possible causes.",
+        "D": "It takes a condition to be the effect of something that happened only after the condition already existed.",
+        "E": "It makes a distinction that presupposes the truth of the conclusion that is to be established."
+      },
+      "correct_answer": "C",
+      "explanation": "الحجة تفترض أن التقدم التكنولوجي هو السبب الوحيد لارتفاع إنتاجية العمل، بينما قد تكون هناك أسباب أخرى (مثل تعليم أفضل، أو موارد طبيعية، أو تنظيم عمل مختلف). هذا هو النقد الأكثر دقة."
+    },
+    {
+      "id": 655,
+      "difficulty": "Easy",
+      "question": "Chaco Canyon, a settlement of the ancient Anasazi culture in North America, had massive buildings. It must have been a major Anasazi center. Analysis of wood samples shows that some of the timber for the buildings came from the Chuska and San Mateo mountains, 50 miles from Chaco Canyon. Only a major cultural center would have the organizational power to import timber from 50 miles away.\n\nIn the argument given, the two portions in boldface play which of the following roles?",
+      "options": {
+        "A": "The first is a premise used to support the argument's main conclusion; the second is the argument's main conclusion.",
+        "B": "The first is the argument's main conclusion; the second is a premise used to support that conclusion.",
+        "C": "The first is one of two premises used to support the argument's main conclusion; the second is the other of those two premises.",
+        "D": "The first is a premise used to support the argument's main conclusion; the second is a premise used to support another conclusion drawn in the argument.",
+        "E": "The first is inferred from another statement in the argument; the second is inferred from the first."
+      },
+      "correct_answer": "B",
+      "explanation": "الجزء الأول ('لا بد أنه كان مركزًا رئيسيًا لثقافة الأناسازي') هو الاستنتاج الرئيسي للحجة. الجزء الثاني ('فقط مركز ثقافي رئيسي يمكنه امتلاك القوة التنظيمية لاستيراد الأخشاب') هو مقدمة تستخدم لدعم هذا الاستنتاج."
+    },
+    {
+      "id": 656,
+      "difficulty": "Easy",
+      "question": "The Maxilux car company's design for its new luxury model, the Max 100, included a special design for the tires that was intended to complement the model's image. The winning bid for supplying these tires was submitted by Rubco. Analysts concluded that the bid would only just cover Rubco's costs on the tires, but Rubco executives claim that winning the bid will actually make a profit for the company.\n\nWhich of the following, if true, most strongly justifies the claim made by Rubco's executives?",
+      "options": {
+        "A": "In any Maxilux model, the spare tire is exactly the same make and model as the tires that are mounted on the wheels.",
+        "B": "Rubco holds exclusive contracts to supply Maxilux with the tires for a number of other models made by Maxilux.",
+        "C": "The production facilities for the Max 100 and those for the tires to be supplied by Rubco are located very near each other.",
+        "D": "When people who have purchased a carefully designed luxury automobile need to replace a worn part of it, they almost invariably replace it with a part of exactly the same make and type.",
+        "E": "When Maxilux awarded the tire contract to Rubco, the only criterion on which Rubco's bid was clearly ahead of its competitors' bids was price."
+      },
+      "correct_answer": "D",
+      "explanation": "يبرر الخيار D ادعاء Rubco: إذا كان مالكو السيارات الفاخرة يستبدلون الأجزاء البالية دائمًا بنفس النوع، فإن Rubco سيحقق أرباحًا كبيرة من بيع إطارات الاستبدال لعملاء Max 100، مما يعوض التكلفة المنخفضة للعرض الأولي."
+    },
+    {
+      "id": 657,
+      "difficulty": "Easy",
+      "question": "Which of the following most logically completes the passage?\n\nMost bicycle helmets provide good protection for the top and back of the head but little or no protection for the temple regions on the sides of the head. A study of head injuries resulting from bicycle accidents showed that a large proportion were caused by blows to the temple area. Therefore, if bicycle helmets protected this area, the risk of serious head injury in bicycle accidents would be greatly reduced, especially since",
+      "options": {
+        "A": "among the bicyclists included in the study's sample of head injuries, only a very small proportion had been wearing a helmet at the time of their accident",
+        "B": "even those bicyclists who regularly wear helmets have a poor understanding of the degree and kind of protection that helmets afford",
+        "C": "a helmet that included protection for the temples would have to be somewhat larger and heavier than current helmets",
+        "D": "the bone in the temple area is relatively thin and impacts in that area are thus very likely to cause brain injury",
+        "E": "bicyclists generally land on their arm or shoulder when they fall to the side, which reduces the likelihood of severe impacts on the side of the head"
+      },
+      "correct_answer": "D",
+      "explanation": "يكمل الخيار D الحجة: نظرًا لأن عظم الصدغ رقيق نسبيًا والضربات فيه تسبب إصابات دماغية بسهولة، فإن حماية هذه المنطقة ستقلل بشكل كبير من خطر الإصابات الخطيرة، وهو ما يدعم ضرورة التصميم الجديد."
+    },
+    {
+      "id": 658,
+      "difficulty": "Easy",
+      "question": "Which of the following most logically completes the argument?\n\nIn a typical year, Innovair's airplanes are involved in 35 collisions while parked or being towed in airports, with a resulting yearly cost of $1,000,000 for repairs. To reduce the frequency of ground collisions, Innovair will begin giving its ground crews additional training, at an annual cost of $500,000. Although this will cut the number of ground collisions by about half at best, the drop in repair costs can be expected to be much greater, since",
+      "options": {
+        "A": "most ground collisions happen when ground crews are rushing to minimize the time a delayed airplane spends on the ground",
+        "B": "a ground collision typically occurs when there are no passengers on the airplane",
+        "C": "the additional training will focus on helping ground crews avoid those kinds of ground collisions that cause the most costly damage",
+        "D": "the cost of training ground crews has decreased in recent years",
+        "E": "Innovair's ground crews currently have less training than do the ground crews of most other airlines"
+      },
+      "correct_answer": "C",
+      "explanation": "يكمل الخيار C الحجة: إذا ركز التدريب الإضافي على تجنب الحوادث التي تسبب أكبر ضرر، فحتى لو انخفض عدد الحوادث بنسبة 50% فقط، فإن تكلفة الإصلاحات قد تنخفض بشكل أكبر بكثير لأن الحوادث المتبقية ستكون أقل تكلفة."
+    },
+    {
+      "id": 659,
+      "difficulty": "Easy",
+      "question": "Many agriculturally intensive areas of the world are beginning to encounter water scarcity problems. As a result, many farmers in these areas are likely to reduce their output as the water supply they need in order to maintain production shrinks. However, one group of farmers in such a region plans to increase their production by implementing techniques for water conservation.\n\nWhich of the following, if true, would most strongly support the prediction that the group's plan will succeed?",
+      "options": {
+        "A": "Farmers that can gain a larger share of the food market in their regions will be better positioned to control more water resources.",
+        "B": "Most agricultural practices in areas with water shortages are water-intensive.",
+        "C": "Other regions of the world not facing water shortages are likely to make up for the reduction in agricultural output.",
+        "D": "Demand for agricultural products in the group's region is not expected to decline.",
+        "E": "More than half the water used for agriculture in the farmers' region is lost to evaporation or leakage from irrigation channels."
+      },
+      "correct_answer": "E",
+      "explanation": "يدعم الخيار E خطة المزارعين: إذا كان أكثر من نصف المياه المستخدمة في الزراعة تُفقد بسبب التبخر أو التسرب، فإن تطبيق تقنيات الحفاظ على المياه سيوفر كمية كبيرة من المياه، مما يسمح بزيادة الإنتاج رغم ندرة المياه."
+    },
+    {
+      "id": 660,
+      "difficulty": "Easy",
+      "question": "Hollywood restaurant is replacing some of its standard tables with tall tables and stools. The restaurant already fills every available seat during its operating hours, and the change in seating arrangements will not result in an increase in the restaurant's seating capacity. Nonetheless, the restaurant's management expects revenue to increase as a result of the seating change without any concurrent change in menu, prices, or operating hours.\n\nWhich of the following, if true, provides the best reason for the expectation?",
+      "options": {
+        "A": "One of the taller tables takes up less floor space than one of the standard tables.",
+        "B": "Diners seated on stools typically do not linger over dinner as long as diners seated at standard tables.",
+        "C": "Since the restaurant will replace only some of its standard tables, it can continue to accommodate customers who do not care for the taller tables.",
+        "D": "Few diners are likely to avoid the restaurant because of the new seating arrangement.",
+        "E": "The standard tables being replaced by tall tables would otherwise have to be replaced with new standard tables at a greater expense."
+      },
+      "correct_answer": "B",
+      "explanation": "يفسر الخيار B توقع زيادة الإيرادات: إذا كان رواد المطعم على الكراسي المرتفعة لا يطيلون الجلوس بقدر رواد الطاولات العادية، فإن معدل دوران الطاولات سيزداد، مما يسمح باستقبال المزيد من العملاء في نفس ساعات العمل وزيادة الإيرادات."
+    },
+    {
+      "id": 661,
+      "difficulty": "Easy",
+      "question": "A major network news organization experienced a drop in viewership in the week following the airing of a controversial report on the economy. The network also received a very large number of complaints regarding the report. The network, however, maintains that negative reactions to the report had nothing to do with its loss of viewers.\n\nWhich of the following, if true, most strongly supports the network's position?",
+      "options": {
+        "A": "The other major network news organizations reported similar reductions in viewership during the same week.",
+        "B": "The viewers who registered complaints with the network were regular viewers of the news organization's programs.",
+        "C": "Major network news organizations publicly attribute drops in viewership to their own reports only when they receive complaints about those reports.",
+        "D": "The controversial report was about the economy, and the economy is an issue of widespread concern.",
+        "E": "Following the airing of the report, the network received a large number of phone calls from people who agreed with the report."
+      },
+      "correct_answer": "A",
+      "explanation": "يدعم الخيار A موقف الشبكة: إذا عانت شبكات أخرى من انخفاض مماثل في المشاهدة خلال نفس الأسبوع، فهذا يشير إلى أن الانخفاض كان بسبب عوامل خارجية (مثل حدث إخباري آخر) وليس بسبب التقرير المثير للجدل."
+    },
+    {
+      "id": 662,
+      "difficulty": "Easy",
+      "question": "Only a reduction of 10 percent in the number of scheduled flights using Greentown's airport will allow the delays that are so common there to be avoided. Hevelia airstrip, 40 miles away, would, if upgraded and expanded, be an attractive alternative for fully 20 percent of the passengers using Greentown airport. Nevertheless, experts reject the claim that turning Hevelia into a full-service airport would end the chronic delays at Greentown.\n\nWhich of the following, if true, most helps to justify the experts' position?",
+      "options": {
+        "A": "Turning Hevelia into a full-service airport would require not only substantial construction at the airport itself but also the construction of new access highways.",
+        "B": "A second largely undeveloped airstrip close to Greentown airport would be a more attractive alternative than Hevelia for many passengers who now use Greentown.",
+        "C": "Hevelia airstrip lies in a relatively undeveloped area but would, if it became a full-service airport, be a magnet for commercial and residential development.",
+        "D": "If an airplane has to wait to land, the extra jet fuel required adds significantly to the airline's costs.",
+        "E": "Several airlines use Greentown as a regional hub, so that most flights landing at Greentown have many passengers who then take different flights to reach their final destinations."
+      },
+      "correct_answer": "E",
+      "explanation": "يبرر الخيار E موقف الخبراء: إذا كان معظم الركاب في Greentown هم ركاب ترانزيت (واصلون إلى وجهات أخرى)، فإن تحويل 20% من الركاب إلى Hevelia لا يقلل عدد الرحلات الجوية بنسبة 10% المطلوبة، لأن الرحلات الجوية نفسها ستستمر في الهبوط في Greentown لنقل بقية الركاب."
+    },
+    {
+      "id": 663,
+      "difficulty": "Easy",
+      "question": "Farmer: Worldwide, just three grain crops—rice, wheat, and corn—account for most human caloric intake. To maintain this level of caloric intake and also keep pace with global population growth, yields per acre from each of these crops will have to increase at least 1.5 percent every year, given that the supply of cultivated land is diminishing. Therefore, the government should increase funding for research into new ways to improve yields.\n\nWhich of the following is an assumption on which the farmer's argument depends?",
+      "options": {
+        "A": "It is solely the government's responsibility to ensure that the amount of rice, wheat, and corn produced worldwide keeps pace with global population growth.",
+        "B": "Increasing government funding for research into new ways to improve the yields per acre of rice, wheat, and corn crops would help to increase total worldwide annual production of food from these crops.",
+        "C": "Increasing the yields per acre of rice, wheat, and corn is more important than increasing the yields per acre of other crops.",
+        "D": "Current levels of funding for research into ways of improving grain crop yields per acre have enabled grain crop yields per acre to increase by more than 1.5 percent per year worldwide.",
+        "E": "In coming decades, rice, wheat, and corn will become a minor part of human caloric intake, unless there is government-funded research to increase their yields per acre."
+      },
+      "correct_answer": "B",
+      "explanation": "تفترض الحجة أن زيادة تمويل الأبحاث ستؤدي بالفعل إلى تحسين الغلة. بدون هذا الافتراض، لا يوجد سبب لربط زيادة التمويل بتحقيق الهدف المنشود."
+    },
+    {
+      "id": 664,
+      "difficulty": "Easy",
+      "question": "The air quality board recently informed Coffee Roast, a small coffee roasting firm, of a complaint regarding the smoke from its roaster. Recently enacted air quality regulations require machines roasting more than 10 pounds of coffee to be equipped with expensive smoke-dissipating afterburners. The firm, however, roasts only 8 pounds of coffee at a time. Nevertheless, the company has decided to purchase and install an afterburner.\n\nWhich of the following, if true, most strongly supports the firm's decision?",
+      "options": {
+        "A": "Until settling on the new air quality regulations, the board had debated whether to require afterburners for machines roasting more than 5 pounds of coffee at a time.",
+        "B": "Coffee roasted in a machine equipped with an afterburner has its flavor subtly altered.",
+        "C": "The cost to the firm of an afterburner is less than the cost of replacing its roaster with a smaller one.",
+        "D": "Fewer complaints are reported in areas that maintain strict rules regarding afterburners.",
+        "E": "The firm has reason to fear that negative publicity regarding the complaints could result in lost sales."
+      },
+      "correct_answer": "E",
+      "explanation": "يدعم الخيار E قرار الشركة: إذا كانت الدعاية السلبية بسبب الشكاوى قد تؤدي إلى خسارة المبيعات، فإن تركيب المحرق سيمنع هذه الدعاية السلبية ويحمي الإيرادات، مما يبرر الاستثمار."
+    },
+    {
+      "id": 665,
+      "difficulty": "Easy",
+      "question": "People who do regular volunteer work tend to live longer, on average, than people who do not. It has been found that \"doing good,\" a category that certainly includes volunteer work, releases endorphins, the brain's natural opiates, which induce in people a feeling of wellbeing. Clearly, there is a connection: regular releases of endorphins must in some way help to extend people's lives.\n\nWhich of the following, if true, most seriously undermines the force of the evidence given as support for the hypothesis that endorphins promote longevity?",
+      "options": {
+        "A": "People who do regular volunteer work are only somewhat more likely than others to characterize the work they do for a living as \"doing good.\"",
+        "B": "Although extremely high levels of endorphins could be harmful to health, such levels are never reached as a result of the natural release of endorphins.",
+        "C": "There are many people who have done some volunteer work but who do not do such work regularly.",
+        "D": "People tend not to become involved in regular volunteer work unless they are healthy and energetic to begin with.",
+        "E": "Releases of endorphins are responsible for the sense of well-being experienced by many long-distance runners while running."
+      },
+      "correct_answer": "D",
+      "explanation": "الخيار D يقوض الفرضية بشكل كبير: إذا كان الأشخاص الأصحاء والنشطاء هم فقط من يتطوعون بانتظام، فإن طول العمر قد يكون بسبب الصحة الجيدة مسبقًا وليس بسبب إفراز الإندورفين. هذا يقلب اتجاه السببية."
+    },
+    {
+      "id": 666,
+      "difficulty": "Easy",
+      "question": "A study compared a sample of Swedish people older than 75 who needed in-home assistance with a similar sample of Israeli people. The people in the two samples received both informal assistance, provided by family and friends, and formal assistance, professionally provided. Although Sweden and Israel have equally well-funded and comprehensive systems for providing formal assistance, the study found that the people in the Swedish sample received more formal assistance, on average, than those in the Israeli sample.\n\nWhich of the following, if true, does most to explain the difference that the study found?",
+      "options": {
+        "A": "A companion study found that among children needing special in-home care, the amount of formal assistance they received was roughly the same in Sweden as in Israel.",
+        "B": "More Swedish than Israeli people older than 75 live in rural areas where formal assistance services are sparse or nonexistent.",
+        "C": "Although in both Sweden and Israel much of the funding for formal assistance ultimately comes from the central government, the local structures through which assistance is delivered are different in the two countries.",
+        "D": "In recent decades, the increase in life expectancy of someone who is 75 years old has been greater in Israel than in Sweden.",
+        "E": "In Sweden, informal assistance from family and friends tends to be less available because Swedes of that age are more likely than Israelis to live alone or far from their families."
+      },
+      "correct_answer": "E",
+      "explanation": "يفسر الخيار E الفرق: في السويد، يكون الدعم غير الرسمي من العائلة والأصدقاء أقل توفرًا (لأن كبار السن يعيشون بمفردهم أو بعيدًا عن العائلة)، لذا يعتمدون أكثر على المساعدة الرسمية مقارنة بإسرائيل."
+    },
+    {
+      "id": 667,
+      "difficulty": "Easy",
+      "question": "Film director: It is true that certain characters and plot twists in my newly released film The Big Heist are similar to characters and plot twists in Thieves, a movie that came out last year. Pointing to these similarities, the film studio that produced Thieves is now accusing me of taking ideas from that film. The accusation is clearly without merit. All production work on The Big Heist was actually completed months before Thieves was released.\n\nWhich of the following, if true, provides the strongest support for the director's position?",
+      "options": {
+        "A": "Before Thieves began production, its script had been circulating for several years among various film studios, including the studio that produced The Big Heist.",
+        "B": "The characters and plot twists that are most similar in the two films have close parallels in many earlier films of the same genre.",
+        "C": "The film studio that produced Thieves seldom produces films in this genre.",
+        "D": "The director of Thieves worked with the director of The Big Heist on several earlier projects.",
+        "E": "Production work on Thieves began before production work on The Big Heist was started."
+      },
+      "correct_answer": "B",
+      "explanation": "يدعم الخيار B موقف المخرج: إذا كانت أوجه التشابه موجودة بالفعل في العديد من الأفلام السابقة من نفس النوع، فهذا يعني أن التشابه ليس دليلاً على السرقة الأدبية، بل هو مجرد اتفاق ضمن التقاليد السينمائية."
+    },
+    {
+      "id": 668,
+      "difficulty": "Easy",
+      "question": "In Mernia, commercial fossil hunters often sell important fossils they have found, not to universities or museums but to individual collectors, who pay much better but generally do not allow researchers access to their collections. To increase the number of fossils available for research, some legislators propose requiring all fossils that are found in Mernia to be sold only to universities or museums.\n\nWhich of the following, if true, most strongly indicates that the legislators' proposal will fail to achieve its goal?",
+      "options": {
+        "A": "Some fossil hunters in Mernia are not commercial fossil hunters, but rather are amateurs who keep the fossils that they find.",
+        "B": "Most fossils found in Mernia are common types that have little scientific interest.",
+        "C": "Commercial fossil hunters in Mernia currently sell some of the fossils they find to universities and museums.",
+        "D": "Many universities in Mernia do not engage in fossil research.",
+        "E": "Most fossils are found by commercial fossil hunters, and they would give up looking for fossils if they were no longer allowed to sell to individual collectors."
+      },
+      "correct_answer": "E",
+      "explanation": "الخيار E يشير إلى فشل الاقتراح: إذا توقف الصيادون التجاريون عن البحث عن الأحافير لأنهم لا يستطيعون البيع لهواة الجمع، فإن عدد الأحافير المتاحة للبحث سينخفض بدلاً من أن يزيد."
+    },
+    {
+      "id": 669,
+      "difficulty": "Easy",
+      "question": "Economist: Tropicorp, which constantly seeks profitable investment opportunities, has been buying and clearing sections of tropical forest for cattle ranching, although pastures newly created there become useless for grazing after just a few years. The company has not gone into rubber tapping, even though greater profits can be made from rubber tapping, which leaves the forest intact. Thus, some environmentalists argue that Tropicorp's actions do not serve even its own economic interest. However, the initial investment required for a successful rubber-tapping operation is larger than that needed for a cattle ranch; there is a shortage of workers employable in rubber-tapping operations; and taxes are higher on profits from rubber tapping than on profits from cattle ranching. Consequently, the environmentalists' conclusion is probably wrong.\n\nIn the economist's argument, the two boldfaced portions play which of the following roles?",
+      "options": {
+        "A": "The first supports the conclusion of the economist's argument; the second calls that conclusion into question.",
+        "B": "The first states the conclusion of the economist's argument; the second supports that conclusion.",
+        "C": "The first supports the conclusion of the environmentalists' argument; the second states that conclusion.",
+        "D": "The first states the conclusion of the environmentalists' argument; the second states the conclusion of the economist's argument.",
+        "E": "Each supports the conclusion of the economist's argument."
+      },
+      "correct_answer": "D",
+      "explanation": "الجزء الأول ('أفعال Tropicorp لا تخدم حتى مصلحتها الاقتصادية') هو استنتاج دعاة حماية البيئة. الجزء الثاني ('استنتاج دعاة حماية البيئة خاطئ على الأرجح') هو استنتاج الخبير الاقتصادي."
+    },
+    {
+      "id": 670,
+      "difficulty": "Easy",
+      "question": "Brown tides are growths of algae on the sea's surface that prevent sunlight from reaching marine plants below, thereby destroying not only the plants but also the shellfish that live off these plants. Biologists recently isolated a virus that, when added to seawater, kills the algae that cause brown tides. Adding large quantities of this virus to waters affected by brown tides will therefore make it possible to save the populations of shellfish that inhabit those waters.\n\nWhich of the following, if true, provides the most support for the conclusion of the argument?",
+      "options": {
+        "A": "When applied in large quantities, the virus not only kills the algae that cause brown tides but also many harmless kinds of algae.",
+        "B": "Marine animals that prey on shellfish avoid areas of the sea in which brown tides are occurring.",
+        "C": "The number of different kinds of viruses present in seawater is far greater than many marine biologists had, until recently, believed.",
+        "D": "The presence of large quantities of the virus in seawater does not adversely affect the growth of marine plants.",
+        "E": "The amount of the virus naturally present in seawater in which brown tides occur is neither significantly greater nor significantly less than the amount present in seawater in which brown tides do not occur."
+      },
+      "correct_answer": "D",
+      "explanation": "يدعم الخيار D الاستنتاج: إذا كان وجود الفيروس بكميات كبيرة لا يؤثر سلبًا على نمو النباتات البحرية، فإن استخدامه سيقتل الطحالب الضارة فقط دون الإضرار بالنباتات التي تعتمد عليها المحاريات، مما يحقق الهدف المنشود."
+    },
+    {
+      "id": 671,
+      "difficulty": "Easy",
+      "question": "In persons with astigmatism, the clear outer layer of the eye is deformed in a way that impairs and sometimes distorts vision. The elongated figures in the paintings of El Greco (1541-1614) were so unusual that some critics sought to explain them by hypothesizing that, without knowing it, El Greco had an astigmatism that caused everything to appear to him in the distorted way that was characteristic of his painted figures.\n\nThe proposed explanation is most vulnerable to the criticism that it fails to",
+      "options": {
+        "A": "establish that during the period in which El Greco lived, there was any correction available to those who did realize their vision was distorted",
+        "B": "provide evidence that astigmatism was common in the 1500s and 1600s",
+        "C": "consider that the critics who proposed the explanation might have suffered from astigmatism",
+        "D": "consider the effect of the hypothesized astigmatism on El Greco's perception of his own paintings",
+        "E": "allow for the possibility that artists see the world differently than do nonartists"
+      },
+      "correct_answer": "D",
+      "explanation": "النقد الأكثر دقة هو أن التفسير يفشل في النظر في تأثير طول النظر على إدراك إل غريكو للوحاته نفسها. إذا كان يرى العالم مشوهاً، فكيف كان سيرى لوحاته التي رسمها؟ كان سيراها مشوهة أيضاً، مما يجعله غير قادر على إدراك الشكل الفعلي لرسوماته الطويلة."
+    },
+    {
+      "id": 672,
+      "difficulty": "Easy",
+      "question": "Marketing executive for Magu Corporation: Whenever Magu opens a manufacturing facility in a new city, the company should sponsor, or make donations to, a number of nonprofit organizations in that city. Doing so would improve Magu's image in the community, and thus the money spent on such charitable ventures would lead to increased sales.\n\nWhich statement would, if true, point to the most serious weakness in the marketing executive's advice?",
+      "options": {
+        "A": "Magu sells its products internationally, so sales in any one city represent only a small portion of total revenue.",
+        "B": "Spending on charitable ventures would require Magu to decrease direct advertisements, which are the most effective means of reaching its target customers.",
+        "C": "If market conditions change, Magu may have to close any such facility or relocate it.",
+        "D": "Some nonprofit organizations are poorly organized, so money donated to them would be of little benefit to the community.",
+        "E": "If workers at the manufacturing facility believed their wages or working conditions were poor, their complaints would outweigh any good impressions generated by Magu's donations or sponsorships."
+      },
+      "correct_answer": "B",
+      "explanation": "الخيار B يظهر نقطة ضعف خطيرة: الإنفاق على الأعمال الخيرية سيأتي على حساب الإعلانات المباشرة، وهي الوسيلة الأكثر فعالية للوصول إلى العملاء المستهدفين، مما قد يؤدي إلى انخفاض المبيعات بدلاً من زيادتها."
+    },
+    {
+      "id": 673,
+      "difficulty": "Easy",
+      "question": "In the last few years, plant scientists have been able to genetically engineer seeds to produce crops highly resistant to insect damage. Farmers growing crops with these seeds will be able to spend significantly less on pesticides. This cost reduction would more than make up for the higher cost of the genetically engineered seeds. Clearly, therefore, farmers who grow crops from genetically engineered seeds will be able to reduce their costs by using them.\n\nWhich of the following, if true, most weakens the argument?",
+      "options": {
+        "A": "Plant scientists have not yet developed insect-resistant strains of every crop that is currently grown commercially.",
+        "B": "The cost of several commonly used pesticides is expected to rise in the next few years.",
+        "C": "Crops grown from the genetically engineered seeds require significantly more fertilizer and water to grow well than do crops grown from nonengineered seeds.",
+        "D": "In the future, the cost of genetically engineered seeds is likely to fall to the level of nonengineered seeds.",
+        "E": "The crops that now require the greatest expenditure on pesticides are not the ones for which genetically engineered seeds will become available."
+      },
+      "correct_answer": "C",
+      "explanation": "الخيار C يضعف الحجة: إذا كانت المحاصيل المعدلة وراثياً تتطلب أسمدة ومياه أكثر بكثير، فإن هذه التكاليف الإضافية قد تفوق التوفير في المبيدات، مما يمنع المزارعين من خفض التكاليف الإجمالية."
+    },
+    {
+      "id": 674,
+      "difficulty": "Easy",
+      "question": "Educational theorist: Recent editorials have called for limits on the amount of homework assigned to schoolchildren younger than 12. They point out that free-time activities play an important role in childhood development and that homework in large quantities can severely restrict children's free time, hindering their development. But the actual average homework time for children under 12—little more than 30 minutes per night—leaves plenty of free time. In reality, therefore, the editorials' rationale cannot justify the restriction they advocate.\n\nWhich of the following, if true, would most seriously call into question the educational theorist's conclusion?",
+      "options": {
+        "A": "Some teachers give as homework assignments work of a kind that research suggests is most effective educationally when done in class.",
+        "B": "For children younger than 12, regularly doing homework in the first years of school has no proven academic value, but many educators believe that it fosters self-discipline and time management.",
+        "C": "Some homework assignments are related to free-time activities that children engage in, such as reading or hobbies.",
+        "D": "A substantial proportion of schoolchildren under 12, particularly those in their first few years of school, have less than 10 minutes of homework assigned per night.",
+        "E": "For many children under 12, the number of hours spent on homework greatly exceeds the average, leaving less free time than the editorial suggests."
+      },
+      "correct_answer": "E",
+      "explanation": "الخيار E يضعف استنتاج المنظر التربوي: إذا كان العديد من الأطفال يقضون ساعات في الواجبات المنزلية تتجاوز بكثير المتوسط، فإن حجة الافتتاحيات (أن الواجبات تحد من وقت الفراغ) تصبح صحيحة لهذه الفئة، مما يبرر التقييد."
+    },
+    {
+      "id": 675,
+      "difficulty": "Easy",
+      "question": "Thyrian lawmaker: Thyria's Cheese Importation Board inspects all cheese shipments to Thyria and rejects shipments not meeting specified standards. Yet only 1 percent is ever rejected. Therefore, since the health consequences and associated economic costs of not rejecting that 1 percent are negligible, whereas the board's operating costs are considerable, for economic reasons alone the board should be disbanded.\n\nConsultant: I disagree. The threat of having their shipments rejected deters many cheese exporters from shipping substandard product.\n\nThe consultant responds to the lawmaker's argument by",
+      "options": {
+        "A": "rejecting the lawmaker's argument while proposing that the standards according to which the board inspects imported cheese should be raised",
+        "B": "providing evidence that the lawmaker's argument has significantly overestimated the cost of maintaining the board",
+        "C": "objecting to the lawmaker's introducing into the discussion factors that are not strictly economic",
+        "D": "pointing out a benefit of maintaining the board which the lawmaker's argument has failed to consider",
+        "E": "shifting the discussion from the argument at hand to an attack on the integrity of the cheese inspectors"
+      },
+      "correct_answer": "D",
+      "explanation": "يستجيب المستشار بالإشارة إلى فائدة لم يأخذها المشرع في الاعتبار: التهديد بالرفض يردع المصدرين عن شحن منتجات دون المستوى، مما يمنع وصول كميات كبيرة من الجبن الرديء إلى السوق، وهي فائدة اقتصادية غير مباشرة."
+    },
+    {
+      "id": 676,
+      "difficulty": "Easy",
+      "question": "The tulu, a popular ornamental plant, does not reproduce naturally and is only bred and sold by specialized horticultural companies. Unfortunately, the tulu is easily devastated by a contagious fungal rot. The government ministry plans to reassure worried gardeners by requiring all tulu plants to be tested for fungal rot before being sold. However, infected plants less than 30 weeks old have generally not built up enough fungal rot in their systems to be detected reliably. And many tulu plants are sold before they are 24 weeks old.\n\nWhich of the following, if performed by the government ministry, could logically be expected to overcome the problem with their plan to test for the fungal rot?",
+      "options": {
+        "A": "Releasing a general announcement that tulu plants less than 30 weeks old cannot be effectively tested for fungal rot",
+        "B": "Requiring all tulu plants less than 30 weeks old to be labeled as such",
+        "C": "Researching possible ways to test tulu plants less than 24 weeks old for fungal rot",
+        "D": "Ensuring that tulu plants are not sold before they are 30 weeks old",
+        "E": "Quarantining all tulu plants from horticultural companies at which any case of fungal rot has been detected until those tulu plants can be tested for fungal rot"
+      },
+      "correct_answer": "D",
+      "explanation": "الحل المنطقي للتغلب على المشكلة هو ضمان عدم بيع النباتات قبل بلوغها 30 أسبوعًا، حيث يمكن عندها اكتشاف العفن بشكل موثوق، مما يجعل خطة الاختبار فعالة."
+    },
+    {
+      "id": 677,
+      "difficulty": "Easy",
+      "question": "While many people think of genetic manipulation of food crops as being aimed at developing larger and larger plant varieties, some plant breeders have in fact concentrated on discovering or producing dwarf varieties, which are roughly half as tall as normal varieties.\n\nWhich of the following would, if true, most help to explain the strategy of the plant breeders referred to above?",
+      "options": {
+        "A": "Plant varieties used as food by some are used as ornamentals by others.",
+        "B": "The wholesale prices of a given crop decrease as the supply of it increases.",
+        "C": "Crops once produced exclusively for human consumption are often now used for animal feed.",
+        "D": "Short plants are less vulnerable to strong wind and heavy rains.",
+        "E": "Nations with large industrial sectors tend to consume more processed grains."
+      },
+      "correct_answer": "D",
+      "explanation": "يفسر الخيار D استراتيجية المربين: النباتات القصيرة أقل عرضة للرياح القوية والأمطار الغزيرة، مما يجعلها أكثر مقاومة للعوامل الجوية، وهي ميزة تبرر التركيز عليها."
+    },
+    {
+      "id": 678,
+      "difficulty": "Easy",
+      "question": "Secret passwords are often used to control access to computers. When employees select their own passwords, they frequently choose such easily guessed passwords as their initials or birth dates. To improve security, employers should assign randomly generated passwords to employees rather than allowing employees to make up their own.\n\nWhich of the following, if true, most seriously undermines the conclusion drawn above?",
+      "options": {
+        "A": "If passwords are generated randomly, it is theoretically possible that employees will be assigned passwords that they might have selected on their own.",
+        "B": "Randomly generated passwords are so difficult for employees to recall that they often record the passwords in places where the passwords could be easily seen by others.",
+        "C": "Computer systems protected by passwords are designed to ignore commands that are entered by employees or others who use invalid passwords.",
+        "D": "In general, the higher the level of security maintained at the computer system, the more difficult it is for unauthorized users to obtain access to the system.",
+        "E": "Control of physical access to computers by the use of locked doors and guards should be used in addition to passwords in order to maintain security."
+      },
+      "correct_answer": "B",
+      "explanation": "الخيار B يقوض الاستنتاج: إذا كانت كلمات المرور العشوائية صعبة التذكر لدرجة أن الموظفين يكتبونها في أماكن يمكن للآخرين رؤيتها بسهولة، فإن الأمان ينخفض بدلاً من أن يتحسن، مما يبطل الهدف من التغيير."
+    },
+    {
+      "id": 679,
+      "difficulty": "Easy",
+      "question": "The economy around Lake Paqua depends on fishing of the lake's landlocked salmon population. In recent years, scarcity of food for salmon there has caused a decline in both the number and the size of the adult salmon in the lake. As a result, the region's revenues from salmon fishing have declined significantly. To remedy this situation, officials plan to introduce shrimp, which can serve as a food source for adult salmon, into Lake Paqua.\n\nWhich of the following, if true, most seriously calls into question the plan's chances for success?",
+      "options": {
+        "A": "Salmon is not a popular food among residents of the Lake Paqua region.",
+        "B": "Tourists coming to fish for sport generate more income for residents of the Lake Paqua region than does commercial fishing.",
+        "C": "The shrimp to be introduced into Lake Paqua are of a variety that is too small to be harvested for human consumption.",
+        "D": "The primary food for both shrimp and juvenile salmon is plankton, which is not abundant in Lake Paqua.",
+        "E": "Fishing regulations prohibit people from keeping any salmon they have caught in Lake Paqua that are smaller than a certain minimum size."
+      },
+      "correct_answer": "D",
+      "explanation": "الخيار D يشكك في نجاح الخطة: إذا كان الغذاء الأساسي لكل من الروبيان وصغار السلمون هو العوالق، وهي غير وفيرة في البحيرة، فإن إدخال الروبيان سيؤدي إلى المنافسة على الغذاء، مما قد يضر بصغار السلمون بدلاً من مساعدة الكبار."
+    },
+    {
+      "id": 680,
+      "difficulty": "Medium",
+      "question": "Airline representative: The percentage of flight delays caused by airline error decreased significantly this year. This indicates that airlines listened to complaints about preventable errors and addressed the problems. Although delays caused by weather and other uncontrollable factors will always be part of travel, preventable delays are clearly decreasing. Which of the following most clearly points to a logical flaw in the representative's reasoning?",
+      "options": {
+        "A": "Airlines may be motivated by financial concerns to underreport the percentage of flight delays caused by airline error.",
+        "B": "The delays caused by uncontrollable factors could have led to an increase in complaints to airlines.",
+        "C": "Complaints may not be the most reliable measure of how many errors occurred in a given year.",
+        "D": "Delays caused by weather and other uncontrollable factors could have increased dramatically during the year under discussion.",
+        "E": "Airline customers might not believe that particular delays were caused by uncontrollable factors rather than airline error."
+      },
+      "correct_answer": "D",
+      "explanation": "الخطأ المنطقي هو أن انخفاض النسبة المئوية لتأخيرات الخطأ الجوي قد يكون بسبب ارتفاع هائل في عدد التأخيرات الناتجة عن عوامل لا يمكن السيطرة عليها (مثل الطقس)، مما يجعل النسبة المئوية أقل رغم أن العدد المطلق لتأخيرات الخطأ الجوي قد يكون كما هو أو أكبر."
+    },
+    {
+      "id": 681,
+      "difficulty": "Medium",
+      "question": "Although the school would receive financial benefits if it had soft drink vending machines in the cafeteria, we should not allow them. Allowing soft drink machines there would not be in our students' interest. If our students start drinking more soft drinks, they will be less healthy.\n\nThe argument depends on which of the following?",
+      "options": {
+        "A": "If the soft drink vending machines were placed in the cafeteria, students would consume more soft drinks as a result.",
+        "B": "The amount of soft drinks that most students at the school currently drink is not detrimental to their health.",
+        "C": "Students are apt to be healthier if they do not drink soft drinks at all than if they just drink small amounts occasionally.",
+        "D": "Students will not simply bring soft drinks from home if the soft drink vending machines are not placed in the cafeteria.",
+        "E": "The school's primary concern should be to promote good health among its students."
+      },
+      "correct_answer": "A",
+      "explanation": "تفترض الحجة أن وضع آلات البيع سيؤدي بالفعل إلى زيادة استهلاك الطلاب للمشروبات الغازية. بدون هذا الافتراض، لا يوجد سبب للاعتقاد بأن وضع الآلات سيضر بصحتهم."
+    },
+    {
+      "id": 682,
+      "difficulty": "Medium",
+      "question": "Many athletes inhale pure oxygen after exercise in an attempt to increase muscular reabsorption of oxygen. Measured continuously after exercise, however, the blood lactate levels of athletes who inhale pure oxygen are practically identical, on average, to those of athletes who breathe normal air. The lower the blood lactate level is, the higher the muscular reabsorption of oxygen is.\n\nIf the statements above are all true, they most strongly support which of the following conclusions?",
+      "options": {
+        "A": "Athletes' muscular reabsorption of oxygen is not increased when they inhale pure oxygen instead of normal air.",
+        "B": "High blood lactate levels cannot be reduced.",
+        "C": "Blood lactate levels are a poor measure of oxygen reabsorption by muscles.",
+        "D": "The amount of oxygen reabsorbed by an athlete's muscles always remains constant.",
+        "E": "The inhaling of pure oxygen has no legitimate role in athletics."
+      },
+      "correct_answer": "A",
+      "explanation": "بما أن مستويات اللاكتات في الدم متطابقة بين المجموعتين، وبما أن انخفاض اللاكتات يعني ارتفاع إعادة امتصاص الأكسجين، فإن ذلك يدعم بقوة أن استنشاق الأكسجين النقي لا يزيد من إعادة امتصاص الأكسجين في العضلات."
+    },
+    {
+      "id": 683,
+      "difficulty": "Medium",
+      "question": "Historian: Fifteenth-century advances in mapmaking contributed to the rise of modern nationstates. In medieval Europe (from the fifth to the fifteenth century), sovereignty centered in cities and towns and radiated outward, with boundaries often ambiguously defined. The conceptual shift toward the modern state began in the late fifteenth century, when mapmakers learned to reflect geography accurately by basing maps on latitude-longitude grids. By the mid-seventeenth century, nearly all maps showed boundary lines.\n\nWhich of the following would, if true, most strengthen the historian's reasoning?",
+      "options": {
+        "A": "Borders did not become codified in Europe until certain treaties were signed in the early nineteenth century.",
+        "B": "During the medieval period, various authorities in Europe claimed power over collections of cities and towns, not contiguous territories.",
+        "C": "Many members of the political elite collected maps as a hobby during the late sixteenth and early seventeenth centuries.",
+        "D": "Seventeenth-century treatises and other sources of political authority describe areas of sovereignty rather than illustrate them using maps.",
+        "E": "During the fifteenth century in Europe, mapmakers simplified the borders of sovereignty by drawing clear lines of demarcation between political powers."
+      },
+      "correct_answer": "E",
+      "explanation": "يقوي الخيار E حجة المؤرخ: إذا قام رسامو الخرائط في القرن الخامس عشر بتبسيط حدود السيادة برسم خطوط فاصلة واضحة بين القوى السياسية، فهذا يدعم الادعاء بأن التقدم في رسم الخرائط ساهم في صعود الدول القومية الحديثة."
+    },
+    {
+      "id": 684,
+      "difficulty": "Medium",
+      "question": "Sascha: The attempt to ban parliament's right to pass directed-spending bills—bills that contain provisions specifically funding the favorite projects of some powerful politicians—is antidemocratic. Our nation's constitution requires that money be drawn from our treasury only when so stipulated by laws passed by parliament, the branch of government most directly representative of the citizens. This requirement is based on the belief that exercising the power to spend public resources involves the ultimate exercise of state authority and that therefore ______.\n\nWhich of the following most logically completes Sascha's argument?",
+      "options": {
+        "A": "designating funding specifically for the favorite projects of some powerful politicians should be considered antidemocratic",
+        "B": "the right to exercise such a power should belong exclusively to the branch of government most directly representative of the citizens",
+        "C": "exercising the power to spend public resources is in most cases—but not all—protected by the constitution",
+        "D": "modifications to any spending bills should be considered expenditures authorized by law",
+        "E": "only officials who are motivated by concerns for reelection should retain that power"
+      },
+      "correct_answer": "B",
+      "explanation": "يكمل الخيار B حجة ساشا: بما أن إنفاق الموارد العامة هو ممارسة للسلطة العليا، فإن هذه السلطة يجب أن تنتمي حصريًا إلى الفرع الأكثر تمثيلاً للمواطنين (البرلمان)، مما يجعل محاولة منع حق البرلمان في تمرير مشاريع القوانين غير ديمقراطية."
+    },
+    {
+      "id": 685,
+      "difficulty": "Medium",
+      "question": "Boreal owls range over a much larger area than do other owls of similar size. Scientists have hypothesized that it is scarcity of prey that leads the owls to range so widely. This hypothesis would be hard to confirm directly, since it is not possible to produce a sufficiently accurate count of the populations of small mammals inhabiting the forests where boreal owls live. Careful study of owl behavior has, however, shown that boreal owls do range over larger areas when they live in regions where food of the sort eaten by small mammals is comparatively sparse. This indicates that the scientists' hypothesis is not sheer speculation.\n\nIn the argument given, the two boldfaced portions play which of the following roles?",
+      "options": {
+        "A": "The first presents an explanatory hypothesis; the second states the main conclusion of the argument.",
+        "B": "The first presents an explanatory hypothesis; the second presents evidence tending to support this hypothesis.",
+        "C": "The first presents an explanatory hypothesis; the second presents evidence to support an alternative explanation.",
+        "D": "The first describes a position that the argument opposes; the second presents evidence to undermine the support for the position being opposed.",
+        "E": "The first describes a position that the argument opposes; the second states the main conclusion of the argument."
+      },
+      "correct_answer": "B",
+      "explanation": "الجزء الأول هو الفرضية التفسيرية (ندرة الفرائس تؤدي إلى اتساع نطاق التجوال). الجزء الثاني هو دليل (سلوك البوم) يميل إلى دعم هذه الفرضية."
+    },
+    {
+      "id": 686,
+      "difficulty": "Medium",
+      "question": "Cognitive scientist: Using the pioneering work of comparative psychologist Gordon Gallup as a model, several studies have investigated animals' capacity for mirror self-recognition (MSR). Most animals exposed to a mirror respond only with social behavior, such as aggression. However, in the case of the great apes, repeated exposure to mirrors leads to self-directed behaviors, such as exploring the inside of the mouth, suggesting that these animals recognize the reflection as an image of self. The implication of these studies is that the great apes have a capacity for self-awareness unique among nonhuman species.\n\nThe cognitive scientist makes which of the following assumptions in the argument above?",
+      "options": {
+        "A": "Gallup's work has established that the great apes have a capacity for MSR unique among nonhuman species.",
+        "B": "If an animal does not have the capacity for MSR, it does not have the capacity for selfawareness.",
+        "C": "If a researcher exposes an animal to a mirror and that animal exhibits social behavior, that animal is incapable of being self-aware.",
+        "D": "When exposed to a mirror, all animals display either social behavior or self-directed behavior.",
+        "E": "Animals that do not exhibit MSR may demonstrate a capacity for self-awareness in other ways."
+      },
+      "correct_answer": "B",
+      "explanation": "يفترض العالم المعرفي أن MSR هو المؤشر الوحيد أو الضروري للوعي الذاتي. إذا كان الحيوان لا يظهر MSR، فهذا لا يعني بالضرورة أنه لا يملك وعيًا ذاتيًا (قد يظهره بطرق أخرى)، لكن الحجة تفترض أن عدم وجود MSR يعني عدم وجود وعي ذاتي، وهو افتراض خاطئ ولكنها تفترضه ضمناً."
+    },
+    {
+      "id": 687,
+      "difficulty": "Medium",
+      "question": "Last year a record number of new manufacturing jobs were created. Will this year bring another record? Well, any new manufacturing job is created either within an existing company or by the start-up of a new company. Within existing firms, new jobs have been created this year at well below last year's record pace. At the same time, there is considerable evidence that the number of new companies starting up will be no higher this year than it was last year, and there is no reason to think that the new companies starting up this year will create more jobs per company than did last year's start-ups. So clearly, the number of new jobs created this year will fall short of last year's record.\n\nIn the argument given, the two portions in boldface play which of the following roles?",
+      "options": {
+        "A": "The first is a claim that the argument challenges; the second is an explicit assumption on which that challenge is based.",
+        "B": "The first is a claim that the argument challenges; the second is a judgment advanced in support of the main conclusion of the argument.",
+        "C": "The first provides evidence in support of the main conclusion of the argument; the second is an objection that has been raised against that main conclusion.",
+        "D": "The first provides evidence in support of the main conclusion of the argument; the second is a judgment advanced in support of that main conclusion.",
+        "E": "The first and the second are each claims that have been advanced in support of a position that the argument opposes."
+      },
+      "correct_answer": "D",
+      "explanation": "الجزء الأول ('الوظائف الجديدة داخل الشركات القائمة أقل بكثير من وتيرة العام الماضي') هو دليل يدعم الاستنتاج الرئيسي. الجزء الثاني ('لا يوجد سبب للاعتقاد بأن الشركات الجديدة ستخلق وظائف أكثر لكل شركة') هو حكم يدعم أيضًا نفس الاستنتاج الرئيسي."
+    },
+    {
+      "id": 688,
+      "difficulty": "Medium",
+      "question": "A study of ticket sales at a summer theater festival found that people who bought tickets to individual plays had a no-show rate of less than 1 percent, while those who paid in advance for all ten plays being performed that summer had a no-show rate of nearly 30 percent. This may be at least in part because the greater the awareness customers retain about the cost of an item, the more likely they are to use it.\n\nWhich of the following would, if true, best serve as an alternative explanation of the results of the study?",
+      "options": {
+        "A": "People who buy tickets to individual plays often buy them on the day of the performance.",
+        "B": "People who pay in advance for all ten plays are more likely to attend the theater festival than those who buy tickets to individual plays.",
+        "C": "People who pay in advance for all ten plays receive a discount that makes the individual plays cost less than they would if bought separately.",
+        "D": "People who buy tickets to individual plays typically have a stronger interest in theater than those who buy season tickets.",
+        "E": "People who buy season tickets are more likely to have schedule conflicts that prevent them from attending all the plays."
+      },
+      "correct_answer": "D",
+      "explanation": "يقدم الخيار D تفسيرًا بديلاً: قد يكون سبب انخفاض نسبة عدم الحضور لدى مشتري التذاكر الفردية هو أن لديهم اهتمامًا أكبر بالمسرح بشكل عام، وليس لأنهم أكثر وعيًا بالتكلفة."
+    },
+    {
+      "id": 689,
+      "difficulty": "Medium",
+      "question": "Although there is no record of poet Edmund Spenser's parentage, we do know that as a youth, Spenser attended the Merchant Tailors' School in London for a period between 1560 and 1570. Records from this time indicate that the Merchant Tailors' Guild then had only three members named Spenser: Robert Spenser, listed as a gentleman; Nicholas Spenser, elected the Guild's Warden in 1568; and John Spenser, listed as a \"journeyman cloth-maker.\" Of these, the last was likely the least affluent of the three—and most likely Edmund's father, since school accounting records list Edmund as a scholar who attended the school at a reduced fee.\n\nWhich of the following is an assumption on which the argument depends?",
+      "options": {
+        "A": "Anybody in sixteenth-century London who made clothing professionally would have had to be a member of the Merchant Tailors' Guild.",
+        "B": "The fact that Edmund Spenser attended the Merchant Tailors' School did not necessarily mean that he planned to become a tailor.",
+        "C": "No member of the Guild could become Guild warden in sixteenth-century London unless he was a gentleman.",
+        "D": "Most of those whose fathers were members of the Merchant Tailors' Guild were students at the Merchant Tailors' School.",
+        "E": "The Merchant Tailors' School did not reduce its fees for the children of the more affluent Guild members."
+      },
+      "correct_answer": "E",
+      "explanation": "تفترض الحجة أن تخفيض الرسوم المدرسية كان مؤشراً على فقر العائلة. إذا كانت المدرسة تخفض الرسوم أيضاً لأبناء الأعضاء الأكثر ثراءً، فإن الافتراض بأن جون سبنسر (الأقل ثراءً) هو الأب ينهار."
+    },
+    {
+      "id": 690,
+      "difficulty": "Medium",
+      "question": "Hea Sook: One should not readily believe urban legends. Most legends are propagated because the moral lesson underlying them supports a political agenda. People will repeat a tale if it fits their purpose. They may not deliberately spread untruths, but neither are they particularly motivated to investigate deeply to determine if the tale they are telling is true.\n\nKayla: But people would not repeat stories that they did not believe were true. Therefore, one can safely assume that if a story has been repeated by enough people, then it is more likely to be true.\n\nKayla's reply is most vulnerable to the criticism that it",
+      "options": {
+        "A": "does not specify how many people need to repeat a story before someone is justified in believing it",
+        "B": "overstates the significance of political agendas in the retelling of stories",
+        "C": "fails to address the claim that people will not verify the truth of a story that fits their purpose",
+        "D": "implicitly supports the claim that the people repeating legends are not deliberately spreading untruths",
+        "E": "cannot distinguish people's motivations for repeating urban legends from their motivations for repeating other types of story"
+      },
+      "correct_answer": "C",
+      "explanation": "يرد كايلا بأن الناس لا يكررون ما لا يعتقدون أنه صحيح، لكنه يفشل في معالجة ادعاء هي سوك الأساسي: أن الناس قد يصدقون القصة لمجرد أنها تخدم غرضهم، دون التحقق من صحتها. التكرار لا يعني الصحة إذا كان الناس غير مدققين."
+    },
+    {
+      "id": 691,
+      "difficulty": "Medium",
+      "question": "Rainwater contains hydrogen of a heavy form called deuterium. The deuterium content of wood reflects the deuterium content of rainwater available to trees during their growth. Wood from trees that grew between 16,000 and 24,000 years ago in North America contains significantly more deuterium than wood from trees growing today. But water trapped in several North American caves that formed during that same early period contains significantly less deuterium than rainwater in North America contains today.\n\nWhich of the following, if true, most helps to reconcile the two findings?",
+      "options": {
+        "A": "There is little deuterium in the North American caves other than the deuterium in the water trapped there.",
+        "B": "Exposure to water after a tree has died does not change the deuterium content of the wood.",
+        "C": "Industrialization in North America over the past 100 years has altered the deuterium content of rain.",
+        "D": "Trees draw on shallow groundwater from rain that falls during their growth, whereas water trapped in caves may have fallen as rainwater thousands of years before the caves formed.",
+        "E": "Wood with a high deuterium content is no more likely to remain preserved for long periods than is wood with a low deuterium content."
+      },
+      "correct_answer": "D",
+      "explanation": "يفسر الخيار D التناقض: الأشجار تستخدم مياه الأمطار الحديثة (التي تسقط أثناء نموها)، بينما المياه المحاصرة في الكهوف قد تكون سقطت كأمطار قبل آلاف السنين من تشكل الكهوف، مما يعني أن عينة المياه في الكهوف لا تمثل نفس الفترة الزمنية التي تمثلها الأشجار."
+    },
+    {
+      "id": 692,
+      "difficulty": "Medium",
+      "question": "Enforcement of local speed limits through police monitoring has proven unsuccessful in the town of Ardane. In many nearby towns, speed humps (raised areas of pavement placed across residential streets, about 300 feet apart) have reduced traffic speeds on residential streets by 20 to 25 percent. In order to reduce traffic speed and thereby enhance safety in residential neighborhoods, Ardane's transportation commission plans to install multiple speed humps in those neighborhoods.\n\nWhich of the following, if true, identifies a potentially serious drawback to the plan for installing speed humps in Ardane?",
+      "options": {
+        "A": "On residential streets without speed humps, many vehicles travel at speeds more than 25 percent above the posted speed limit.",
+        "B": "Because of their high weight, emergency vehicles such as fire trucks and ambulances must slow almost to a stop at speed humps.",
+        "C": "The residential speed limit in Ardane is higher than that of the nearby towns where speed humps were installed.",
+        "D": "Motorists who are not familiar with the streets in Ardane's residential districts would be likely to encounter the speed humps unawares unless warned by signs and painted indicators.",
+        "E": "Bicyclists generally prefer that speed humps be constructed so as to leave a space on the side of the road where bicycles can travel without going over the humps."
+      },
+      "correct_answer": "B",
+      "explanation": "الخيار B يحدد عيبًا خطيرًا: المطبات ستؤدي إلى إبطاء سيارات الطوارئ (شاحنات الإطفاء والإسعاف) بشكل كبير، مما قد يعيق استجابتها للطوارئ ويشكل خطرًا على السلامة العامة."
+    },
+    {
+      "id": 693,
+      "difficulty": "Medium",
+      "question": "Which of the choices most logically completes the following argument?\n\nNowNews, although still the most popular magazine covering cultural events in Kalopolis, has recently suffered a significant drop in advertising revenue because of falling circulation. Many readers have begun buying a competing magazine that, at 50 cents per copy, costs less than NowNews at $1.50 per copy. In order to boost circulation and thus increase advertising revenue, NowNews's publisher has proposed making it available at no charge. However, this proposal has a serious drawback, since",
+      "options": {
+        "A": "those Kalopolis residents with the greatest interest in cultural events are regular readers of both magazines.",
+        "B": "one reason NowNews's circulation fell was that its competitor's reporting on cultural events was superior.",
+        "C": "the newsstands and stores that currently sell NowNews will no longer carry it if it is being given away for free.",
+        "D": "at present, 10 percent of the total number of copies of each issue of NowNews are distributed free to students on college campuses in the Kalopolis area.",
+        "E": "NowNews's competitor would begin to lose large amounts of money if it were forced to lower its cover price."
+      },
+      "correct_answer": "C",
+      "explanation": "العيب الخطير هو أن أكشاك الصحف والمتاجر التي تبيع NowNews حاليًا قد تتوقف عن توزيعه إذا كان مجانيًا، مما يقلل من التوزيع الفعلي ويحرم المجلة من قنوات التوزيع الأساسية."
+    },
+    {
+      "id": 694,
+      "difficulty": "Medium",
+      "question": "Archaeologist: Researchers excavating a burial site in Cyprus found a feline skeleton lying near a human skeleton. Both skeletons were in the same sediment at the same depth and equally well-preserved, suggesting that the feline and human were buried together about 9,500 years ago. This shows that felines were domesticated around the time farming began, when they would have been useful in protecting stores of grain from mice.\n\nWhich of the following, if true, would most seriously weaken the archaeologist's argument?",
+      "options": {
+        "A": "Archaeologists have not found any remains of stores of grain in the immediate vicinity of the burial site.",
+        "B": "The burial site in Cyprus is substantially older than any other known burial site in which a feline skeleton and a human skeleton appear to have been buried together.",
+        "C": "Paintings found near the burial site seem to show people keeping felines as domestic companions but do not show felines hunting mice.",
+        "D": "In Cyprus, there are many burial sites dating from around 9,500 years ago in which the remains of wild animals appear to have been buried alongside human remains.",
+        "E": "Before felines were domesticated, early farmers had no effective way to protect stores of grain from mice."
+      },
+      "correct_answer": "D",
+      "explanation": "الخيار D يضعف الحجة: إذا كانت هناك العديد من مواقع الدفن التي تحتوي على رفات حيوانات برية بجانب رفات بشرية، فإن وجود الهيكل العظمي للقطط بجانب الإنسان لا يثبت التدجين، بل قد يكون مجرد دفن حيوان بري كطقوس."
+    },
+    {
+      "id": 695,
+      "difficulty": "Medium",
+      "question": "Farmer: Several people in the past few years have claimed to have seen a mountain lion in the suburban outskirts—the latest just last month—and, while mountain lions were thought to have been driven from this entire region about twenty years ago, there is no reason for the people who reported seeing a mountain lion to have deliberately concocted a false report. Therefore, local wildlife managers should begin to urgently address the mountain lion's presence.\n\nWhich of the following would, if true, most seriously weaken the farmer's argument?",
+      "options": {
+        "A": "Farmers in the suburban outskirts mostly raise cattle and hogs, which when fully grown are generally not attacked by mountain lions.",
+        "B": "Mountain lions are dissimilar in size and color to other wild animals found near the suburban outskirts.",
+        "C": "No person who claimed to have seen a mountain lion had anyone else with them at the purported sighting.",
+        "D": "There have been no regional reports in the past year of mountain lions migrating to the area.",
+        "E": "Recent surveys show that more than half of the people in the region report that they have never seen a mountain lion before."
+      },
+      "correct_answer": "C",
+      "explanation": "الخيار C يضعف الحجة: إذا لم يكن لدى أي من المدعين شاهد آخر معهم، فإن موثوقية ادعاءاتهم تكون موضع شك، مما يقلل من الحاجة إلى اتخاذ إجراء عاجل من قبل مسؤولي الحياة البرية."
+    },
+    {
+      "id": 696,
+      "difficulty": "Medium",
+      "question": "The heavy traffic in Masana is a growing drain on the city's economy—the clogging of the streets of the central business district alone cost the economy more than $1.2 billion over the past year. In order to address this problem, officials plan to introduce congestion pricing, by which drivers would pay to enter the city's most heavily trafficked areas during the busiest times of the day.\n\nWhich of the following, if true, would most strongly indicate that the plan will be a success?",
+      "options": {
+        "A": "Approximately one-fifth of the vehicles in the central business district are in transit from one side of the city to the other.",
+        "B": "Planners expect that, without congestion pricing, traffic in Masana is likely to grow by 6 percent in the next five years.",
+        "C": "In other urban areas, congestion pricing has strongly encouraged carpooling (sharing of rides by private commuters).",
+        "D": "Several studies have shown that a reduction in traffic of 15 percent in Masana could result in 5,500 or more new jobs.",
+        "E": "Over 30 percent of the vehicles in the city's center are occupied by more than one person."
+      },
+      "correct_answer": "C",
+      "explanation": "الخيار C يشير بقوة إلى نجاح الخطة: إذا كانت تسعير الازدحام قد شجعت بشدة على مشاركة السيارات في مناطق حضرية أخرى، فهذا يثبت فعالية هذه الآلية في تقليل عدد المركبات، مما يدعم توقع نجاحها في ماسانا."
+    },
+    {
+      "id": 697,
+      "difficulty": "Medium",
+      "question": "Economist: The most economically efficient way to reduce emissions of air pollutants is to tax them in proportion to the damage they are likely to cause. But in Country Y, many serious pollutants are untaxed and unregulated, and policy makers strongly oppose new taxes. Therefore, the best way to achieve a reduction in air pollutant emissions in Country Y would be to institute fixed upper limits on them.\n\nWhich of the following is an assumption of the economist's argument?",
+      "options": {
+        "A": "Policy makers in Country Y oppose all new taxes equally strongly, regardless of any benefits they may provide.",
+        "B": "Country Y's air pollutant emissions would not fall significantly if they were taxed in proportion to the damage they are likely to cause.",
+        "C": "Policy makers in Country Y strongly favor reductions in air pollutant emissions.",
+        "D": "Country Y's policy makers believe that air pollutant emissions should be reduced with maximum economic efficiency.",
+        "E": "Policy makers in Country Y do not oppose setting fixed upper limits on air pollutant emissions as strongly as they oppose new taxes."
+      },
+      "correct_answer": "E",
+      "explanation": "تفترض الحجة أن وضع حدود قصوى ثابتة هو خيار مقبول لدى صناع السياسات. إذا كانوا يعارضون الحدود القصوى بقدر معارضتهم للضرائب، فإن الخطة لن تكون قابلة للتنفيذ."
+    },
+    {
+      "id": 698,
+      "difficulty": "Medium",
+      "question": "Humans get Lyme disease from infected ticks. Ticks get infected by feeding on animals with Lyme disease, but the ease of transmission from host animal to tick varies. With most species of host animal, transmission of Lyme disease to ticks is extremely rare, but white-footed mice are an exception, readily passing Lyme disease to ticks. And white-footed mouse populations greatly expand, becoming the main food source for ticks, in areas where biodiversity is in decline.\n\nThe information in the passage most strongly supports which of the following?",
+      "options": {
+        "A": "In areas where many humans are infected with Lyme disease, the proportion of ticks infected with Lyme disease is especially high.",
+        "B": "Very few animals that live in areas where there are no white-footed mice are infected with Lyme disease.",
+        "C": "Humans are less at risk of contracting Lyme disease in areas where biodiversity is high.",
+        "D": "Ticks feed on white-footed mice only when other host animals are not available to them.",
+        "E": "The white-footed mouse population in an area is determined by the prevalence of Lyme disease in that area."
+      },
+      "correct_answer": "C",
+      "explanation": "تدعم المعلومات الاستنتاج C: في المناطق التي ينخفض فيها التنوع البيولوجي، يتوسع عدد فئران الأرجل البيضاء (الناقلة الفعالة للمرض) وتصبح المصدر الرئيسي لغذاء القراد، مما يزيد خطر انتقال المرض للإنسان. وبالتالي، في المناطق ذات التنوع البيولوجي العالي، يكون الخطر أقل."
+    },
+    {
+      "id": 699,
+      "difficulty": "Medium",
+      "question": "Many industrialized nations are trying to reduce atmospheric concentrations of carbon dioxide, a gas released by the burning of fossil fuels. One proposal is to replace conventional cement, which is made with calcium carbonate, by a new \"eco-cement.\" This new cement, made with magnesium carbonate, absorbs large amounts of carbon dioxide when exposed to the atmosphere. Therefore, using eco-cement for new concrete building projects will significantly help reduce atmospheric concentrations of carbon dioxide.\n\nWhich of the following, if true, most strengthens the argument?",
+      "options": {
+        "A": "The cost of magnesium carbonate, currently greater than the cost of calcium carbonate, probably will fall as more magnesium carbonate is used in cement manufacture.",
+        "B": "Eco-cement is strengthened when absorbed carbon dioxide reacts with the cement.",
+        "C": "Before the development of eco-cement, magnesium-based cement was considered too susceptible to water erosion to be of practical use.",
+        "D": "The manufacture of eco-cement uses considerably less fossil fuel per unit of cement than the manufacture of conventional cement does.",
+        "E": "Most building-industry groups are unaware of the development or availability of eco-cement."
+      },
+      "correct_answer": "D",
+      "explanation": "يقوي الخيار D الحجة: إذا كان تصنيع الأسمنت البيئي يستخدم وقودًا أحفوريًا أقل بكثير لكل وحدة، فهذا يعني أنه بالإضافة إلى امتصاصه لثاني أكسيد الكربون، فإن إنتاجه يطلق كمية أقل من الغاز، مما يعزز تأثيره الإيجابي في تقليل تركيزات ثاني أكسيد الكربون في الغلاف الجوي."
+    },
+    {
+      "id": 700,
+      "difficulty": "Medium",
+      "question": "Professor: A marine biologist argues that transmission of sea lice from farm salmon to wild salmon is unlikely in the Broughton Archipelago, British Columbia, citing numerous studies suggesting that salinities less than 30 parts per thousand are unfavorable to sea-lice survival. The biologist concludes that the archipelago's 25-30 parts per thousand salinity range between March and June, the critical period for wild salmon migration, tends to suppress sea-lice proliferation. But a review of the literature shows that salinities of 25-30 parts per thousand in combination with British Columbia's cool spring temperatures favor the flourishing of sea lice.\n\nIn this passage, the professor attempts to undermine the biologist's argument by",
+      "options": {
+        "A": "pointing out that a condition claimed to be necessary for sea-ice survival is not sufficient for it",
+        "B": "citing studies that suggest that salinity levels were not measured reliably",
+        "C": "claiming that there is evidence showing that one of its premises is false",
+        "D": "questioning the reliability of the biologist's scientific sources",
+        "E": "showing that its conclusion is inconsistent with its premises"
+      },
+      "correct_answer": "C",
+      "explanation": "يحاول الأستاذ تقويض حجة عالم الأحياء البحرية من خلال الادعاء بأن مراجعة الأدبيات تظهر أن المقدمات التي استند إليها عالم الأحياء (درجات الملوحة 25-30 جزء في الألف غير مناسبة) خاطئة، لأن هذه الملوحة مع درجات الحرارة الباردة في كولومبيا البريطانية تساعد على ازدهار القمل."
+    }
+  ]
+}
