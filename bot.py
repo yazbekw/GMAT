@@ -151,6 +151,7 @@ def load_questions_from_files():
             logger.error(f"خطأ في قراءة {file_path}: {e}")
             continue
 
+        # استخراج قائمة الأسئلة من الملف
         questions_list = []
         if isinstance(data, list):
             questions_list = data
@@ -173,12 +174,35 @@ def load_questions_from_files():
         for q in questions_list:
             if not q.get('question') or not q.get('options'):
                 continue
+
+            # استخراج الخيارات
             options = parse_options(q['options'])
             if len(options) < 2:
                 continue
+
+            # استخراج الإجابة
             answer = parse_answer(q.get('answer'), len(options))
+
+            # ===== التعديل الجديد لمعالجة Data Sufficiency =====
+            # إذا كانت الخيارات تحتوي على مفتاحين "1" و "2" والإجابة رمز A-E
+            if isinstance(q['options'], dict) and set(q['options'].keys()) == {"1", "2"}:
+                ans_str = q.get('answer')
+                if isinstance(ans_str, str) and ans_str.upper() in "ABCDE":
+                    # استبدال الخيارات بالنصوص القياسية لـ DS
+                    ds_options = [
+                        "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient.",
+                        "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient.",
+                        "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient.",
+                        "EACH statement ALONE is sufficient.",
+                        "Statements (1) and (2) TOGETHER are NOT sufficient."
+                    ]
+                    options = ds_options
+                    answer = ord(ans_str.upper()) - ord('A')  # A=0, B=1, ...
+            # =================================================
+
             if answer is None:
                 continue
+
             explanation = q.get('explanation', '')
             category = q.get('category', source_name)
 
