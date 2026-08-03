@@ -90,7 +90,7 @@
     {
       "id": 142,
       "difficulty": "Medium",
-      "question": "Exchange Rates in a Particular Year: $1 = 5.3 francs; $1 = 1.6 marks. An American dealer bought a table in Germany for 480 marks and sold the same table in France for 2,385 francs. What was the dealer"s gross profit on the two transactions in dollars?",
+      "question": "Exchange Rates in a Particular Year: $1 = 5.3 francs; $1 = 1.6 marks. An American dealer bought a table in Germany for 480 marks and sold the same table in France for 2,385 francs. What was the dealer\"s gross profit on the two transactions in dollars?",     
       "options": {
         "A": "$0",
         "B": "$50",
