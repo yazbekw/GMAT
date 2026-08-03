@@ -90,7 +90,8 @@
       "id": 372,
       "type": "Data Sufficiency",
       "difficulty": "Hard",
-      "question": "Kim and Sue each bought some roses and some daisies at the prices shown above. If Kim bought the same total number of roses and daisies as Sue, was the price of Kim\"s purchase of roses and daisies higher than the price of Sue\"s purchase of roses and daisies?",
+      "question": "Kim and Sue each bought some roses and some daisies at the prices shown above. If Kim bought the same total number of roses and daisies as Sue, was the price of Kim's purchase of roses and daisies higher than the price of Sue's purchase of roses and daisies?",
+      "options": {
         "1": "Kim bought twice as many daisies as roses.",
         "2": "Kim bought 4 more roses than Sue bought."
       },
@@ -152,7 +153,7 @@
       "question": "Each week a certain salesman is paid a fixed amount equal to $300, plus a commission equal to 5 percent of the amount of his sales that week over $1,000. What is the total amount the salesman was paid last week?",
       "options": {
         "1": "The total amount the salesman was paid last week is equal to 10 percent of the amount of his sales last week.",
-        "2": "The salesman"s sales last week totaled $5,000."
+        "2": "The salesman's sales last week totaled $5,000."
       },
       "correct_answer": "D",
       "explanation": "نفرض الراتب P والمبيعات S. P = 300 + 0.05(S-1000). البيان الأول: P=0.1S، بالتعويض: 0.1S = 300+0.05S-50 => 0.05S=250 => S=5000، P=500. الثاني: S=5000 => P=300+0.05(4000)=500. كل منهما كافٍ. الإجابة الصحيحة هي D."
@@ -235,8 +236,8 @@
       "difficulty": "Hard",
       "question": "Tom, Jane, and Sue each purchased a new house. The average (arithmetic mean) price of the three houses was $120,000. What was the median price of the three houses?",
       "options": {
-        "1": "The price of Tom"s house was $110,000.",
-        "2": "The price of Jane"s house was $120,000."
+        "1": "The price of Tom's house was $110,000.",
+        "2": "The price of Jane's house was $120,000."
       },
       "correct_answer": "B",
       "explanation": "المجموع الكلي = 360,000. البيان الثاني: J=120,000، فإما أن T=S=120,000 (الوسيط 120,000) أو أحدهما أقل من 120 والآخر أكبر (الوسيط أيضاً 120,000 لأن J في المنتصف). الأول: T=110,000، قد يكون الوسيط 120,000 (إذا J=120 و S=130) أو 125,000 (إذا J=S=125). الإجابة الصحيحة هي B."
@@ -259,8 +260,8 @@
       "difficulty": "Hard",
       "question": "In planning for a car trip, Joan estimated both the distance of the trip, in miles, and her average speed, in miles per hour. She accurately divided her estimated distance by her estimated average speed to obtain an estimate for the time, in hours, that the trip would take. Was her estimate within 0.5 hours of the actual time that the trip took?",
       "options": {
-        "1": "Joan"s estimate for the distance was within 5 miles of the actual distance.",
-        "2": "Joan"s estimate for her average speed was within 10 miles per hour of her actual average speed."
+        "1": "Joan's estimate for the distance was within 5 miles of the actual distance.",
+        "2": "Joan's estimate for her average speed was within 10 miles per hour of her actual average speed."
       },
       "correct_answer": "E",
       "explanation": "قد يكون التقدير قريباً جداً من الواقع أو بعيداً. مثال: المسافة الفعلية 20 ميل، السرعة 20 ميل/ساعة (الزمن 1 ساعة). التقدير: مسافة 20، سرعة 20 (الزمن 1 ساعة، الفرق 0). أو التقدير: مسافة 20، سرعة 10 (الزمن 2 ساعة، الفرق 1 > 0.5). كلاهما يحقق الشرطين لكن النتيجة مختلفة. الإجابة الصحيحة هي E."
@@ -281,13 +282,13 @@
       "id": 388,
       "type": "Data Sufficiency",
       "difficulty": "Hard",
-      "question": "The table above shows the results of a survey of 100 voters who each responded "Favorable" or "Unfavorable" or "Not Sure" when asked about their impressions of Candidate M and of Candidate N. What was the number of voters who responded "Favorable" for both candidates?",
+      "question": "The table above shows the results of a survey of 100 voters who each responded 'Favorable' or 'Unfavorable' or 'Not Sure' when asked about their impressions of Candidate M and of Candidate N. What was the number of voters who responded 'Favorable' for both candidates?",
       "options": {
-        "1": "The number of voters who did not respond "Favorable" for either candidate was 40.",
-        "2": "The number of voters who responded "Unfavorable" for both candidates was 10."
+        "1": "The number of voters who did not respond 'Favorable' for either candidate was 40.",
+        "2": "The number of voters who responded 'Unfavorable' for both candidates was 10."
       },
       "correct_answer": "A",
-      "explanation": "نفرض x = عدد الذين صوتوا "مؤيد" لكلاهما. عدد المؤيدين لـ M = 40، لـ N = 30. عدد المؤيدين لواحد على الأقل = 40+30-x = 70-x. البيان الأول: عدد الذين لم يؤيدوا أياً منهما = 40. إذن (70-x)+40=100 => x=10. الثاني يعطي غير موافق لكليهما، لكن لا يعطي معلومات عن المؤيدين. الإجابة الصحيحة هي A."
+      "explanation": "نفرض x = عدد الذين صوتوا 'مؤيد' لكلاهما. عدد المؤيدين لـ M = 40، لـ N = 30. عدد المؤيدين لواحد على الأقل = 40+30-x = 70-x. البيان الأول: عدد الذين لم يؤيدوا أياً منهما = 40. إذن (70-x)+40=100 => x=10. الثاني يعطي غير موافق لكليهما، لكن لا يعطي معلومات عن المؤيدين. الإجابة الصحيحة هي A."
     },
     {
       "id": 389,
@@ -329,10 +330,10 @@
       "id": 392,
       "type": "Data Sufficiency",
       "difficulty": "Hard",
-      "question": "Last year, a certain company began manufacturing Product X and sold every unit of Product X that it produced. Last year, the company"s total expenses for manufacturing Product X were equal to $100,000 plus 5 percent of the company"s total revenue from all units of Product X sold. If the company made a profit on Product X last year, did the company sell more than 21,000 units of Product X last year?",
+      "question": "Last year, a certain company began manufacturing Product X and sold every unit of Product X that it produced. Last year, the company's total expenses for manufacturing Product X were equal to $100,000 plus 5 percent of the company's total revenue from all units of Product X sold. If the company made a profit on Product X last year, did the company sell more than 21,000 units of Product X last year?",
       "options": {
-        "1": "The company"s total revenue from the sale of Product X last year was greater than $110,000.",
-        "2": "For each unit of Product X sold last year, the company"s revenue was $5."
+        "1": "The company's total revenue from the sale of Product X last year was greater than $110,000.",
+        "2": "For each unit of Product X sold last year, the company's revenue was $5."
       },
       "correct_answer": "B",
       "explanation": "الربح = R - (100000+0.05R) = 0.95R - 100000 > 0 => R > 105263. البيان الثاني: سعر الوحدة = 5، وعدد الوحدات = n، R=5n. إذن 0.95(5n) > 100000 => 4.75n > 100000 => n > 21052.6، أي أكثر من 21000. الأول: R>110000 لا يعطي عدد الوحدات (قد يكون السعر مرتفعاً والعدد قليلاً). الإجابة الصحيحة هي B."
@@ -341,10 +342,10 @@
       "id": 393,
       "type": "Data Sufficiency",
       "difficulty": "Hard",
-      "question": "Beginning in January of last year, Carl made deposits of $120 into his account on the 15th of each month for several consecutive months and then made withdrawals of $50 from the account on the 15th of each of the remaining months of last year. There were no other transactions in the account last year. If the closing balance of Carl"s account for May of last year was $2,600, what was the range of the monthly closing balances of Carl"s account last year?",
+      "question": "Beginning in January of last year, Carl made deposits of $120 into his account on the 15th of each month for several consecutive months and then made withdrawals of $50 from the account on the 15th of each of the remaining months of last year. There were no other transactions in the account last year. If the closing balance of Carl's account for May of last year was $2,600, what was the range of the monthly closing balances of Carl's account last year?",
       "options": {
-        "1": "Last year, the closing balance of Carl"s account for April was less than $2,625.",
-        "2": "Last year, the closing balance of Carl"s account for June was less than $2,675."
+        "1": "Last year, the closing balance of Carl's account for April was less than $2,625.",
+        "2": "Last year, the closing balance of Carl's account for June was less than $2,675."
       },
       "correct_answer": "C",
       "explanation": "من مايو، الرصيد 2600. إما أن يكون أبريل 2600-120=2480 (إذا بدأ السحب في مايو أو قبلها) أو 2600+50=2650 (إذا بدأ السحب في يونيو أو بعدها). البيان الأول: أبريل < 2625 يعني أبريل = 2480، أي بدأ السحب في مايو أو قبل. البيان الثاني: يونيو < 2675 يعني يونيو = 2550 (إذا بدأ السحب في مايو أو يونيو) أو 2720 (إذا بدأ السحب بعد يونيو). بالجمع: أبريل 2480 ويونيو 2550، أي أن السحب بدأ في مايو (من مايو إلى ديسمبر 8 أشهر سحب). يمكن حساب كل الشهور وبالتالي المدى. الإجابة الصحيحة هي C."
@@ -355,8 +356,8 @@
       "difficulty": "Hard",
       "question": "What amount did Jean earn from the commission on her sales in the first half of 1988?",
       "options": {
-        "1": "In 1988, Jean"s commission was 5 percent of the total amount of her sales.",
-        "2": "The amount of Jean"s sales in the second half of 1988 averaged $10,000 per month more than in the first half."
+        "1": "In 1988, Jean's commission was 5 percent of the total amount of her sales.",
+        "2": "The amount of Jean's sales in the second half of 1988 averaged $10,000 per month more than in the first half."
       },
       "correct_answer": "E",
       "explanation": "نحتاج لمبيعات النصف الأول. الأول يعطي النسبة فقط، الثاني يعطي الفرق بين النصفين. لا توجد قيمة مطلقة للمبيعات. الإجابة الصحيحة هي E."
@@ -449,22 +450,22 @@
       "id": 402,
       "type": "Data Sufficiency",
       "difficulty": "Hard",
-      "question": "Chris was in an electronic appliances store to buy an LED computer monitor. Chris"s purchase criteria included screen size, which must be at least 32 inches, and price, which must not exceed $400. A friend made two recommendations: Monitor A and Monitor B. Chris liked both monitors. Did Chris more likely buy Monitor A, Monitor B, or neither?",
+      "question": "Chris was in an electronic appliances store to buy an LED computer monitor. Chris's purchase criteria included screen size, which must be at least 32 inches, and price, which must not exceed $400. A friend made two recommendations: Monitor A and Monitor B. Chris liked both monitors. Did Chris more likely buy Monitor A, Monitor B, or neither?",
       "options": {
-        "1": "Monitor A"s screen size was more than 32 inches and it cost less than Monitor B.",
+        "1": "Monitor A's screen size was more than 32 inches and it cost less than Monitor B.",
         "2": "Monitor B cost $390 and its screen size was less than that of Monitor A."
       },
       "correct_answer": "E",
-      "explanation": "البيان الأول: A حجمه >32 وسعره أقل من B. لكن لا نعرف سعر A (قد يكون >400) ولا حجم B. الثاني: B سعره 390 (يحقق السعر) وحجمه أقل من A، لكن لا نعرف حجم A (قد يكون <32) ولا سعر A. معاً: A حجمه >32 وسعره أقل من B (أقل من 390)، إذن A يحقق كلا الشرطين بالتأكيد. لكن هناك معايير أخرى لم تذكر، وقد يكون هناك شاشة أخرى. السؤال عن "most likely" لا يمكن الجزم به. الإجابة الصحيحة هي E."
+      "explanation": "البيان الأول: A حجمه >32 وسعره أقل من B. لكن لا نعرف سعر A (قد يكون >400) ولا حجم B. الثاني: B سعره 390 (يحقق السعر) وحجمه أقل من A، لكن لا نعرف حجم A (قد يكون <32) ولا سعر A. معاً: A حجمه >32 وسعره أقل من B (أقل من 390)، إذن A يحقق كلا الشرطين بالتأكيد. لكن هناك معايير أخرى لم تذكر، وقد يكون هناك شاشة أخرى. السؤال عن \"most likely\" لا يمكن الجزم به. الإجابة الصحيحة هي E."
     },
     {
       "id": 403,
       "type": "Data Sufficiency",
       "difficulty": "Hard",
-      "question": "A certain pizzeria has more than fifty types of pizza on its menu. The chart above shows the revenue share, in the pizzeria"s total revenue in the last month, of its four most popular pizza types. Each pizza type has only a single size and a single price. Which was their best-selling pizza last month in terms of number of pizzas sold?",
+      "question": "A certain pizzeria has more than fifty types of pizza on its menu. The chart above shows the revenue share, in the pizzeria's total revenue in the last month, of its four most popular pizza types. Each pizza type has only a single size and a single price. Which was their best-selling pizza last month in terms of number of pizzas sold?",
       "options": {
         "1": "The number of customers who ordered at least one Pep-Peroni pizza last month was greater than the number of customers who ordered at least one of any other pizza type last month.",
-        "2": "The lowest-priced pizza type on the pizzeria"s menu is Tomato Blast, followed by VegCheese."
+        "2": "The lowest-priced pizza type on the pizzeria's menu is Tomato Blast, followed by VegCheese."
       },
       "correct_answer": "B",
       "explanation": "المخطط يظهر حصة الإيرادات. البيان الثاني: Tomato Blast هو الأقل سعراً، ومع ذلك فإن إيراداته الأعلى، فهذا يعني أنه بيعت منه كميات أكبر من أي نوع آخر. الأول يتحدث عن عدد العملاء وليس عدد البيتزا (قد يشتري العميل عدة بيتزا). الإجابة الصحيحة هي B."
@@ -509,7 +510,7 @@
       "id": 407,
       "type": "Data Sufficiency",
       "difficulty": "Hard",
-      "question": "Four book lovers have recently met and are not sure of the topics that interest the others. The table above indicates the topics that interest each of them with check marks and those that do not with cross marks (Xs). One of these persons will give another of these persons two books, each on a different one of the listed topics. Will at least one of the two books fall under the recipient"s broad topic of interest?",
+      "question": "Four book lovers have recently met and are not sure of the topics that interest the others. The table above indicates the topics that interest each of them with check marks and those that do not with cross marks (Xs). One of these persons will give another of these persons two books, each on a different one of the listed topics. Will at least one of the two books fall under the recipient's broad topic of interest?",
       "options": {
         "1": "One topic is science fiction and the other is humor.",
         "2": "The intended recipient is Carlos."
@@ -573,7 +574,7 @@
       "id": 412,
       "type": "Two-Part Analysis",
       "difficulty": "Easy",
-      "question": "Advice from a computer security expert on passwords used for accessing online accounts follows: Computer users should use a different password for each online account. They should also use strong passwords, which are hard for hackers to decipher. However, strong passwords are difficult to remember, and this is especially the case for users who have multiple online accounts. Fortunately, software is available at no cost that can store and encrypt a user"s passwords: the user need only remember one password to access the rest. For users willing to take the time to install the software on a computer and enter all the required data, such software provides one way to comply with my advice. Some versions of the software can even be copied to a portable device, such as a USB drive, whereby a user can access passwords from any compatible computer. For computer users with multiple accounts who would not otherwise use a different strong password on every account, the expert"s advice amounts to suggesting that such users make certain sacrifices in order to make certain gains. Indicate by appropriate selections in the first and second column which of the items in the third column such users would sacrifice and which they would gain.",
+      "question": "Advice from a computer security expert on passwords used for accessing online accounts follows: Computer users should use a different password for each online account. They should also use strong passwords, which are hard for hackers to decipher. However, strong passwords are difficult to remember, and this is especially the case for users who have multiple online accounts. Fortunately, software is available at no cost that can store and encrypt a user's passwords: the user need only remember one password to access the rest. For users willing to take the time to install the software on a computer and enter all the required data, such software provides one way to comply with my advice. Some versions of the software can even be copied to a portable device, such as a USB drive, whereby a user can access passwords from any compatible computer. For computer users with multiple accounts who would not otherwise use a different strong password on every account, the expert's advice amounts to suggesting that such users make certain sacrifices in order to make certain gains. Indicate by appropriate selections in the first and second column which of the items in the third column such users would sacrifice and which they would gain.",
       "options": {
         "1": "Sacrifice",
         "2": "Gain",
@@ -586,7 +587,7 @@
       "id": 413,
       "type": "Two-Part Analysis",
       "difficulty": "Easy",
-      "question": "Some studies of how it was that Prussia resisted the wave of European democratization in the nineteenth century point to Prussia"s unequal distribution of land ownership as the principal explanation. And political figures from areas in Prussia with high inequality in land ownership tended to be the staunchest opponents of democratic reforms. However, arguments that focus only on those figures" conflicts with landless people ignore the fact that political figures are not only representatives of socioeconomic interests but also political actors embedded in particular contexts that shape whether they support democratic reforms. Historians must take such contexts into account if they hope to explain what transpired in Prussia during this period. Select Passage for the statement that best describes the purpose of the passage as a whole, and select Portion in Boldface for the statement that best describes the purpose of the portion in boldface.",
+      "question": "Some studies of how it was that Prussia resisted the wave of European democratization in the nineteenth century point to Prussia's unequal distribution of land ownership as the principal explanation. And political figures from areas in Prussia with high inequality in land ownership tended to be the staunchest opponents of democratic reforms. However, arguments that focus only on those figures' conflicts with landless people ignore the fact that political figures are not only representatives of socioeconomic interests but also political actors embedded in particular contexts that shape whether they support democratic reforms. Historians must take such contexts into account if they hope to explain what transpired in Prussia during this period. Select Passage for the statement that best describes the purpose of the passage as a whole, and select Portion in Boldface for the statement that best describes the purpose of the portion in boldface.",
       "options": {
         "1": "Passage",
         "2": "Portion in Boldface",
@@ -634,7 +635,7 @@
       "id": 416,
       "type": "Two-Part Analysis",
       "difficulty": "Easy",
-      "question": "Adiliah, Bao, Davi, Laszlo, Saleema, and Yarah work in a firm"s legal department. Adiliah supervises Bao and Davi, Davi supervises Laszlo, and Laszlo supervises Saleema and Yarah. These are the only supervisory relationships involving these six employees. Each document that the department processes must be initially reviewed by exactly one department member. Each document reviewed by a department member must then be reviewed by that person"s supervisor. No other rules require anyone else to review any document. Anyone not required to review a given document will not review it. Select Laszlo among reviewers for the maximum number of department members who could have reviewed a single document if Laszlo was among the reviewers. Select Adiliah among reviewers for the maximum number of department members who could have reviewed a single document if Adiliah was among the reviewers.",
+      "question": "Adiliah, Bao, Davi, Laszlo, Saleema, and Yarah work in a firm's legal department. Adiliah supervises Bao and Davi, Davi supervises Laszlo, and Laszlo supervises Saleema and Yarah. These are the only supervisory relationships involving these six employees. Each document that the department processes must be initially reviewed by exactly one department member. Each document reviewed by a department member must then be reviewed by that person's supervisor. No other rules require anyone else to review any document. Anyone not required to review a given document will not review it. Select Laszlo among reviewers for the maximum number of department members who could have reviewed a single document if Laszlo was among the reviewers. Select Adiliah among reviewers for the maximum number of department members who could have reviewed a single document if Adiliah was among the reviewers.",
       "options": {
         "1": "Laszlo among reviewers",
         "2": "Adiliah among reviewers",
@@ -647,7 +648,7 @@
       "id": 417,
       "type": "Two-Part Analysis",
       "difficulty": "Easy",
-      "question": "Naturalist: The decline of coral reefs has various causes. One contributing factor is predation on coral by organisms such as the crown-of-thorns sea star, whose preferred food source is coral polyps. Human fishing practices have decreased the sea star"s predators, such as the harlequin shrimp. It is also possible that runoff containing nutrients for phytoplankton has resulted in larger phytoplankton blooms: the crown-of-thorns sea star gladly eats phytoplankton. Indicate which cause-and-effect sequence would most likely, according to the naturalist, result in coral reef decline.",
+      "question": "Naturalist: The decline of coral reefs has various causes. One contributing factor is predation on coral by organisms such as the crown-of-thorns sea star, whose preferred food source is coral polyps. Human fishing practices have decreased the sea star's predators, such as the harlequin shrimp. It is also possible that runoff containing nutrients for phytoplankton has resulted in larger phytoplankton blooms: the crown-of-thorns sea star gladly eats phytoplankton. Indicate which cause-and-effect sequence would most likely, according to the naturalist, result in coral reef decline.",
       "options": {
         "1": "Cause",
         "2": "Effect",
@@ -666,7 +667,7 @@
       "id": 418,
       "type": "Two-Part Analysis",
       "difficulty": "Easy",
-      "question": "Archaeologist: There were several porcelain-production centers in eighteenth-century Britain, among them Bristol, Plymouth, and New Hall. Each center developed a unique recipe for its porcelain that might include flint glass, soapstone, bone ash, clay, quartz, and so on. We will therefore be able to determine, on the basis of compositional analysis, where the next cup we recover from this archaeological site was made. Indicate two different statements as follows: one statement identifies an assumption required by the archaeologist"s argument, and the other identifies a possible fact that would, if true, provide significant logical support for the required assumption.",
+      "question": "Archaeologist: There were several porcelain-production centers in eighteenth-century Britain, among them Bristol, Plymouth, and New Hall. Each center developed a unique recipe for its porcelain that might include flint glass, soapstone, bone ash, clay, quartz, and so on. We will therefore be able to determine, on the basis of compositional analysis, where the next cup we recover from this archaeological site was made. Indicate two different statements as follows: one statement identifies an assumption required by the archaeologist's argument, and the other identifies a possible fact that would, if true, provide significant logical support for the required assumption.",
       "options": {
         "1": "Assumption Required",
         "2": "Possible Fact",
@@ -674,7 +675,7 @@
           "Other cups have been recovered from the archeological site, all of which were made of porcelain.",
           "Some of the cups recovered from the archeological site were not made of porcelain.",
           "The next cup to be recovered from the site will likely be made of porcelain.",
-          "Porcelain makers often traveled between centers, experimenting with one another"s recipes.",
+          "Porcelain makers often traveled between centers, experimenting with one another's recipes.",
           "There was considerable overlap of materials in the recipes used by the various centers.",
           "Most porcelain in eighteenth-century Britain was made at one of the several centers."
         ]
@@ -689,26 +690,26 @@
       "id": 419,
       "type": "Two-Part Analysis",
       "difficulty": "Easy",
-      "question": "Health advocate: The government"s current farm-subsidy system primarily rewards large farms for planting monocultures of corn, soybeans, wheat, and rice. Most of the crops produced in this way go to feed livestock in factory farms, which results in a glut of fatty meats in the marketplace. A large proportion of such crops that are not used to feed livestock are used to make sugary processed foods. These subsidies promote unhealthy diets by making sugary foods and fatty meats artificially cheap. Obviously, it is important for the government to avoid these effects. On the basis of the information above, select Recommendations for the option that describes the government action that the health advocate most likely recommends, and select Intended result for the option that describes what the health advocate likely hopes will be the result of that action.",
+      "question": "Health advocate: The government's current farm-subsidy system primarily rewards large farms for planting monocultures of corn, soybeans, wheat, and rice. Most of the crops produced in this way go to feed livestock in factory farms, which results in a glut of fatty meats in the marketplace. A large proportion of such crops that are not used to feed livestock are used to make sugary processed foods. These subsidies promote unhealthy diets by making sugary foods and fatty meats artificially cheap. Obviously, it is important for the government to avoid these effects. On the basis of the information above, select Recommendations for the option that describes the government action that the health advocate most likely recommends, and select Intended result for the option that describes what the health advocate likely hopes will be the result of that action.",
       "options": {
         "1": "Recommendations",
         "2": "Intended result",
         "choices": [
           "Improve the overall quality of livestock feed",
-          "Improve the overall quality of people"s diets",
-          "Reduce the overall financial cost of people"s diets",
+          "Improve the overall quality of people's diets",
+          "Reduce the overall financial cost of people's diets",
           "Prevent the manufacture of sugary processed food",
           "Change the farm-subsidy system"
         ]
       },
-      "correct_answer": ["Change the farm-subsidy system", "Improve the overall quality of people"s diets"],
+      "correct_answer": ["Change the farm-subsidy system", "Improve the overall quality of people's diets"],
       "explanation": "المناصر ينتقد نظام الإعانات، لذا يوصي بتغييره. والنتيجة المرجوة هي تحسين جودة النظم الغذائية للناس."
     },
     {
       "id": 420,
       "type": "Two-Part Analysis",
       "difficulty": "Easy",
-      "question": "An archaeologist studying Artifacts A-D is interested in whether Artifact C is older than Artifact A. Select an assertion involving Artifact A and an assertion involving Artifact C that together imply the assertion "Artifact C is older than Artifact A."",
+      "question": "An archaeologist studying Artifacts A-D is interested in whether Artifact C is older than Artifact A. Select an assertion involving Artifact A and an assertion involving Artifact C that together imply the assertion 'Artifact C is older than Artifact A.'",
       "options": {
         "1": "Assertion involving Artifact A",
         "2": "Assertion involving Artifact C",
@@ -763,7 +764,7 @@
       "id": 423,
       "type": "Two-Part Analysis",
       "difficulty": "Medium",
-      "question": "Supervisor"s memo: At the present rate of manufacture we will not have the 1,200 circuit boards assembled in time to ship them to the customer. We currently have 10 workers, all working 8 hours a day at the same hourly rate, assembling the boards, and to date they"ve assembled 400. In order to finish the customer"s order in time, I"ll need to have each of the workers work an additional 2 hours for each of the 10 workdays between now and the deadline. One can determine the hourly rate at which each worker assembled circuit boards up to the date of the supervisor"s memo by dividing 1 circuit boards by the product of 2 worker-hours per day and the number of days since the workers began assembling the circuit boards. Select Circuit boards for the option that fills the blank labeled 1 in the given statement, and select Worker-hours for the option that fills the blank labeled 2 in the given statement to create the most accurate statement on the basis of the information provided.",
+      "question": "Supervisor's memo: At the present rate of manufacture we will not have the 1,200 circuit boards assembled in time to ship them to the customer. We currently have 10 workers, all working 8 hours a day at the same hourly rate, assembling the boards, and to date they've assembled 400. In order to finish the customer's order in time, I'll need to have each of the workers work an additional 2 hours for each of the 10 workdays between now and the deadline. One can determine the hourly rate at which each worker assembled circuit boards up to the date of the supervisor's memo by dividing 1 circuit boards by the product of 2 worker-hours per day and the number of days since the workers began assembling the circuit boards. Select Circuit boards for the option that fills the blank labeled 1 in the given statement, and select Worker-hours for the option that fills the blank labeled 2 in the given statement to create the most accurate statement on the basis of the information provided.",
       "options": {
         "1": "Circuit boards",
         "2": "Worker-hours",
@@ -776,26 +777,26 @@
       "id": 424,
       "type": "Two-Part Analysis",
       "difficulty": "Medium",
-      "question": "In an experiment, one thousand nine-year-old children were allowed to choose whether to participate in a program in which the researchers taught them dance during the daily break from their lessons. Four hundred of the children chose to participate for at least one year. At the end of the year, researchers found that the children who had participated had significantly better balance, on average, than those who had not. The researchers hypothesized that dancing resulted in a sustained improvement in the children"s sense of balance. It would be most helpful in evaluating the researchers" hypothesis to know whether the researchers 1 prior to having 2. Select Researchers for the phrase that fills the blank labeled 1 in the given statement, and select Prior to for the phrase that fills the blank labeled 2 in the given statement to create the most accurate statement on the basis of the information provided.",
+      "question": "In an experiment, one thousand nine-year-old children were allowed to choose whether to participate in a program in which the researchers taught them dance during the daily break from their lessons. Four hundred of the children chose to participate for at least one year. At the end of the year, researchers found that the children who had participated had significantly better balance, on average, than those who had not. The researchers hypothesized that dancing resulted in a sustained improvement in the children's sense of balance. It would be most helpful in evaluating the researchers' hypothesis to know whether the researchers 1 prior to having 2. Select Researchers for the phrase that fills the blank labeled 1 in the given statement, and select Prior to for the phrase that fills the blank labeled 2 in the given statement to create the most accurate statement on the basis of the information provided.",
       "options": {
         "1": "Researchers",
         "2": "Prior to",
         "choices": [
-          "tested the children"s ability to dance",
+          "tested the children's ability to dance",
           "designed a second experiment",
           "divided the children into the two experimental groups",
-          "tested the children"s sense of balance",
+          "tested the children's sense of balance",
           "taught dance to the children through the dance program"
         ]
       },
-      "correct_answer": ["tested the children"s sense of balance", "taught dance to the children through the dance program"],
+      "correct_answer": ["tested the children's sense of balance", "taught dance to the children through the dance program"],
       "explanation": "لتقييم الفرضية، من المهم معرفة ما إذا كان الباحثون قد اختبروا حس التوازن لدى الأطفال قبل تعليمهم الرقص، لاستبعاد احتمال أن الأطفال الذين اختاروا المشاركة كانوا أصلاً أفضل توازناً."
     },
     {
       "id": 425,
       "type": "Two-Part Analysis",
       "difficulty": "Medium",
-      "question": "Klaus: Closing our neighborhood"s school will mean a major hassle for neighborhood families. Students will have to travel farther to and from school, which means they"ll have less time for homework. That will likely affect them academically. Additionally, a vacant school building in our neighborhood is sure to attract crime and drag down home values. Rena: Our neighborhood"s school never had a great reputation anyway. Closing it means students will get to go to a larger school—with a better reputation—just a few kilometers away, where they"ll have more opportunities to participate in extracurricular activities. That should make homes here more valuable to potential buyers. And the vacant school building could be converted into a much-needed community center. Select Klaus for the phrase that best describes a factor that is specifically addressed by Klaus but not by Rena, and select Rena for the phrase that best describes a factor that is specifically addressed by Rena but not by Klaus.",
+      "question": "Klaus: Closing our neighborhood's school will mean a major hassle for neighborhood families. Students will have to travel farther to and from school, which means they'll have less time for homework. That will likely affect them academically. Additionally, a vacant school building in our neighborhood is sure to attract crime and drag down home values. Rena: Our neighborhood's school never had a great reputation anyway. Closing it means students will get to go to a larger school—with a better reputation—just a few kilometers away, where they'll have more opportunities to participate in extracurricular activities. That should make homes here more valuable to potential buyers. And the vacant school building could be converted into a much-needed community center. Select Klaus for the phrase that best describes a factor that is specifically addressed by Klaus but not by Rena, and select Rena for the phrase that best describes a factor that is specifically addressed by Rena but not by Klaus.",
       "options": {
         "1": "Klaus",
         "2": "Rena",
@@ -804,17 +805,17 @@
           "The distance students must travel to school",
           "Extracurricular activities",
           "Real estate values",
-          "Students" academic performance"
+          "Students' academic performance"
         ]
       },
-      "correct_answer": ["Students" academic performance", "Extracurricular activities"],
+      "correct_answer": ["Students' academic performance", "Extracurricular activities"],
       "explanation": "كلاوس يتحدث عن الأداء الأكاديمي (وقت أقل للواجب)، بينما رينا تتحدث عن الأنشطة اللامنهجية. كلاهما يتحدث عن المبنى الفارغ والمسافة وقيم العقارات."
     },
     {
       "id": 426,
       "type": "Two-Part Analysis",
       "difficulty": "Medium",
-      "question": "Alfredo: The United States could make significant progress toward becoming independent of petroleum-derived gasoline as a source of energy by diverting a large proportion of corn grown in the US to the production of ethanol for fuel. Brazil is virtually independent of petroleum as a source of fuel because that country has been very successful in ethanol production. Mavis: Ethanol derived from corn will never be a viable substitute for petroleum-derived gasoline in the US. While it is true that Brazil has been very successful in replacing gasoline with ethanol, Brazil"s ethanol is derived from sugarcane, which is very easy to convert to ethanol and, in Brazil, very easy to cultivate. Corn, on the other hand, is difficult to grow, requiring intensive cultivation. Also, the amount of power that can be garnered from the land is much less per square meter for corn ethanol. In the table, select the statement about which Alfredo and Mavis would most clearly agree and select the statement about which Alfredo and Mavis would most clearly disagree.",
+      "question": "Alfredo: The United States could make significant progress toward becoming independent of petroleum-derived gasoline as a source of energy by diverting a large proportion of corn grown in the US to the production of ethanol for fuel. Brazil is virtually independent of petroleum as a source of fuel because that country has been very successful in ethanol production. Mavis: Ethanol derived from corn will never be a viable substitute for petroleum-derived gasoline in the US. While it is true that Brazil has been very successful in replacing gasoline with ethanol, Brazil's ethanol is derived from sugarcane, which is very easy to convert to ethanol and, in Brazil, very easy to cultivate. Corn, on the other hand, is difficult to grow, requiring intensive cultivation. Also, the amount of power that can be garnered from the land is much less per square meter for corn ethanol. In the table, select the statement about which Alfredo and Mavis would most clearly agree and select the statement about which Alfredo and Mavis would most clearly disagree.",
       "options": {
         "1": "Agree with each other about",
         "2": "Disagree with each other about",
@@ -836,7 +837,7 @@
       "id": 427,
       "type": "Two-Part Analysis",
       "difficulty": "Medium",
-      "question": "Radhika is refinancing a business loan and is considering 2 different loan offers. Under Offer 1, the loan"s initial principal would be $190,000 and she would pay down $1,250 in principal with each monthly payment during the first year of the loan. Under Offer 2, $4,000 in refinancing fees would be added to bring the principal to $194,000, but she would pay down $1,775 in principal with each monthly payment during the first year of the loan. In the first column of the table, select the amount of principal that would remain after 12 monthly payments under Offer 1. In the second column of the table, select the amount of principal that would remain after 12 monthly payments under offer 2.",
+      "question": "Radhika is refinancing a business loan and is considering 2 different loan offers. Under Offer 1, the loan's initial principal would be $190,000 and she would pay down $1,250 in principal with each monthly payment during the first year of the loan. Under Offer 2, $4,000 in refinancing fees would be added to bring the principal to $194,000, but she would pay down $1,775 in principal with each monthly payment during the first year of the loan. In the first column of the table, select the amount of principal that would remain after 12 monthly payments under Offer 1. In the second column of the table, select the amount of principal that would remain after 12 monthly payments under offer 2.",
       "options": {
         "1": "Principal remaining after 12 months under Offer 1",
         "2": "Principal remaining after 12 months under Offer 2",
@@ -946,12 +947,12 @@
       "id": 434,
       "type": "Two-Part Analysis",
       "difficulty": "Medium",
-      "question": "An American museum of East Asian art reviewed its acquisitions strategy in 2009. As part of that review, a marketing executive recommended purchasing more ceramics, jades, and paintings of people or landscapes because visitor surveys indicated that those types are of greatest interest to museumgoers in the region. The museum"s curator recommended purchasing more twenty-first-century East Asian art—particularly abstract (nonrepresentational) paintings and sculptures—because the museum"s collection is weakest in that area. Among the East Asian works of art described below, select a painting and a sculpture, each of which satisfies at least one of the recommendations made by the marketing executive and at least one of the recommendations made by the curator.",
+      "question": "An American museum of East Asian art reviewed its acquisitions strategy in 2009. As part of that review, a marketing executive recommended purchasing more ceramics, jades, and paintings of people or landscapes because visitor surveys indicated that those types are of greatest interest to museumgoers in the region. The museum's curator recommended purchasing more twenty-first-century East Asian art—particularly abstract (nonrepresentational) paintings and sculptures—because the museum's collection is weakest in that area. Among the East Asian works of art described below, select a painting and a sculpture, each of which satisfies at least one of the recommendations made by the marketing executive and at least one of the recommendations made by the curator.",
       "options": {
         "1": "Painting",
         "2": "Sculpture",
         "choices": [
-          "Painting of girl"s face, in shades of blue and red, acrylic and oil on canvas, 2006",
+          "Painting of girl's face, in shades of blue and red, acrylic and oil on canvas, 2006",
           "Chinese brush painting of fish in a tank, ink on paper, 2002",
           "Fish-shaped vase with dragon head, jade, 1849",
           "Abstract sequence of interconnected curves, ceramic, 2008",
@@ -959,16 +960,16 @@
         ]
       },
       "correct_answer": [
-        "Painting of girl"s face, in shades of blue and red, acrylic and oil on canvas, 2006",
+        "Painting of girl's face, in shades of blue and red, acrylic and oil on canvas, 2006",
         "Abstract sequence of interconnected curves, ceramic, 2008"
       ],
-      "explanation": "اللوحة: رسم لوجه فتاة (ينطبق على "لوحات الأشخاص") وعام 2006 (القرن 21). التمثال: سيراميك (ينطبق على "السيراميك") وعام 2008 (القرن 21) ومجرد (ينطبق على "المنحوتات التجريدية")."
+      "explanation": "اللوحة: رسم لوجه فتاة (ينطبق على 'لوحات الأشخاص') وعام 2006 (القرن 21). التمثال: سيراميك (ينطبق على 'السيراميك') وعام 2008 (القرن 21) ومجرد (ينطبق على 'المنحوتات التجريدية')."
     },
     {
       "id": 435,
       "type": "Two-Part Analysis",
       "difficulty": "Medium",
-      "question": "Professor A: The aid industry should begin to focus its efforts to spending on primary schools in the poorest areas, to providing medicines and other basic supplies for health such as mosquito nets, and to a few key agricultural initiatives. Professor B: Much education work has been ineffective. A village or town with poor schooling may be better off getting a road than a teacher. Once local farmers can transport produce to market, they will be willing to pay for schools—and to make sure the schools succeed. Suppose that the professors" statements express their genuine opinions. Select statements (1) and (2) as follows: Professor A would likely disagree with (1), and Professor B would take (2) to present logical support for (1).",
+      "question": "Professor A: The aid industry should begin to focus its efforts to spending on primary schools in the poorest areas, to providing medicines and other basic supplies for health such as mosquito nets, and to a few key agricultural initiatives. Professor B: Much education work has been ineffective. A village or town with poor schooling may be better off getting a road than a teacher. Once local farmers can transport produce to market, they will be willing to pay for schools—and to make sure the schools succeed. Suppose that the professors' statements express their genuine opinions. Select statements (1) and (2) as follows: Professor A would likely disagree with (1), and Professor B would take (2) to present logical support for (1).",
       "options": {
         "1": "1",
         "2": "2",
@@ -1043,7 +1044,7 @@
       "id": 440,
       "type": "Two-Part Analysis",
       "difficulty": "Medium",
-      "question": "Educational policy analyst: To improve the long-term economic benefits that our country"s universities provide to their students, the government should provide subsidies enabling the universities to hire more academic staff. Hiring more academic staff would allow smaller class sizes. Statistically, university students in smaller classes tend to receive higher grades than those in larger classes. And on average, a student who earns higher grades in university classes tends to have a higher salary after graduation than a student who earns lower grades. Thus, hiring more academic staff nationwide should improve the economic well-being of graduates nationwide. Consider the incomplete statement: According to the analyst"s argument, students" 1 is bolstered by their 2. Select for 1 and 2 the options that complete the statement in the manner that most accurately reflects the given information.",
+      "question": "Educational policy analyst: To improve the long-term economic benefits that our country's universities provide to their students, the government should provide subsidies enabling the universities to hire more academic staff. Hiring more academic staff would allow smaller class sizes. Statistically, university students in smaller classes tend to receive higher grades than those in larger classes. And on average, a student who earns higher grades in university classes tends to have a higher salary after graduation than a student who earns lower grades. Thus, hiring more academic staff nationwide should improve the economic well-being of graduates nationwide. Consider the incomplete statement: According to the analyst's argument, students' 1 is bolstered by their 2. Select for 1 and 2 the options that complete the statement in the manner that most accurately reflects the given information.",
       "options": {
         "1": "1",
         "2": "2",
@@ -1062,7 +1063,7 @@
       "id": 441,
       "type": "Two-Part Analysis",
       "difficulty": "Medium",
-      "question": "The payload rating (PR) of a truck is the truck"s recommended load weight, which is specified as a number of tonnes (t), where 1 tonne = 1,000 kilograms. A certain truck"s PR is a whole number of tonnes. The truck has hauled exactly 7 loads, exactly 3 of which had a greater weight than the truck"s PR. The weights of these 7 loads, in tonnes, are as follows: 50, 51, 52, 52, 54, 54, 56. Select the Least and the Greatest possible values for the truck"s PR, in tonnes.",
+      "question": "The payload rating (PR) of a truck is the truck's recommended load weight, which is specified as a number of tonnes (t), where 1 tonne = 1,000 kilograms. A certain truck's PR is a whole number of tonnes. The truck has hauled exactly 7 loads, exactly 3 of which had a greater weight than the truck's PR. The weights of these 7 loads, in tonnes, are as follows: 50, 51, 52, 52, 54, 54, 56. Select the Least and the Greatest possible values for the truck's PR, in tonnes.",
       "options": {
         "1": "Least",
         "2": "Greatest",
@@ -1107,7 +1108,7 @@
       "id": 444,
       "type": "Two-Part Analysis",
       "difficulty": "Hard",
-      "question": "In June 1990, a small academic press published an initial run of 2,500 copies of linguist Chloe Vermeulen"s first book, Speech and Speaking. Because the first run was selling well, a second, larger run was produced in June 1995. Total sales for the period from June 1995-June 2000 represented an increase of 52 percent over total sales for the preceding five years; by June 2000, Vermeulen"s book had sold a total of 3,843 copies. In 2000, Speech and Speaking was cited in an influential paper; subsequently, for the period June 2000-June 2005, sales of Vermeulen"s book were double the sales for the previous five-year period. In the table, identify the number of books that most closely approximates the total sales of Speech and Speaking for each of the five-year periods June 1990-June 1995 and June 2000-June 2005, based on the information given.",
+      "question": "In June 1990, a small academic press published an initial run of 2,500 copies of linguist Chloe Vermeulen's first book, Speech and Speaking. Because the first run was selling well, a second, larger run was produced in June 1995. Total sales for the period from June 1995-June 2000 represented an increase of 52 percent over total sales for the preceding five years; by June 2000, Vermeulen's book had sold a total of 3,843 copies. In 2000, Speech and Speaking was cited in an influential paper; subsequently, for the period June 2000-June 2005, sales of Vermeulen's book were double the sales for the previous five-year period. In the table, identify the number of books that most closely approximates the total sales of Speech and Speaking for each of the five-year periods June 1990-June 1995 and June 2000-June 2005, based on the information given.",
       "options": {
         "1": "June 1990-June 1995",
         "2": "June 2000-June 2005",
@@ -1120,20 +1121,20 @@
       "id": 445,
       "type": "Two-Part Analysis",
       "difficulty": "Hard",
-      "question": "Miguel"s online banking password is nine characters long and includes at least one character of each of five types: digits, punctuation marks, uppercase (capital) letters, lowercase (noncapital) letters, and certain other characters. The password begins or ends with one of these other characters, of which it contains exactly one. No consecutive characters in the password are of the same one of these types. (For example, no capital letter is preceded or followed by another capital letter.) The password contains more lowercase letters than characters of any one of the other four types. It also contains fewer punctuation marks than digits, lowercase letters, or uppercase letters. The first three characters of the password are M, ?, and G. In the table, select a type of character that the fifth character in the password must be and a type of character that the seventh character must be.",
+      "question": "Miguel's online banking password is nine characters long and includes at least one character of each of five types: digits, punctuation marks, uppercase (capital) letters, lowercase (noncapital) letters, and certain other characters. The password begins or ends with one of these other characters, of which it contains exactly one. No consecutive characters in the password are of the same one of these types. (For example, no capital letter is preceded or followed by another capital letter.) The password contains more lowercase letters than characters of any one of the other four types. It also contains fewer punctuation marks than digits, lowercase letters, or uppercase letters. The first three characters of the password are M, ?, and G. In the table, select a type of character that the fifth character in the password must be and a type of character that the seventh character must be.",
       "options": {
         "1": "Fifth character",
         "2": "Seventh character",
         "choices": ["Digit", "Lowercase letter", "Punctuation mark", "Uppercase letter", "Other character"]
       },
       "correct_answer": ["Digit", "Digit"],
-      "explanation": "الأحرف الأولى: M (كبير)، ? (علامة ترقيم)، G (كبير). لا يوجد حرف "آخر" في البداية، إذن هو في النهاية (المرتبة 9). لدينا: كبير واحد (M) وآخر (G) = 2 كبير. علامة ترقيم واحدة (?) = 1. "آخر" واحد = 1. المجموع = 4. يتبقى 5 خانات (4-8) يجب أن تحتوي على أرقام وحروف صغيرة. عدد الأحرف الصغيرة > أي نوع آخر، وبما أن الكبيرة 2، والترقيم 1، والآخر 1، فيجب أن تكون الأحرف الصغيرة على الأقل 3 (لتكون أكثر من 2). وبما أن لدينا 5 خانات متبقية، فهي إما 3 صغيرة و 2 رقم، أو 4 صغيرة و1 رقم، أو 5 صغيرة و0 رقم. لكن يجب أن يكون هناك رقم واحد على الأقل (لأن جميع الأنواع مطلوبة). أيضاً عدد علامات الترقيم (1) أقل من الأرقام، أي الأرقام >1، إذن الأرقام ≥2. إذن الخانات المتبقية = 3 صغيرة و 2 رقم. وبما أنه لا يوجد حرفان متتاليان من نفس النوع، والمرتبة 3 هي G (كبير)، فالمرتبة 4 يجب أن تكون صغيرة أو رقم أو ترقيم، لكن الترقيم انتهى، والكبير لا يمكن أن يليه كبير. الترتيب الوحيد الذي يحقق عدم التكرار هو: 4 صغيرة، 5 رقم، 6 صغيرة، 7 رقم، 8 صغيرة. إذن الخامس والسابع أرقام."
+      "explanation": "الأحرف الأولى: M (كبير)، ? (علامة ترقيم)، G (كبير). لا يوجد حرف 'آخر' في البداية، إذن هو في النهاية (المرتبة 9). لدينا: كبير واحد (M) وآخر (G) = 2 كبير. علامة ترقيم واحدة (?) = 1. 'آخر' واحد = 1. المجموع = 4. يتبقى 5 خانات (4-8) يجب أن تحتوي على أرقام وحروف صغيرة. عدد الأحرف الصغيرة > أي نوع آخر، وبما أن الكبيرة 2، والترقيم 1، والآخر 1، فيجب أن تكون الأحرف الصغيرة على الأقل 3 (لتكون أكثر من 2). وبما أن لدينا 5 خانات متبقية، فهي إما 3 صغيرة و 2 رقم، أو 4 صغيرة و1 رقم، أو 5 صغيرة و0 رقم. لكن يجب أن يكون هناك رقم واحد على الأقل (لأن جميع الأنواع مطلوبة). أيضاً عدد علامات الترقيم (1) أقل من الأرقام، أي الأرقام >1، إذن الأرقام ≥2. إذن الخانات المتبقية = 3 صغيرة و 2 رقم. وبما أنه لا يوجد حرفان متتاليان من نفس النوع، والمرتبة 3 هي G (كبير)، فالمرتبة 4 يجب أن تكون صغيرة أو رقم أو ترقيم، لكن الترقيم انتهى، والكبير لا يمكن أن يليه كبير. الترتيب الوحيد الذي يحقق عدم التكرار هو: 4 صغيرة، 5 رقم، 6 صغيرة، 7 رقم، 8 صغيرة. إذن الخامس والسابع أرقام."
     },
     {
       "id": 446,
       "type": "Two-Part Analysis",
       "difficulty": "Hard",
-      "question": "Public health professional: The Happydale Department of Environmental Services (DES) has inspected area beaches for pathogenic bacteria for over 20 years. Currently, DES monitors 50 freshwater beaches and 10 coastal beaches on a weekly basis. Program participation by owners of beaches that are open to the public is voluntary. Beach owners who choose not to participate in the program are allowing the public to recreate on entirely unmonitored beaches. The DES now proposes adoption of the Adopt-a-Beach Program, designed to promote health and environmental education as well as public involvement in the protecting of public beaches. The program would require DES to collect biological data from all area beaches. It will also help reduce the number of beach advisories, whereby the public must be warned of dangerous conditions on certain beaches. On the basis of the public health professional"s statement, indicate in the table which of the following is most likely to result if the DES proposal is successfully adopted, and indicate which is most likely to result if the DES proposal is not adopted.",
+      "question": "Public health professional: The Happydale Department of Environmental Services (DES) has inspected area beaches for pathogenic bacteria for over 20 years. Currently, DES monitors 50 freshwater beaches and 10 coastal beaches on a weekly basis. Program participation by owners of beaches that are open to the public is voluntary. Beach owners who choose not to participate in the program are allowing the public to recreate on entirely unmonitored beaches. The DES now proposes adoption of the Adopt-a-Beach Program, designed to promote health and environmental education as well as public involvement in the protecting of public beaches. The program would require DES to collect biological data from all area beaches. It will also help reduce the number of beach advisories, whereby the public must be warned of dangerous conditions on certain beaches. On the basis of the public health professional's statement, indicate in the table which of the following is most likely to result if the DES proposal is successfully adopted, and indicate which is most likely to result if the DES proposal is not adopted.",
       "options": {
         "1": "Adopted",
         "2": "Not adopted",
@@ -1152,7 +1153,7 @@
       "id": 447,
       "type": "Two-Part Analysis",
       "difficulty": "Hard",
-      "question": "Marco: Giant kangaroos—one of several extinct species of large mammals (megafauna)—went extinct in Australia around 46,000 years ago. The deposits and wear patterns on the teeth of these animals from around the time of their extinction indicate that they fed mostly on saltbrush shrubs. Saltbrush thrives in arid climates, so it is not likely that the kangaroos" food supply was adversely affected by the increasing aridity of the climate at the time. Thus, something else would have to account for their extinction, and the best candidate for that cause is predation by humans. Fatima: That argument alone is not likely to satisfy many researchers in this field. Have you found any other evidence to bolster your conclusion? Select Marco for the statement that, if true, most justifies Marco"s assertions, and select Fatima for the statement that, if true, most justifies Fatima"s skepticism about Marco"s assertions.",
+      "question": "Marco: Giant kangaroos—one of several extinct species of large mammals (megafauna)—went extinct in Australia around 46,000 years ago. The deposits and wear patterns on the teeth of these animals from around the time of their extinction indicate that they fed mostly on saltbrush shrubs. Saltbrush thrives in arid climates, so it is not likely that the kangaroos' food supply was adversely affected by the increasing aridity of the climate at the time. Thus, something else would have to account for their extinction, and the best candidate for that cause is predation by humans. Fatima: That argument alone is not likely to satisfy many researchers in this field. Have you found any other evidence to bolster your conclusion? Select Marco for the statement that, if true, most justifies Marco's assertions, and select Fatima for the statement that, if true, most justifies Fatima's skepticism about Marco's assertions.",
       "options": {
         "1": "Marco",
         "2": "Fatima",
@@ -1160,7 +1161,7 @@
           "Giant kangaroos became extinct during a period that was less arid than previous periods they endured.",
           "Many researchers believe humans first arrived in Australia around 40,000 years ago.",
           "Approximately 60 different species in Australia died out in the wave of extinctions around 46,000 years ago.",
-          "Fossils of giant kangaroos also show evidence that those animals" diets routinely included plants other than saltbrush.",
+          "Fossils of giant kangaroos also show evidence that those animals' diets routinely included plants other than saltbrush.",
           "Several types of megafauna larger than the giant kangaroo went extinct around 46,000 years ago."
         ]
       },
@@ -1174,7 +1175,7 @@
       "id": 448,
       "type": "Two-Part Analysis",
       "difficulty": "Hard",
-      "question": "A mattress company has two stores, one in City X and the other in City Z. The company has advertised equally in newspapers in both cities but has advertised twice as much on the radio in City Z as in City X. The two cities have similar populations and economies, and the sales at each store have been roughly equal. A consultant claims this shows that the radio advertising has not improved mattress sales. In the table below, select changes that the company could make in City X and City Z, respectively, that together would probably be most helpful in testing the consultant"s claim.",
+      "question": "A mattress company has two stores, one in City X and the other in City Z. The company has advertised equally in newspapers in both cities but has advertised twice as much on the radio in City Z as in City X. The two cities have similar populations and economies, and the sales at each store have been roughly equal. A consultant claims this shows that the radio advertising has not improved mattress sales. In the table below, select changes that the company could make in City X and City Z, respectively, that together would probably be most helpful in testing the consultant's claim.",
       "options": {
         "1": "City X",
         "2": "City Z",
@@ -1193,7 +1194,7 @@
       "id": 449,
       "type": "Two-Part Analysis",
       "difficulty": "Hard",
-      "question": "Metro Ballet Company presents high-quality productions of traditional, classical ballet. For the past several years, however, the company"s overall profits have been declining, and ticket sales have been flat. Annual audience surveys indicate that a majority of those who attend Metro Ballet productions consistently enjoy the performances and prefer classical ballet to other forms of dance; almost all of them have been attending Metro Ballet for several years. General surveys of area residents indicate, however, that very few are aware of Metro Ballet productions, and most imagine that the performances are boring and the tickets too expensive. In an effort to appeal to a wider audience, over the past decade the company has spent increasing amounts of money on spectacular stage productions, while lowering ticket prices. In the first column, select the strategy that, in the absence of the other alternatives listed, would lead most directly to decreasing Metro Ballet"s expenses for its classical ballet productions. In the second column, select the strategy that, in the absence of the other alternatives listed, would constitute the most direct approach to solving the problem of increasing audience size for Metro Ballet"s classical ballet productions.",
+      "question": "Metro Ballet Company presents high-quality productions of traditional, classical ballet. For the past several years, however, the company's overall profits have been declining, and ticket sales have been flat. Annual audience surveys indicate that a majority of those who attend Metro Ballet productions consistently enjoy the performances and prefer classical ballet to other forms of dance; almost all of them have been attending Metro Ballet for several years. General surveys of area residents indicate, however, that very few are aware of Metro Ballet productions, and most imagine that the performances are boring and the tickets too expensive. In an effort to appeal to a wider audience, over the past decade the company has spent increasing amounts of money on spectacular stage productions, while lowering ticket prices. In the first column, select the strategy that, in the absence of the other alternatives listed, would lead most directly to decreasing Metro Ballet's expenses for its classical ballet productions. In the second column, select the strategy that, in the absence of the other alternatives listed, would constitute the most direct approach to solving the problem of increasing audience size for Metro Ballet's classical ballet productions.",
       "options": {
         "1": "Decrease expenses",
         "2": "Increase audience size",
@@ -1202,12 +1203,12 @@
           "Return spending on productions to levels of several years ago",
           "Expand productions to include modern, folk, and tap dance traditions",
           "Offer special discounts to reward people who have attended the greatest number of performances",
-          "Mount a local advertising campaign emphasizing the affordability and excitement of Metro Ballet"s spectacular stage productions"
+          "Mount a local advertising campaign emphasizing the affordability and excitement of Metro Ballet's spectacular stage productions"
         ]
       },
       "correct_answer": [
         "Return spending on productions to levels of several years ago",
-        "Mount a local advertising campaign emphasizing the affordability and excitement of Metro Ballet"s spectacular stage productions"
+        "Mount a local advertising campaign emphasizing the affordability and excitement of Metro Ballet's spectacular stage productions"
       ],
       "explanation": "لتقليل النفقات: العودة إلى مستويات الإنفاق السابقة. لزيادة الجمهور: حملة إعلانية تؤكد على التكلفة المعقولة والإثارة (لمواجهة الانطباع السائد بأنه مكلف وممل)."
     },
@@ -1237,19 +1238,19 @@
       "id": 451,
       "type": "Two-Part Analysis",
       "difficulty": "Hard",
-      "question": "Marketing strategist: Agency A designed an advertising campaign that our company is about to test with a focus group. We are wondering whether a new ad campaign will increase our name recognition among consumers. As a contingency, we have decided that we might ask Agency B to design an alternate campaign. However, if we find that Agency A"s campaign elicits positive responses from the focus group, we will not ask Agency B for a campaign. A statement that must be true if the marketing strategist"s statements are true: After the focus testing is complete, if the company 1 then it must also be the case that the company 2. Select for 1 if and 2 then the two different options that create a statement that must be true if the marketing strategist"s statements are true.",
+      "question": "Marketing strategist: Agency A designed an advertising campaign that our company is about to test with a focus group. We are wondering whether a new ad campaign will increase our name recognition among consumers. As a contingency, we have decided that we might ask Agency B to design an alternate campaign. However, if we find that Agency A's campaign elicits positive responses from the focus group, we will not ask Agency B for a campaign. A statement that must be true if the marketing strategist's statements are true: After the focus testing is complete, if the company 1 then it must also be the case that the company 2. Select for 1 if and 2 then the two different options that create a statement that must be true if the marketing strategist's statements are true.",
       "options": {
         "1": "1 if",
         "2": "2 then",
         "choices": [
-          "believes Agency A"s campaign will increase the company"s name recognition",
-          "believes Agency A"s campaign will decrease the company"s name recognition",
+          "believes Agency A's campaign will increase the company's name recognition",
+          "believes Agency A's campaign will decrease the company's name recognition",
           "asks Agency B for a campaign",
           "asks Agency A for an alternate campaign",
-          "believes the focus group did not respond positively to Agency A"s campaign"
+          "believes the focus group did not respond positively to Agency A's campaign"
         ]
       },
-      "correct_answer": ["asks Agency B for a campaign", "believes the focus group did not respond positively to Agency A"s campaign"],
+      "correct_answer": ["asks Agency B for a campaign", "believes the focus group did not respond positively to Agency A's campaign"],
       "explanation": "البيان المنطقي: إذا طلبوا حملة من B، فهذا يعني أنهم لم يحصلوا على استجابة إيجابية من حملة A (لأنهم قالوا إنهم لن يطلبوا من B إذا كانت استجابة A إيجابية)."
     },
     {
@@ -1269,7 +1270,7 @@
       "id": 453,
       "type": "Two-Part Analysis",
       "difficulty": "Hard",
-      "question": "Witness testimony: Around 8:00 on the morning of Tuesday, July 6, I saw a man exit from the back entrance of the building. I knew it was McGregor by the man"s height and his long, slightly awkward steps, and from the fact that he was wearing a hat—possibly a baseball cap. McGregor always seemed to be wearing some kind of hat. On Tuesdays there are always several groundskepers scheduled to work on the grounds, and he would very likely have been scheduled that day. Select Assumes to be true for the statement that describes something the testimony implies the witness assumes to be true, and select Assumes to be false for the statement that describes something the testimony implies the witness assumes to be false.",
+      "question": "Witness testimony: Around 8:00 on the morning of Tuesday, July 6, I saw a man exit from the back entrance of the building. I knew it was McGregor by the man's height and his long, slightly awkward steps, and from the fact that he was wearing a hat—possibly a baseball cap. McGregor always seemed to be wearing some kind of hat. On Tuesdays there are always several groundskepers scheduled to work on the grounds, and he would very likely have been scheduled that day. Select Assumes to be true for the statement that describes something the testimony implies the witness assumes to be true, and select Assumes to be false for the statement that describes something the testimony implies the witness assumes to be false.",
       "options": {
         "1": "Assumes to be true",
         "2": "Assumes to be false",
@@ -1277,7 +1278,7 @@
           "McGregor was the only groundskeeper scheduled to work at the building on Tuesday, July 6.",
           "McGregor exited the rear of the building in question alone at 8:00 on the morning of Tuesday, July 6.",
           "McGregor was scheduled to work at the building on the morning of Tuesday, July 6.",
-          "McGregor"s height, way of walking, and tendency to wear hats distinguish him from the other groundskeepers.",
+          "McGregor's height, way of walking, and tendency to wear hats distinguish him from the other groundskeepers.",
           "McGregor often wore a baseball cap prior to the morning of Tuesday, July 6."
         ]
       },
