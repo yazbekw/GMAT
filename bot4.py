@@ -4,6 +4,7 @@
 """
 بوت أسئلة شامل - الحل النهائي المتكامل
 جميع الأزرار تعمل، والاختبار المخصص يظهر السؤال الأول فوراً
+مع دعم الخيارات سواء كانت قائمة أو قاموس (مثل الملفات المقدمة)
 """
 
 import os
@@ -48,6 +49,48 @@ def escape_html(text: str) -> str:
         return ""
     return text.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
 
+# ======================== دالة تطبيع الخيارات ========================
+def normalize_options(options):
+    """
+    تحويل الخيارات إلى قائمة من النصوص مع الحفاظ على الترتيب.
+    - إذا كانت الخيارات قاموساً (dict)، يتم ترتيب المفاتيح (أبجدياً أو رقمياً) 
+      واستخراج القيم كقائمة.
+    - إذا كانت الخيارات قائمة، تُرجع كما هي.
+    - وإلا ترجع قائمة فارغة.
+    """
+    if isinstance(options, dict):
+        # ترتيب المفاتيح: إذا كانت أرقاماً نرتبها عددياً، وإلا أبجدياً
+        keys = sorted(options.keys(), key=lambda x: int(x) if x.isdigit() else x)
+        return [options[k] for k in keys]
+    elif isinstance(options, list):
+        return options
+    else:
+        return []
+
+def get_answer_index(options, correct_answer):
+    """
+    تحويل الإجابة الصحيحة (التي قد تكون حرفاً أو رقماً) إلى مؤشر صحيح (0-index).
+    - إذا كانت الخيارات قاموساً: نبحث عن المفتاح الذي يساوي correct_answer 
+      ونرجع ترتيبه في المفاتيح المرتبة.
+    - إذا كانت الخيارات قائمة: نحاول تحويل correct_answer إلى int ونطرح 1 (إذا كان رقم).
+    - وإلا نرجع 0 كافتراض.
+    """
+    if isinstance(options, dict):
+        keys = sorted(options.keys(), key=lambda x: int(x) if x.isdigit() else x)
+        if correct_answer in keys:
+            return keys.index(correct_answer)
+        # قد يكون الإجابة رقماً (مثل 0,1,2) فنبحث عنه في المفاتيح
+        for idx, key in enumerate(keys):
+            if str(correct_answer) == key:
+                return idx
+        return 0  # fallback
+    else:
+        # قائمة
+        try:
+            return int(correct_answer) - 1  # إذا كان 1-indexed
+        except:
+            return 0
+
 # ======================== قاعدة البيانات ========================
 def init_db():
     conn = sqlite3.connect(DB_PATH)
@@ -91,10 +134,12 @@ def load_questions_from_json():
     import glob
     files = glob.glob(pattern)
     files = [f for f in files if not f.endswith('_export.csv') and 'user_data' not in f]
+    
     def extract_num(f):
         nums = re.findall(r'\d+', f)
         return int(nums[0]) if nums else float('inf')
     files.sort(key=extract_num)
+    
     count = 0
     for file in files:
         try:
@@ -111,9 +156,21 @@ def load_questions_from_json():
                         raw.extend(val)
             for q in raw:
                 if q.get('question') and q.get('options'):
+                    # تطبيع الخيارات
+                    options_raw = q['options']
+                    options_list = normalize_options(options_raw)
+                    if not options_list:
+                        continue
+                    # تحويل الإجابة الصحيحة إلى مؤشر
+                    answer_idx = get_answer_index(options_raw, q.get('correct_answer', 0))
+                    # التأكد من أن المؤشر ضمن النطاق
+                    if answer_idx < 0 or answer_idx >= len(options_list):
+                        answer_idx = 0
+                    # تخزين الخيارات كـ JSON لقائمة
+                    options_json = json.dumps(options_list)
                     c.execute(
                         "INSERT INTO questions (question, options, answer, explanation, category) VALUES (?, ?, ?, ?, ?)",
-                        (q['question'], json.dumps(q['options']), q.get('answer', 0), q.get('explanation', ''), q.get('category', 'غير مصنف'))
+                        (q['question'], options_json, answer_idx, q.get('explanation', ''), q.get('category', 'غير مصنف'))
                     )
                     count += 1
         except Exception as e:
@@ -129,7 +186,11 @@ def get_all_questions():
     c.execute("SELECT id, question, options, answer, explanation, category FROM questions")
     rows = c.fetchall()
     conn.close()
-    return rows
+    result = []
+    for row in rows:
+        options = normalize_options(json.loads(row[2]))  # تأكد من أنها قائمة
+        result.append((row[0], row[1], options, row[3], row[4], row[5]))
+    return result
 
 def get_question_by_id(qid):
     conn = get_db_connection()
@@ -138,7 +199,7 @@ def get_question_by_id(qid):
     row = c.fetchone()
     conn.close()
     if row:
-        options = json.loads(row[2])
+        options = normalize_options(json.loads(row[2]))
         return (row[0], row[1], options, row[3], row[4], row[5])
     return None
 
@@ -156,7 +217,11 @@ def get_questions_by_category(category):
     c.execute("SELECT id, question, options, answer, explanation, category FROM questions WHERE category=?", (category,))
     rows = c.fetchall()
     conn.close()
-    return rows
+    result = []
+    for row in rows:
+        options = normalize_options(json.loads(row[2]))
+        result.append((row[0], row[1], options, row[3], row[4], row[5]))
+    return result
 
 # ======================== دوال حالة المستخدم ========================
 def get_user_state(user_id):
@@ -308,7 +373,7 @@ def build_question_keyboard(qid, idx, total, state, time_left=None):
     if state.get('mode') == 'study':
         buttons.append([InlineKeyboardButton("🔄 إنهاء وضع التعلم", callback_data="exit_study")])
     if time_left is not None:
-        mins, secs = divmod(int(time_left), 60)  # تحويل إلى int لتجنب خطأ التنسيق
+        mins, secs = divmod(int(time_left), 60)
         buttons.append([InlineKeyboardButton(f"⏱ {mins:02d}:{secs:02d}", callback_data="noop")])
     return InlineKeyboardMarkup(buttons)
 
@@ -341,7 +406,7 @@ def format_question_header(q, idx, total, time_left=None):
     time_str = ""
     if time_left is not None:
         if time_left > 0:
-            mins, secs = divmod(int(time_left), 60)  # تحويل إلى int
+            mins, secs = divmod(int(time_left), 60)
             time_str = f"⏳ <b>الوقت المتبقي:</b> <code>{mins:02d}:{secs:02d}</code>"
         else:
             time_str = "⏰ <b>انتهى الوقت!</b>"
@@ -494,25 +559,8 @@ async def handle_quiz_input(update: Update, context: ContextTypes.DEFAULT_TYPE):
         parse_mode=ParseMode.HTML
     )
     
-    # ===== إرسال السؤال الأول =====
-    first_qid = selected_qids[0]
-    q = get_question_by_id(first_qid)
-    if q:
-        time_left = minutes * 60
-        header_text = format_question_header(q, 0, len(selected_qids), time_left)
-        option_keyboard = build_option_buttons(q, state)
-        nav_keyboard = build_question_keyboard(first_qid, 0, len(selected_qids), state, time_left)
-        combined_keyboard = InlineKeyboardMarkup(
-            option_keyboard.inline_keyboard + nav_keyboard.inline_keyboard
-        )
-        await context.bot.send_message(
-            chat_id=user_id,
-            text=header_text,
-            parse_mode=ParseMode.HTML,
-            reply_markup=combined_keyboard
-        )
-    else:
-        await update.message.reply_text("⚠️ حدث خطأ في تحميل السؤال الأول.")
+    # عرض السؤال الأول فوراً
+    await show_current_question(update, context, user_id)
 
 # ======================== وظائف الاختبار ========================
 async def start_quiz(update: Update, context: ContextTypes.DEFAULT_TYPE, mode='normal'):
@@ -567,7 +615,7 @@ async def show_current_question(update: Update, context: ContextTypes.DEFAULT_TY
     
     show_explanation = (state.get('mode') == 'study')
     if show_explanation:
-        state['answers'][str(qid)] = q[3]
+        state['answers'][str(qid)] = q[3]  # تخزين الإجابة الصحيحة
         save_user_state(user_id, state)
     
     total = len(qids)
@@ -1056,6 +1104,39 @@ ADD_QUESTION_CATEGORY = 5
 DELETE_QUESTION_STATE = 1
 EDIT_QUESTION_STATE = 1
 
+def add_question(question, options, answer, explanation, category):
+    conn = get_db_connection()
+    c = conn.cursor()
+    c.execute(
+        "INSERT INTO questions (question, options, answer, explanation, category) VALUES (?, ?, ?, ?, ?)",
+        (question, json.dumps(options), answer, explanation, category)
+    )
+    qid = c.lastrowid
+    conn.commit()
+    conn.close()
+    return qid
+
+def update_question(qid, question, options, answer, explanation, category):
+    conn = get_db_connection()
+    c = conn.cursor()
+    c.execute(
+        "UPDATE questions SET question=?, options=?, answer=?, explanation=?, category=? WHERE id=?",
+        (question, json.dumps(options), answer, explanation, category, qid)
+    )
+    affected = c.rowcount
+    conn.commit()
+    conn.close()
+    return affected
+
+def delete_question(qid):
+    conn = get_db_connection()
+    c = conn.cursor()
+    c.execute("DELETE FROM questions WHERE id=?", (qid,))
+    affected = c.rowcount
+    conn.commit()
+    conn.close()
+    return affected
+
 async def admin_panel(update: Update, context: ContextTypes.DEFAULT_TYPE):
     query = update.callback_query
     await query.answer()
@@ -1453,7 +1534,7 @@ def main():
     )
     application.add_handler(admin_edit_conv)
 
-    # معالجات الأزرار الأساسية (يجب أن تكون في الأعلى)
+    # معالجات الأزرار الأساسية
     application.add_handler(CallbackQueryHandler(answer_callback, pattern="^answer_"))
     application.add_handler(CallbackQueryHandler(nav_callback, pattern="^nav_"))
     application.add_handler(CallbackQueryHandler(explain_callback, pattern="^show_explain_"))
