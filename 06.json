@@ -90,7 +90,7 @@
     {
       "id": 142,
       "difficulty": "Medium",
-      "question": "Exchange Rates in a Particular Year: $1 = 5.3 francs; $1 = 1.6 marks. An American dealer bought a table in Germany for 480 marks and sold the same table in France for 2,385 francs. What was the dealer's gross profit on the two transactions in dollars?",
+      "question": "Exchange Rates in a Particular Year: $1 = 5.3 francs; $1 = 1.6 marks. An American dealer bought a table in Germany for 480 marks and sold the same table in France for 2,385 francs. What was the dealer"s gross profit on the two transactions in dollars?",
       "options": {
         "A": "$0",
         "B": "$50",
@@ -272,7 +272,7 @@
     {
       "id": 155,
       "difficulty": "Medium",
-      "question": "Ron is 4 inches taller than Amy, and Barbara is 1 inch taller than Ron. If Barbara's height is 65 inches, what is the median height, in inches, of these three people?",
+      "question": "Ron is 4 inches taller than Amy, and Barbara is 1 inch taller than Ron. If Barbara"s height is 65 inches, what is the median height, in inches, of these three people?",
       "options": {
         "A": "60",
         "B": "61",
@@ -636,7 +636,7 @@
     {
       "id": 181,
       "difficulty": "Hard",
-      "question": "The total cost for Company X to produce a batch of tools is $10,000 plus $3 per tool. Each tool sells for $8. The gross profit earned from producing and selling these tools is the total income from sales minus the total production cost. If a batch of 20,000 tools is produced and sold, then Company X's gross profit per tool is",
+      "question": "The total cost for Company X to produce a batch of tools is $10,000 plus $3 per tool. Each tool sells for $8. The gross profit earned from producing and selling these tools is the total income from sales minus the total production cost. If a batch of 20,000 tools is produced and sold, then Company X"s gross profit per tool is",
       "options": {
         "A": "$3.00",
         "B": "$3.75",
@@ -706,7 +706,7 @@
     {
       "id": 186,
       "difficulty": "Hard",
-      "question": "If Jake loses 8 pounds, he will weigh twice as much as his sister. Together they now weigh 278 pounds. What is Jake's present weight, in pounds?",
+      "question": "If Jake loses 8 pounds, he will weigh twice as much as his sister. Together they now weigh 278 pounds. What is Jake"s present weight, in pounds?",
       "options": {
         "A": "131",
         "B": "135",
@@ -720,7 +720,7 @@
     {
       "id": 187,
       "difficulty": "Hard",
-      "question": "For each student in a certain class, a teacher adjusted the student's test score using the formula y = 0.8x + 20, where x is the student's original test score and y is the student's adjusted test score. If the standard deviation of the original test scores of the students in the class was 20, what was the standard deviation of the adjusted test scores of the students in the class?",
+      "question": "For each student in a certain class, a teacher adjusted the student"s test score using the formula y = 0.8x + 20, where x is the student"s original test score and y is the student"s adjusted test score. If the standard deviation of the original test scores of the students in the class was 20, what was the standard deviation of the adjusted test scores of the students in the class?",
       "options": {
         "A": "12",
         "B": "16",
@@ -1210,7 +1210,7 @@
     {
       "id": 222,
       "difficulty": "Hard",
-      "question": "If money is invested at r percent interest, compounded annually, the amount of the investment will double in approximately 70/r years. If Pat's parents invested $5,000 in a long-term bond that pays 8 percent interest, compounded annually, what will be the approximate total amount of the investment 18 years later, when Pat is ready for college?",
+      "question": "If money is invested at r percent interest, compounded annually, the amount of the investment will double in approximately 70/r years. If Pat"s parents invested $5,000 in a long-term bond that pays 8 percent interest, compounded annually, what will be the approximate total amount of the investment 18 years later, when Pat is ready for college?",
       "options": {
         "A": "$20,000",
         "B": "$15,000",
@@ -1224,7 +1224,7 @@
     {
       "id": 223,
       "difficulty": "Hard",
-      "question": "On a recent trip, Cindy drove her car 290 miles, rounded to the nearest 10 miles, and used 12 gallons of gasoline, rounded to the nearest gallon. The actual number of miles per gallon that Cindy's car got on this trip must have been between",
+      "question": "On a recent trip, Cindy drove her car 290 miles, rounded to the nearest 10 miles, and used 12 gallons of gasoline, rounded to the nearest gallon. The actual number of miles per gallon that Cindy"s car got on this trip must have been between",
       "options": {
         "A": "290/12.5 and 290/11.5",
         "B": "295/12 and 285/11.5",
@@ -1322,7 +1322,7 @@
     {
       "id": 230,
       "difficulty": "Hard",
-      "question": "During a trip, Francine traveled x percent of the total distance at an average speed of 40 miles per hour and the rest of the distance at an average speed of 60 miles per hour. In terms of x, what was Francine's average speed for the entire trip?",
+      "question": "During a trip, Francine traveled x percent of the total distance at an average speed of 40 miles per hour and the rest of the distance at an average speed of 60 miles per hour. In terms of x, what was Francine"s average speed for the entire trip?",
       "options": {
         "A": "(180-x)/2",
         "B": "(x+60)/4",
@@ -1476,7 +1476,7 @@
     {
       "id": 241,
       "difficulty": "Hard",
-      "question": "A photography dealer ordered 60 Model X cameras to be sold for $250 each, which represents a 20 percent markup over the dealer's initial cost for each camera. Of the cameras ordered, 6 were never sold and were returned to the manufacturer for a refund of 50 percent of the dealer's initial cost. What was the dealer's approximate profit or loss as a percent of the dealer's initial cost for the 60 cameras?",
+      "question": "A photography dealer ordered 60 Model X cameras to be sold for $250 each, which represents a 20 percent markup over the dealer"s initial cost for each camera. Of the cameras ordered, 6 were never sold and were returned to the manufacturer for a refund of 50 percent of the dealer"s initial cost. What was the dealer"s approximate profit or loss as a percent of the dealer"s initial cost for the 60 cameras?",
       "options": {
         "A": "7% loss",
         "B": "13% loss",
@@ -1560,7 +1560,7 @@
     {
       "id": 247,
       "difficulty": "Hard",
-      "question": "Last Sunday a certain store sold copies of Newspaper A for $1.00 each and copies of Newspaper B for $1.25 each, and the store sold no other newspapers that day. If r percent of the store's revenue from newspaper sales was from Newspaper A and if p percent of the newspapers that the store sold were copies of Newspaper A, which of the following expresses r in terms of p?",
+      "question": "Last Sunday a certain store sold copies of Newspaper A for $1.00 each and copies of Newspaper B for $1.25 each, and the store sold no other newspapers that day. If r percent of the store"s revenue from newspaper sales was from Newspaper A and if p percent of the newspapers that the store sold were copies of Newspaper A, which of the following expresses r in terms of p?",
       "options": {
         "A": "100p/(125-p)",
         "B": "150p/(250-p)",
@@ -1574,7 +1574,7 @@
     {
       "id": 248,
       "difficulty": "Hard",
-      "question": "For the past n days, the average (arithmetic mean) daily production at a company was 50 units. If today's production of 90 units raises the average to 55 units per day, what is the value of n?",
+      "question": "For the past n days, the average (arithmetic mean) daily production at a company was 50 units. If today"s production of 90 units raises the average to 55 units per day, what is the value of n?",
       "options": {
         "A": "30",
         "B": "18",
@@ -1784,7 +1784,7 @@
     {
       "id": 263,
       "difficulty": "Hard",
-      "question": "An investor purchased 100 shares of Stock X at 6 1/8 dollars per share and sold them all a year later at 24 dollars per share. If the investor paid a 2 percent brokerage fee on both the total purchase price and the total selling price, which of the following is closest to the investor's percent gain on this investment?",
+      "question": "An investor purchased 100 shares of Stock X at 6 1/8 dollars per share and sold them all a year later at 24 dollars per share. If the investor paid a 2 percent brokerage fee on both the total purchase price and the total selling price, which of the following is closest to the investor"s percent gain on this investment?",
       "options": {
         "A": "92%",
         "B": "240%",
@@ -1826,7 +1826,7 @@
     {
       "id": 266,
       "difficulty": "Hard",
-      "question": "A furniture dealer purchased a desk for $150 and then set the selling price equal to the purchase price plus a markup that was 40 percent of the selling price. If the dealer sold the desk at the selling price, what was the amount of the dealer's gross profit from the purchase and the sale of the desk?",
+      "question": "A furniture dealer purchased a desk for $150 and then set the selling price equal to the purchase price plus a markup that was 40 percent of the selling price. If the dealer sold the desk at the selling price, what was the amount of the dealer"s gross profit from the purchase and the sale of the desk?",
       "options": {
         "A": "$40",
         "B": "$60",
