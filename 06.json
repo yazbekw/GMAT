@@ -1,0 +1,1911 @@
+{
+  "total_questions": 271,
+  "part": "2_of_2",
+  "type": "Problem Solving",
+  "questions": [
+    {
+      "id": 136,
+      "difficulty": "Medium",
+      "question": "In the correctly worked addition problem shown, P, Q, R, and S are digits. If Q = 2P, which of the following could be the value of S?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "7",
+        "E": "9"
+      },
+      "correct_answer": "A",
+      "explanation": "من آحاد: 5+R=14 (لأن 5+R≥5) => R=9، ونحمل 1. من عشرات: 1+P+Q = S+10 (نحمل 1 إلى المئات). وبما أن Q=2P: 1+P+2P = S+10 => S=3P-9. لكي يكون S رقماً و P رقماً، P=4 => S=3، أو P=5 => S=6 (غير موجود)، أو P=6 => S=9 (لكن Q=12 ليس رقماً). إذن S=3. الإجابة الصحيحة هي A."
+    },
+    {
+      "id": 137,
+      "difficulty": "Medium",
+      "question": "A certain high school has 5,000 students. Of these students, x are taking music, y are taking art, and z are taking both music and art. How many students are taking neither music nor art?",
+      "options": {
+        "A": "5,000 - z",
+        "B": "5,000 - x - y",
+        "C": "5,000 - x + z",
+        "D": "5,000 - x - y - z",
+        "E": "5,000 - x - y + z"
+      },
+      "correct_answer": "E",
+      "explanation": "عدد الطلاب الذين يأخذون موسيقى أو فن أو كليهما = x + y - z. إذن الذين لا يأخذون شيئاً = 5000 - (x + y - z) = 5000 - x - y + z. الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 138,
+      "difficulty": "Medium",
+      "question": "Each person who attended a company meeting was either a stockholder in the company, an employee of the company, or both. If 62 percent of those who attended the meeting were stockholders and 47 percent were employees, what percent were stockholders who were NOT employees?",
+      "options": {
+        "A": "34%",
+        "B": "38%",
+        "C": "45%",
+        "D": "53%",
+        "E": "62%"
+      },
+      "correct_answer": "D",
+      "explanation": "نسبة المساهمين والموظفين معاً = 62%+47%=109%، أي أن 9% هم كلاهما. نسبة المساهمين فقط = 62%-9%=53%. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 139,
+      "difficulty": "Medium",
+      "question": "The table shows the amount budgeted and the amount spent for each of three accounts in a certain company. For which of these accounts did the amount spent differ from the amount budgeted by more than 6 percent of the amount budgeted?",
+      "options": {
+        "A": "Payroll only",
+        "B": "Taxes only",
+        "C": "Insurance only",
+        "D": "Payroll and Insurance",
+        "E": "Taxes and Insurance"
+      },
+      "correct_answer": "D",
+      "explanation": "الرواتب: 6% من 110000 = 6600، الفرق = 7000 > 6600. الضرائب: 6% من 40000 = 2400، الفرق = 2000 < 2400. التأمين: 6% من 2500 = 150، الفرق = 160 > 150. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 140,
+      "difficulty": "Medium",
+      "question": "The graph shows the number of computers assembled during each of 6 consecutive days. From what day to the next day was the percent change in the number of computers assembled the greatest in magnitude?",
+      "options": {
+        "A": "From Day 1 to Day 2",
+        "B": "From Day 2 to Day 3",
+        "C": "From Day 3 to Day 4",
+        "D": "From Day 4 to Day 5",
+        "E": "From Day 5 to Day 6"
+      },
+      "correct_answer": "D",
+      "explanation": "حساب التغيرات المئوية: يوم 1->2: (12-20)/20 = -40%، يوم 2->3: (18-12)/12 = 50%، يوم 3->4: (10-18)/18 = -44.4%، يوم 4->5: (16-10)/10 = 60%، يوم 5->6: (8-16)/16 = -50%. الأكبر من حيث القيمة المطلقة هو 60% (يوم 4->5). الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 141,
+      "difficulty": "Medium",
+      "question": "If n = 20! + 17, then n is divisible by which of the following? I. 15 II. 17 III. 19",
+      "options": {
+        "A": "None",
+        "B": "I only",
+        "C": "II only",
+        "D": "I and II",
+        "E": "II and III"
+      },
+      "correct_answer": "C",
+      "explanation": "20! يقبل القسمة على كل الأعداد من 1 إلى 20. n = 20! + 17 يقبل القسمة على 17 (لأن كلا الحدين يقبل القسمة على 17). أما 15: 20! يقبل القسمة على 15 لكن 17 لا، إذن المجموع لا يقبل. وكذلك 19: 20! يقبل لكن 17 لا. الإجابة الصحيحة هي C."
+    },
+    {
+      "id": 142,
+      "difficulty": "Medium",
+      "question": "Exchange Rates in a Particular Year: $1 = 5.3 francs; $1 = 1.6 marks. An American dealer bought a table in Germany for 480 marks and sold the same table in France for 2,385 francs. What was the dealer's gross profit on the two transactions in dollars?",
+      "options": {
+        "A": "$0",
+        "B": "$50",
+        "C": "$100",
+        "D": "$150",
+        "E": "$200"
+      },
+      "correct_answer": "D",
+      "explanation": "480 مارك = 480/1.6 = 300 دولار. 2385 فرنك = 2385/5.3 = 450 دولار. الربح = 450-300 = 150. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 143,
+      "difficulty": "Medium",
+      "question": "The product of two negative numbers is 160. If the lesser of the two numbers is 4 less than twice the greater, what is the greater number?",
+      "options": {
+        "A": "-20",
+        "B": "-16",
+        "C": "-10",
+        "D": "-8",
+        "E": "-4"
+      },
+      "correct_answer": "D",
+      "explanation": "نفرض العدد الأكبر = x (سالبة)، والأصغر = 2x - 4. حاصل الضرب: x(2x-4)=160 => 2x²-4x-160=0 => x²-2x-80=0 => (x-10)(x+8)=0. x سالبة إذن x=-8. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 144,
+      "difficulty": "Medium",
+      "question": "According to a certain estimate, the depth N(t), in centimeters, of the water in a certain tank at t hours past 2:00 in the morning is given by N(t) = -20(t-5)^2 + 500 for 0 ≤ t ≤ 10. According to this estimate, at what time in the morning does the depth of the water in the tank reach its maximum?",
+      "options": {
+        "A": "5:30",
+        "B": "7:00",
+        "C": "7:30",
+        "D": "8:00",
+        "E": "9:00"
+      },
+      "correct_answer": "B",
+      "explanation": "الدالة N(t) = -20(t-5)² + 500 تصل إلى قيمتها العظمى عندما يكون (t-5)² أصغرياً، أي عندما t=5. 5 ساعات بعد 2:00 صباحاً = 7:00 صباحاً. الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 145,
+      "difficulty": "Medium",
+      "question": "After driving to a riverfront parking lot, Bob plans to run south along the river, turn around, and return to the parking lot, running north along the same path. After running 3.25 miles south, he decides to run for only 50 minutes more. If Bob runs at a constant rate of 8 minutes per mile, how many miles farther south can he run and still be able to return to the parking lot in 50 minutes?",
+      "options": {
+        "A": "1.5",
+        "B": "2.25",
+        "C": "3.0",
+        "D": "3.25",
+        "E": "4.75"
+      },
+      "correct_answer": "A",
+      "explanation": "وقت الجري حتى الآن = 3.25×8 = 26 دقيقة. نفرض أنه سيجري مسافة إضافية d ميلاً جنوباً، ثم يعود نفس المسافة شمالاً. وقت الجري الإضافي = 2d×8 = 16d دقيقة. المجموع = 26+16d = 50 => 16d=24 => d=1.5. الإجابة الصحيحة هي A."
+    },
+    {
+      "id": 146,
+      "difficulty": "Medium",
+      "question": "Alex deposited x dollars into a new account that earned 8 percent annual interest, compounded annually. One year later Alex deposited an additional x dollars into the account. If there were no other transactions and if the account contained w dollars at the end of two years, which of the following expresses x in terms of w?",
+      "options": {
+        "A": "w / (1 + 1.08)",
+        "B": "w / (1.08 + 1.16)",
+        "C": "w / (1.16 + 1.24)",
+        "D": "w / (1.08 + (1.08)^2)",
+        "E": "w / ((1.08)^2 + (1.08)^3)"
+      },
+      "correct_answer": "D",
+      "explanation": "نهاية السنة الأولى: x(1.08). بعد إيداع x إضافي: x(1.08)+x. نهاية السنة الثانية: [x(1.08)+x](1.08) = x(1.08)² + x(1.08) = x[1.08+(1.08)²] = w. إذن x = w/[1.08+(1.08)²]. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 147,
+      "difficulty": "Medium",
+      "question": "M is the sum of the reciprocals of the consecutive integers from 201 to 300, inclusive. Which of the following is true?",
+      "options": {
+        "A": "1/3 < M < 1/2",
+        "B": "1/5 < M < 1/3",
+        "C": "1/7 < M < 1/5",
+        "D": "1/9 < M < 1/7",
+        "E": "1/12 < M < 1/9"
+      },
+      "correct_answer": "A",
+      "explanation": "M = 1/201 + 1/202 + ... + 1/300. عدد الحدود = 100. M > 100/300 = 1/3 (لأن كل حد > 1/300). M < 100/200 = 1/2 (لأن كل حد < 1/200). إذن 1/3 < M < 1/2. الإجابة الصحيحة هي A."
+    },
+    {
+      "id": 148,
+      "difficulty": "Medium",
+      "question": "Working simultaneously at their respective constant rates, Machines A and B produce 800 nails in x hours. Working alone at its constant rate, Machine A produces 800 nails in y hours. In terms of x and y, how many hours does it take Machine B, working alone at its constant rate, to produce 800 nails?",
+      "options": {
+        "A": "x/(x+y)",
+        "B": "y/(x+y)",
+        "C": "xy/(x+y)",
+        "D": "xy/(x-y)",
+        "E": "xy/(y-x)"
+      },
+      "correct_answer": "E",
+      "explanation": "معدل A = 800/y، ومعدل A+B = 800/x. معدل B = 800/x - 800/y = 800(y-x)/(xy). زمن B = 800 / [800(y-x)/(xy)] = xy/(y-x). الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 149,
+      "difficulty": "Medium",
+      "question": "Carol purchased one basket of fruit consisting of 4 apples and 2 oranges and another basket of fruit consisting of 3 apples and 5 oranges. Carol is to select one piece of fruit at random from each of the two baskets. What is the probability that one of the two pieces of fruit selected will be an apple and the other will be an orange?",
+      "options": {
+        "A": "1/4",
+        "B": "1/2",
+        "C": "1/24",
+        "D": "5/24",
+        "E": "13/24"
+      },
+      "correct_answer": "E",
+      "explanation": "الاحتمال = (تفاحة من الأولى وبرتقالة من الثانية) + (برتقالة من الأولى وتفاحة من الثانية) = (4/6)×(5/8) + (2/6)×(3/8) = 20/48 + 6/48 = 26/48 = 13/24. الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 150,
+      "difficulty": "Medium",
+      "question": "Last year Brand X shoes were sold by dealers in 403 different regions worldwide, with an average (arithmetic mean) of 98 dealers per region. If last year these dealers sold an average of 2,488 pairs of Brand X shoes per dealer, which of the following is closest to the total number of pairs of Brand X shoes sold last year by the dealers worldwide?",
+      "options": {
+        "A": "10^4",
+        "B": "10^5",
+        "C": "10^6",
+        "D": "10^7",
+        "E": "10^8"
+      },
+      "correct_answer": "E",
+      "explanation": "الإجمالي = 403×98×2488 ≈ 400×100×2500 = 100,000,000 = 10^8. الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 151,
+      "difficulty": "Medium",
+      "question": "What is the median of the numbers 10, 4, 26, 16?",
+      "options": {
+        "A": "10",
+        "B": "13",
+        "C": "14",
+        "D": "15",
+        "E": "16"
+      },
+      "correct_answer": "B",
+      "explanation": "الترتيب: 4,10,16,26. الوسيط = متوسط العددين الأوسطين = (10+16)/2 = 13. الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 152,
+      "difficulty": "Medium",
+      "question": "If 1/3 of the total number of marbles in the three bags listed in the table above are blue, how many marbles are there in Bag Q?",
+      "options": {
+        "A": "5",
+        "B": "9",
+        "C": "12",
+        "D": "23",
+        "E": "46"
+      },
+      "correct_answer": "B",
+      "explanation": "الكرات الزرقاء في P = 37×0.108 ≈ 4، في R = 32×0.5 = 16، في Q = 0.667x ≈ (2/3)x. المجموع الكلي = 37+x+32 = x+69. المعادلة: 4 + (2/3)x + 16 = (1/3)(x+69) => (2/3)x + 20 = (1/3)x + 23 => (1/3)x = 3 => x=9. الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 153,
+      "difficulty": "Medium",
+      "question": "The table above gives the age categories of the 161 employees at Company X and the number of employees in each category. According to the table, if m is the median age, in years, of the employees at Company X, then m must satisfy which of the following?",
+      "options": {
+        "A": "20 ≤ m ≤ 29",
+        "B": "25 ≤ m ≤ 34",
+        "C": "30 ≤ m ≤ 39",
+        "D": "35 ≤ m ≤ 44",
+        "E": "40 ≤ m ≤ 49"
+      },
+      "correct_answer": "A",
+      "explanation": "الوسيط لـ 161 موظفاً هو الترتيب 81. أقل من 20: 29 موظفاً. 20-29: 58 موظفاً، فيصبح المجموع 87، إذن الوسيط يقع في الفئة 20-29. الإجابة الصحيحة هي A."
+    },
+    {
+      "id": 154,
+      "difficulty": "Medium",
+      "question": "If k and n are positive integers such that n > k, then k! + (n-k)·(k-1)! is equivalent to which of the following?",
+      "options": {
+        "A": "k·n!",
+        "B": "k!·n",
+        "C": "(n-k)!",
+        "D": "n·(k+1)!",
+        "E": "n·(k-1)!"
+      },
+      "correct_answer": "E",
+      "explanation": "k! = k·(k-1)!. إذن التعبير = k·(k-1)! + (n-k)·(k-1)! = (k+n-k)·(k-1)! = n·(k-1)!. الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 155,
+      "difficulty": "Medium",
+      "question": "Ron is 4 inches taller than Amy, and Barbara is 1 inch taller than Ron. If Barbara's height is 65 inches, what is the median height, in inches, of these three people?",
+      "options": {
+        "A": "60",
+        "B": "61",
+        "C": "62",
+        "D": "63",
+        "E": "64"
+      },
+      "correct_answer": "E",
+      "explanation": "بربارة = 65، رون = 64، إيمي = 60. الأطوال: 60,64,65. الوسيط = 64. الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 156,
+      "difficulty": "Medium",
+      "question": "If x and y are positive numbers such that x + y = 1, which of the following could be the value of 100x + 200y? I. 80 II. 140 III. 199",
+      "options": {
+        "A": "II only",
+        "B": "III only",
+        "C": "I and II",
+        "D": "I and III",
+        "E": "II and III"
+      },
+      "correct_answer": "E",
+      "explanation": "100x+200y = 100x+200(1-x) = 200-100x. بما أن 0<x<1، فإن القيمة بين 100 و 200 (مفتوحة). I=80 أقل من 100 (غير ممكن). II=140 ممكن (x=0.6, y=0.4). III=199 ممكن (x=0.01, y=0.99). الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 157,
+      "difficulty": "Medium",
+      "question": "If X is the hundredths digit in the decimal 0.1X and if Y is the thousandths digit in the decimal 0.02Y, where X and Y are nonzero digits, which of the following is closest to the greatest possible value of 0.1X / 0.02Y?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "9",
+        "E": "10"
+      },
+      "correct_answer": "D",
+      "explanation": "لتعظيم الكسر، نعظم البسط (X=9) ونصغر المقام (Y=1). 0.19/0.021 ≈ 9.05، أقرب إلى 9. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 158,
+      "difficulty": "Medium",
+      "question": "If each of the 12 teams participating in a certain tournament plays exactly one game with each of the other teams, how many games will be played?",
+      "options": {
+        "A": "144",
+        "B": "132",
+        "C": "66",
+        "D": "33",
+        "E": "23"
+      },
+      "correct_answer": "C",
+      "explanation": "عدد المباريات = C(12,2) = 12×11/2 = 66. الإجابة الصحيحة هي C."
+    },
+    {
+      "id": 159,
+      "difficulty": "Medium",
+      "question": "The average (arithmetic mean) cost per book for the 12 books on a certain table is k dollars. If a book that costs 18 dollars is removed from the table and replaced by a book that costs 42 dollars, then in terms of k, what will be the average cost per book, in dollars, for the books on the table?",
+      "options": {
+        "A": "k + 2",
+        "B": "k - 2",
+        "C": "12 + 24/k",
+        "D": "12 - 24/k",
+        "E": "12k - 6"
+      },
+      "correct_answer": "A",
+      "explanation": "المجموع قبل الاستبدال = 12k. بعد الاستبدال = 12k - 18 + 42 = 12k + 24. المتوسط الجديد = (12k+24)/12 = k+2. الإجابة الصحيحة هي A."
+    },
+    {
+      "id": 160,
+      "difficulty": "Medium",
+      "question": "What is the remainder when 3^19 is divided by 10?",
+      "options": {
+        "A": "1",
+        "B": "3",
+        "C": "5",
+        "D": "7",
+        "E": "9"
+      },
+      "correct_answer": "D",
+      "explanation": "آحاد قوى 3 تتكرر: 3,9,7,1 (دورة طولها 4). 19 ÷ 4 = 4 والباقي 3، إذن آحاد 3^19 هو الحد الثالث في الدورة = 7. الباقي = 7. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 161,
+      "difficulty": "Medium",
+      "question": "Of 200 people surveyed, 80 percent own a cellular phone and 45 percent own a pager. If all 200 people surveyed own a cellular phone, or a pager, or both, what percent of those surveyed either do not own a cellular phone or do not own a pager?",
+      "options": {
+        "A": "35%",
+        "B": "45%",
+        "C": "55%",
+        "D": "65%",
+        "E": "75%"
+      },
+      "correct_answer": "E",
+      "explanation": "عدد من يملك هاتفاً = 160، بيجر = 90. الكل = 200، إذن من يملك كليهما = 160+90-200 = 50. من لا يملك هاتفاً = 200-160=40، من لا يملك بيجراً = 200-90=110. المجموع = 150 (لا يوجد تداخل لأن من لا يملك هاتفاً لا يملك كليهما). النسبة = 150/200 = 75%. الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 162,
+      "difficulty": "Medium",
+      "question": "At the end of the first quarter, the share price of a certain mutual fund was 20 percent higher than it was at the beginning of the year. At the end of the second quarter, the share price was 50 percent higher than it was at the beginning of the year. What was the percent increase in the share price from the end of the first quarter to the end of the second quarter?",
+      "options": {
+        "A": "20%",
+        "B": "25%",
+        "C": "30%",
+        "D": "33%",
+        "E": "40%"
+      },
+      "correct_answer": "B",
+      "explanation": "نفرض السعر في بداية السنة = 100. نهاية الربع الأول = 120. نهاية الربع الثاني = 150. الزيادة من 120 إلى 150 = 30، النسبة = 30/120 = 25%. الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 163,
+      "difficulty": "Medium",
+      "question": "In the sequence 1/2, 1/4, 1/8, 1/16, 1/32, ..., each term after the first is one-half the previous term. If x is the tenth term of the sequence, then x satisfies which of the following inequalities?",
+      "options": {
+        "A": "0.1 < x < 1",
+        "B": "0.01 < x < 0.1",
+        "C": "0.001 < x < 0.01",
+        "D": "0.0001 < x < 0.001",
+        "E": "0.00001 < x < 0.0001"
+      },
+      "correct_answer": "D",
+      "explanation": "الحد العاشر = 1/2^10 = 1/1024 ≈ 0.000976. يقع بين 0.0001 و 0.001. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 164,
+      "difficulty": "Medium",
+      "question": "If xy + z = x(y + z), which of the following must be true?",
+      "options": {
+        "A": "x=0 and z=0",
+        "B": "x=1 and y=1",
+        "C": "y=1 and z=0",
+        "D": "x=1 or y=0",
+        "E": "x=1 or z=0"
+      },
+      "correct_answer": "E",
+      "explanation": "xy+z = xy+xz => z=xz => z-xz=0 => z(1-x)=0 => z=0 أو x=1. الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 165,
+      "difficulty": "Medium",
+      "question": "Two water pumps, working simultaneously at their respective constant rates, took exactly 4 hours to fill a certain swimming pool. If the constant rate of one pump was 1.5 times the constant rate of the other, how many hours would it have taken the faster pump to fill the pool if it had worked alone at its constant rate?",
+      "options": {
+        "A": "5",
+        "B": "16/3",
+        "C": "11/2",
+        "D": "6",
+        "E": "20/3"
+      },
+      "correct_answer": "E",
+      "explanation": "نفرض معدل البطيء = r، فالسريع = 1.5r. المعدل المشترك = 2.5r = 1/4 خزان/ساعة => r = 1/10. زمن السريع وحده = 1/(1.5×1/10) = 10/1.5 = 20/3. الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 166,
+      "difficulty": "Medium",
+      "question": "If 0 < x < 1, what is the median of the values x, x^-1, x^2, √x, and x^3?",
+      "options": {
+        "A": "x",
+        "B": "x^-1",
+        "C": "x^2",
+        "D": "√x",
+        "E": "x^3"
+      },
+      "correct_answer": "A",
+      "explanation": "لـ 0<x<1: x^3 < x^2 < x < √x < 1/x. الوسيط هو x. الإجابة الصحيحة هي A."
+    },
+    {
+      "id": 167,
+      "difficulty": "Medium",
+      "question": "The charge for a single room at Hotel P is 25 percent less than the charge for a single room at Hotel R and 10 percent less than the charge for a single room at Hotel G. The charge for a single room at Hotel R is what percent greater than the charge for a single room at Hotel G?",
+      "options": {
+        "A": "15%",
+        "B": "20%",
+        "C": "40%",
+        "D": "50%",
+        "E": "150%"
+      },
+      "correct_answer": "B",
+      "explanation": "P = 0.75R و P = 0.9G => 0.75R = 0.9G => R/G = 0.9/0.75 = 1.2. إذن R أكبر من G بنسبة 20%. الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 168,
+      "difficulty": "Medium",
+      "question": "A vending machine is designed to dispense 8 ounces of coffee into a cup. After a test that recorded the number of ounces of coffee in each of 1,000 cups dispensed by the vending machine, the 12 listed amounts, in ounces, were selected from the data. If the 1,000 recorded amounts have a mean of 8.1 ounces and a standard deviation of 0.3 ounce, how many of the 12 listed amounts are within 1.5 standard deviations of the mean?",
+      "options": {
+        "A": "Four",
+        "B": "Six",
+        "C": "Nine",
+        "D": "Ten",
+        "E": "Eleven"
+      },
+      "correct_answer": "E",
+      "explanation": "1.5 انحراف معياري = 1.5×0.3 = 0.45. النطاق: 8.1-0.45=7.65 إلى 8.1+0.45=8.55. من القيم الـ 12، القيمة 7.51 فقط هي خارج النطاق، إذن 11 قيمة داخله. الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 169,
+      "difficulty": "Medium",
+      "question": "The age of the Earth is approximately 1.3×10^17 seconds, and one year is approximately 3.2×10^7 seconds. Which of the following is closest to the age of the Earth in years?",
+      "options": {
+        "A": "2.5×10^9",
+        "B": "4.1×10^9",
+        "C": "1.9×10^10",
+        "D": "2.5×10^11",
+        "E": "4.1×10^11"
+      },
+      "correct_answer": "B",
+      "explanation": "العمر بالسنوات = 1.3×10^17 / 3.2×10^7 = (1.3/3.2)×10^10 ≈ 0.406×10^10 = 4.06×10^9 ≈ 4.1×10^9. الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 170,
+      "difficulty": "Medium",
+      "question": "If the median of a list of numbers is m, the first quartile of the list is the median of the numbers in the list that are less than m. What is the first quartile of the list of numbers 42, 24, 30, 22, 26, 19, 33, and 35?",
+      "options": {
+        "A": "33",
+        "B": "28",
+        "C": "27",
+        "D": "24",
+        "E": "23"
+      },
+      "correct_answer": "E",
+      "explanation": "الترتيب: 19,22,24,26,30,33,35,42. الوسيط = (26+30)/2=28. الأعداد الأقل من 28: 19,22,24,26. وسيطها = (22+24)/2=23. الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 171,
+      "difficulty": "Medium",
+      "question": "If the speed of x meters per second is equivalent to the speed of y kilometers per hour, what is y in terms of x? (1 kilometer = 1,000 meters)",
+      "options": {
+        "A": "5x/18",
+        "B": "6x/5",
+        "C": "18x/5",
+        "D": "60x",
+        "E": "3,600,000x"
+      },
+      "correct_answer": "C",
+      "explanation": "x م/ث = x×(1/1000) كم/ث = x/1000 كم/ث. في الساعة = (x/1000)×3600 = 18x/5 كم/ساعة. الإجابة الصحيحة هي C."
+    },
+    {
+      "id": 172,
+      "difficulty": "Medium",
+      "question": "The function f is defined by f(x) = -1/x for all nonzero numbers x. If f(a) = -1/2 and f(ab) = 1/6, then b =",
+      "options": {
+        "A": "3",
+        "B": "1/3",
+        "C": "-1/3",
+        "D": "-3",
+        "E": "-12"
+      },
+      "correct_answer": "D",
+      "explanation": "f(a) = -1/a = -1/2 => a=2. f(ab) = -1/(ab) = 1/6 => ab = -6. 2b = -6 => b=-3. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 173,
+      "difficulty": "Medium",
+      "question": "If 5^x - 5^(x-3) = (124)(5^y), what is y in terms of x?",
+      "options": {
+        "A": "x",
+        "B": "x-6",
+        "C": "x-3",
+        "D": "2x+3",
+        "E": "2x+6"
+      },
+      "correct_answer": "C",
+      "explanation": "5^x - 5^(x-3) = 5^(x-3)(5^3 - 1) = 5^(x-3)(125-1) = 124×5^(x-3). إذن y = x-3. الإجابة الصحيحة هي C."
+    },
+    {
+      "id": 174,
+      "difficulty": "Medium",
+      "question": "Working alone at its constant rate, Machine K took 3 hours to produce 1/4 of the units produced last Friday. Then Machine M started working and the two machines, working simultaneously at their respective constant rates, took 6 hours to produce the rest of the units produced last Friday. How many hours would it have taken Machine M, working alone at its constant rate, to produce all of the units produced last Friday?",
+      "options": {
+        "A": "8",
+        "B": "12",
+        "C": "16",
+        "D": "24",
+        "E": "36"
+      },
+      "correct_answer": "D",
+      "explanation": "معدل K = (1/4)/3 = 1/12 من الإنتاج الكلي في الساعة. العمل المتبقي = 3/4، تم إنجازه في 6 ساعات بمعدل مشترك = (3/4)/6 = 1/8. معدل M = 1/8 - 1/12 = (3-2)/24 = 1/24. زمن M وحده = 24 ساعة. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 175,
+      "difficulty": "Medium",
+      "question": "If x/|y| = -1, which of the following must be true?",
+      "options": {
+        "A": "x = -y",
+        "B": "x = y",
+        "C": "x = y²",
+        "D": "x² = y²",
+        "E": "x³ = y³"
+      },
+      "correct_answer": "D",
+      "explanation": "x/|y| = -1 => x = -|y|. بتربيع الطرفين: x² = y². الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 176,
+      "difficulty": "Medium",
+      "question": "The table above is a 3 by 3 grid of 9 numbers, 5 of which are given. The 4 numbers that are not given are denoted by A, B, C, and D. The product of the numbers in each row and in each column is the same for all rows and columns. What is the value of the product ABCD?",
+      "options": {
+        "A": "36",
+        "B": "72",
+        "C": "36√2",
+        "D": "36√3",
+        "E": "72√6"
+      },
+      "correct_answer": "A",
+      "explanation": "بضرب معادلات الأعمدة: (√3·AB)(6√6)(2√3·CD) = x³ حيث x = 6√6 (العمود الأوسط). الطرف الأيسر = 36√6·ABCD. الطرف الأيمن = (6√6)³ = 216×6√6 = 1296√6. إذن 36√6·ABCD = 1296√6 => ABCD = 36. الإجابة الصحيحة هي A."
+    },
+    {
+      "id": 177,
+      "difficulty": "Hard",
+      "question": "The cost to rent a small bus for a trip is x dollars, which is to be shared equally among the people taking the trip. If 10 people take the trip rather than 16, how many more dollars, in terms of x, will it cost per person?",
+      "options": {
+        "A": "x/6",
+        "B": "x/10",
+        "C": "x/16",
+        "D": "3x/40",
+        "E": "3x/80"
+      },
+      "correct_answer": "E",
+      "explanation": "التكلفة مع 10 أشخاص = x/10، مع 16 شخصاً = x/16. الفرق = x/10 - x/16 = (8x-5x)/80 = 3x/80. الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 178,
+      "difficulty": "Hard",
+      "question": "Clarissa will create her summer reading list by randomly choosing 4 books from the 10 books approved for summer reading. She will list the books in the order in which they are chosen. How many different lists are possible?",
+      "options": {
+        "A": "6",
+        "B": "40",
+        "C": "210",
+        "D": "5,040",
+        "E": "151,200"
+      },
+      "correct_answer": "D",
+      "explanation": "عدد القوائم = 10×9×8×7 = 5040 (ترتيب مهم). الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 179,
+      "difficulty": "Hard",
+      "question": "If n is a positive integer and the product of all the integers from 1 to n, inclusive, is divisible by 990, what is the least possible value of n?",
+      "options": {
+        "A": "8",
+        "B": "9",
+        "C": "10",
+        "D": "11",
+        "E": "12"
+      },
+      "correct_answer": "D",
+      "explanation": "تحليل 990 = 2×3²×5×11. لكي يكون 11 عاملاً، يجب أن يكون n ≥ 11. التحقق: 11! يقبل القسمة على 990. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 180,
+      "difficulty": "Hard",
+      "question": "The probability that event M will NOT occur is 0.8 and the probability that event R will NOT occur is 0.6. If events M and R CANNOT both occur, which of the following is the probability that either event M or event R will occur?",
+      "options": {
+        "A": "1/5",
+        "B": "2/5",
+        "C": "3/5",
+        "D": "4/5",
+        "E": "12/25"
+      },
+      "correct_answer": "C",
+      "explanation": "P(M)=0.2، P(R)=0.4. بما أنهما لا يمكن أن يحدثا معاً، P(M∪R)=0.2+0.4=0.6=3/5. الإجابة الصحيحة هي C."
+    },
+    {
+      "id": 181,
+      "difficulty": "Hard",
+      "question": "The total cost for Company X to produce a batch of tools is $10,000 plus $3 per tool. Each tool sells for $8. The gross profit earned from producing and selling these tools is the total income from sales minus the total production cost. If a batch of 20,000 tools is produced and sold, then Company X's gross profit per tool is",
+      "options": {
+        "A": "$3.00",
+        "B": "$3.75",
+        "C": "$4.50",
+        "D": "$5.00",
+        "E": "$5.50"
+      },
+      "correct_answer": "C",
+      "explanation": "التكلفة = 10000+3×20000 = 70000. الإيراد = 8×20000 = 160000. الربح = 90000. الربح لكل أداة = 90000/20000 = 4.50. الإجابة الصحيحة هي C."
+    },
+    {
+      "id": 182,
+      "difficulty": "Hard",
+      "question": "If Q is an odd number and the median of Q consecutive integers is 120, what is the largest of these integers?",
+      "options": {
+        "A": "(Q-1)/2 + 120",
+        "B": "Q/2 + 119",
+        "C": "Q/2 + 120",
+        "D": "(Q+119)/2",
+        "E": "(Q+120)/2"
+      },
+      "correct_answer": "A",
+      "explanation": "بالنسبة لعدد فردي Q، الوسيط هو الحد الأوسط. يوجد (Q-1)/2 أعداد على يمين الوسيط، إذن الأكبر = 120 + (Q-1)/2. الإجابة الصحيحة هي A."
+    },
+    {
+      "id": 183,
+      "difficulty": "Hard",
+      "question": "If there are fewer than 8 zeros between the decimal point and the first nonzero digit in the decimal expansion of (t/1000)^4, which of the following numbers could be the value of t? I. 3 II. 5 III. 9",
+      "options": {
+        "A": "None",
+        "B": "I only",
+        "C": "II only",
+        "D": "III only",
+        "E": "II and III"
+      },
+      "correct_answer": "A",
+      "explanation": "(t/1000)^4 = t^4 × 10^-12. الأصفار بعد الفاصلة = 12 - عدد أرقام t^4. لـ t=3: t^4=81 (رقمان) => 10 أصفار. t=5: 625 (3 أرقام) => 9 أصفار. t=9: 6561 (4 أرقام) => 8 أصفار. جميعها 8 أو أكثر، إذن لا يوجد. الإجابة الصحيحة هي A."
+    },
+    {
+      "id": 184,
+      "difficulty": "Hard",
+      "question": "A three-digit code for certain locks uses the digits 0,1,2,3,4,5,6,7,8,9 according to the following constraints. The first digit cannot be 0 or 1, the second digit must be 0 or 1, and the second and third digits cannot both be 0 in the same code. How many different codes are possible?",
+      "options": {
+        "A": "144",
+        "B": "152",
+        "C": "160",
+        "D": "168",
+        "E": "176"
+      },
+      "correct_answer": "B",
+      "explanation": "الرقم الأول: 8 خيارات (2-9). الثاني: 2 خيارات (0,1). الثالث: 10 خيارات عادةً، لكن نستبعد الحالة التي يكون فيها الثاني=0 والثالث=0 (8 حالات). الإجمالي = 8×2×10 - 8 = 160-8=152. الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 185,
+      "difficulty": "Hard",
+      "question": "Jackie has two solutions that are 2 percent sulfuric acid and 12 percent sulfuric acid by volume, respectively. If these solutions are mixed in appropriate quantities to produce 60 liters of a solution that is 5 percent sulfuric acid, approximately how many liters of the 2 percent solution will be required?",
+      "options": {
+        "A": "18",
+        "B": "20",
+        "C": "24",
+        "D": "36",
+        "E": "42"
+      },
+      "correct_answer": "E",
+      "explanation": "نفرض كمية 2% = x، و12% = 60-x. 0.02x + 0.12(60-x) = 0.05×60 = 3 => 0.02x + 7.2 - 0.12x = 3 => 4.2 = 0.1x => x=42. الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 186,
+      "difficulty": "Hard",
+      "question": "If Jake loses 8 pounds, he will weigh twice as much as his sister. Together they now weigh 278 pounds. What is Jake's present weight, in pounds?",
+      "options": {
+        "A": "131",
+        "B": "135",
+        "C": "139",
+        "D": "147",
+        "E": "188"
+      },
+      "correct_answer": "E",
+      "explanation": "J - 8 = 2S، J+S=278 => S=278-J. بالتعويض: J-8=2(278-J)=556-2J => 3J=564 => J=188. الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 187,
+      "difficulty": "Hard",
+      "question": "For each student in a certain class, a teacher adjusted the student's test score using the formula y = 0.8x + 20, where x is the student's original test score and y is the student's adjusted test score. If the standard deviation of the original test scores of the students in the class was 20, what was the standard deviation of the adjusted test scores of the students in the class?",
+      "options": {
+        "A": "12",
+        "B": "16",
+        "C": "28",
+        "D": "36",
+        "E": "40"
+      },
+      "correct_answer": "B",
+      "explanation": "الانحراف المعياري يتغير بعامل الضرب فقط (لا يتأثر بالجمع). التغير = 0.8×20 = 16. الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 188,
+      "difficulty": "Hard",
+      "question": "Last year 26 members of a certain club traveled to England, 26 members traveled to France, and 32 members traveled to Italy. Last year no members of the club traveled to both England and France, 6 members traveled to both England and Italy, and 11 members traveled to both France and Italy. How many members of the club traveled to at least one of these three countries last year?",
+      "options": {
+        "A": "52",
+        "B": "67",
+        "C": "71",
+        "D": "73",
+        "E": "79"
+      },
+      "correct_answer": "B",
+      "explanation": "باستخدام مبدأ التضمين والإقصاء: المجموع = 26+26+32 - (0+6+11) + 0 (لأن لا أحد زار الثلاث معاً) = 84 - 17 = 67. الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 189,
+      "difficulty": "Hard",
+      "question": "A store reported total sales of $385 million for February of this year. If the total sales for the same month last year was $320 million, approximately what was the percent increase in sales?",
+      "options": {
+        "A": "2%",
+        "B": "17%",
+        "C": "20%",
+        "D": "65%",
+        "E": "83%"
+      },
+      "correct_answer": "C",
+      "explanation": "الزيادة = 385-320=65. النسبة = 65/320×100 = 20.3125% ≈ 20%. الإجابة الصحيحة هي C."
+    },
+    {
+      "id": 190,
+      "difficulty": "Hard",
+      "question": "When positive integer x is divided by positive integer y, the remainder is 9. If x/y = 96.12, what is the value of y?",
+      "options": {
+        "A": "96",
+        "B": "75",
+        "C": "48",
+        "D": "25",
+        "E": "12"
+      },
+      "correct_answer": "B",
+      "explanation": "x = 96y + 9 (لأن الباقي 9). x/y = 96 + 9/y = 96.12 => 9/y = 0.12 => y = 9/0.12 = 75. الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 191,
+      "difficulty": "Hard",
+      "question": "If x(2x+1)=0 and (x+1/2)(2x-3)=0, then x =",
+      "options": {
+        "A": "-3",
+        "B": "-1/2",
+        "C": "0",
+        "D": "1/2",
+        "E": "3/2"
+      },
+      "correct_answer": "B",
+      "explanation": "حل المعادلة الأولى: x=0 أو x=-1/2. حل الثانية: x=-1/2 أو x=3/2. المشترك = -1/2. الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 192,
+      "difficulty": "Hard",
+      "question": "A certain experimental mathematics program was tried out in 2 classes in each of 32 elementary schools and involved 37 teachers. Each of the classes had 1 teacher and each of the teachers taught at least 1, but not more than 3, of the classes. If the number of teachers who taught 3 classes is n, then the least and greatest possible values of n, respectively, are",
+      "options": {
+        "A": "0 and 13",
+        "B": "0 and 14",
+        "C": "1 and 10",
+        "D": "1 and 9",
+        "E": "2 and 8"
+      },
+      "correct_answer": "A",
+      "explanation": "عدد الفصول = 64. نفرض عدد المعلمين الذين يدرسون 1,2,3 فصول هم a,b,n. a+b+n=37، a+2b+3n=64. بطرح المعادلتين: b+2n=27 => 2n≤27 => n≤13. أقل قيمة: n=0 ممكن (b=27, a=10). الإجابة الصحيحة هي A."
+    },
+    {
+      "id": 193,
+      "difficulty": "Hard",
+      "question": "For the positive numbers n, n+1, n+2, n+4, and n+8, the mean is how much greater than the median?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "n+1",
+        "D": "n+2",
+        "E": "n+3"
+      },
+      "correct_answer": "B",
+      "explanation": "الوسيط = n+2. المتوسط = (5n+15)/5 = n+3. الفرق = 1. الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 194,
+      "difficulty": "Hard",
+      "question": "The present ratio of students to teachers at a certain school is 30 to 1. If the student enrollment were to increase by 50 students and the number of teachers were to increase by 5, the ratio of students to teachers would then be 25 to 1. What is the present number of teachers?",
+      "options": {
+        "A": "5",
+        "B": "8",
+        "C": "10",
+        "D": "12",
+        "E": "15"
+      },
+      "correct_answer": "E",
+      "explanation": "نفرض عدد المعلمين = t، الطلاب = 30t. بعد الزيادة: (30t+50)/(t+5) = 25/1 => 30t+50 = 25t+125 => 5t=75 => t=15. الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 195,
+      "difficulty": "Hard",
+      "question": "What is the smallest integer n for which 25^n > 5^12?",
+      "options": {
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "9",
+        "E": "10"
+      },
+      "correct_answer": "B",
+      "explanation": "25^n = (5²)^n = 5^(2n). نريد 2n > 12 => n > 6. أصغر عدد صحيح = 7. الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 196,
+      "difficulty": "Hard",
+      "question": "Sixty percent of the members of a study group are women, and 45 percent of those women are lawyers. If one member of the study group is to be selected at random, what is the probability that the member selected is a woman lawyer?",
+      "options": {
+        "A": "0.10",
+        "B": "0.15",
+        "C": "0.27",
+        "D": "0.33",
+        "E": "0.45"
+      },
+      "correct_answer": "C",
+      "explanation": "الاحتمال = 0.6×0.45 = 0.27. الإجابة الصحيحة هي C."
+    },
+    {
+      "id": 197,
+      "difficulty": "Hard",
+      "question": "Each year for 4 years, a farmer increased the number of trees in a certain orchard by 1/4 of the number of trees in the orchard the preceding year. If all of the trees thrived and there were 6,250 trees in the orchard at the end of the 4-year period, how many trees were in the orchard at the beginning of the 4-year period?",
+      "options": {
+        "A": "1,250",
+        "B": "1,563",
+        "C": "2,250",
+        "D": "2,560",
+        "E": "2,752"
+      },
+      "correct_answer": "D",
+      "explanation": "الزيادة 1/4 تعني الضرب في 5/4 كل عام. N×(5/4)^4 = 6250 => N = 6250×(4/5)^4 = 6250×256/625 = 10×256 = 2560. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 198,
+      "difficulty": "Hard",
+      "question": "According to the chart shown, which of the following is closest to the median annual number of shipments of manufactured homes in the United States for the years from 1990 to 2000, inclusive?",
+      "options": {
+        "A": "250,000",
+        "B": "280,000",
+        "C": "310,000",
+        "D": "325,000",
+        "E": "340,000"
+      },
+      "correct_answer": "C",
+      "explanation": "الأعداد التقريبية: 190,180,210,270,310,350,380,370,390,360,270. الترتيب: 180,190,210,270,270,310,350,360,370,380,390. الوسيط = 310,000. الإجابة الصحيحة هي C."
+    },
+    {
+      "id": 199,
+      "difficulty": "Hard",
+      "question": "For the positive integers a, b, and k, a^k || b means that a^k is a divisor of b, but a^(k+1) is not a divisor of b. If k is a positive integer and 2^k || 72, then k is equal to",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "8",
+        "E": "18"
+      },
+      "correct_answer": "B",
+      "explanation": "72 = 2^3 × 3^2. أكبر قوة للعدد 2 تقسم 72 هي 2^3، إذن k=3. الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 200,
+      "difficulty": "Hard",
+      "question": "A certain characteristic in a large population has a distribution that is symmetric about the mean m. If 68 percent of the distribution lies within one standard deviation d of the mean, what percent of the distribution is less than m + d?",
+      "options": {
+        "A": "16%",
+        "B": "32%",
+        "C": "48%",
+        "D": "84%",
+        "E": "92%"
+      },
+      "correct_answer": "D",
+      "explanation": "68% بين m-d و m+d، إذن 32% خارج هذا النطاق، 16% على كل جانب. نسبة أقل من m+d = 100% - 16% = 84%. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 201,
+      "difficulty": "Hard",
+      "question": "Four extra-large sandwiches of exactly the same size were ordered for m students, where m > 4. Three of the sandwiches were evenly divided among the students. Since 4 students did not want any of the fourth sandwich, it was evenly divided among the remaining students. If Carol ate one piece from each of the four sandwiches, the amount of sandwich that she ate would be what fraction of a whole extra-large sandwich?",
+      "options": {
+        "A": "(m+4)/(m(m-4))",
+        "B": "(2m-4)/(m(m-4))",
+        "C": "(4m-4)/(m(m-4))",
+        "D": "(4m-8)/(m(m-4))",
+        "E": "(4m-12)/(m(m-4))"
+      },
+      "correct_answer": "E",
+      "explanation": "من الثلاث سندويشات الأولى: 3×(1/m) = 3/m. من الرابعة: 1/(m-4). المجموع = 3/m + 1/(m-4) = (3(m-4)+m)/(m(m-4)) = (3m-12+m)/(m(m-4)) = (4m-12)/(m(m-4)). الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 202,
+      "difficulty": "Hard",
+      "question": "Which of the following equations has 1 + √2 as one of its roots?",
+      "options": {
+        "A": "x²+2x-1=0",
+        "B": "x²-2x+1=0",
+        "C": "x²+2x+1=0",
+        "D": "x²-2x-1=0",
+        "E": "x²-x-1=0"
+      },
+      "correct_answer": "D",
+      "explanation": "إذا كان الجذر = 1+√2، فإن x-1=√2 => (x-1)²=2 => x²-2x+1=2 => x²-2x-1=0. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 203,
+      "difficulty": "Hard",
+      "question": "In Country C, the unemployment rate among construction workers dropped from 16 percent on September 1, 1992, to 9 percent on September 1, 1996. If the number of construction workers was 20 percent greater on September 1, 1996, than on September 1, 1992, what was the approximate percent change in the number of unemployed construction workers over this period?",
+      "options": {
+        "A": "50% decrease",
+        "B": "30% decrease",
+        "C": "15% decrease",
+        "D": "30% increase",
+        "E": "55% increase"
+      },
+      "correct_answer": "B",
+      "explanation": "نفرض عدد العمال في 1992 = 100. العاطلون = 16. في 1996: العمال = 120، العاطلون = 9% من 120 = 10.8. التغير = (10.8-16)/16 = -5.2/16 = -0.325 ≈ -30%. الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 204,
+      "difficulty": "Hard",
+      "question": "In a box of 12 pens, a total of 3 are defective. If a customer buys 2 pens selected at random from the box, what is the probability that neither pen will be defective?",
+      "options": {
+        "A": "1/6",
+        "B": "2/9",
+        "C": "6/11",
+        "D": "9/16",
+        "E": "3/4"
+      },
+      "correct_answer": "C",
+      "explanation": "عدد الطرق لاختيار 2 من 9 غير معيبة = C(9,2)=36. إجمالي الطرق = C(12,2)=66. الاحتمال = 36/66 = 6/11. الإجابة الصحيحة هي C."
+    },
+    {
+      "id": 205,
+      "difficulty": "Hard",
+      "question": "At a certain fruit stand, the price of each apple is 40 cents and the price of each orange is 60 cents. Mary selects a total of 10 apples and oranges from the fruit stand, and the average (arithmetic mean) price of the 10 pieces of fruit is 56 cents. How many oranges must Mary put back so that the average price of the pieces of fruit that she keeps is 52 cents?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "E": "5"
+      },
+      "correct_answer": "E",
+      "explanation": "نفرض عدد البرتقال = o، التفاح = 10-o. 40(10-o)+60o = 56×10=560 => 400+20o=560 => o=8. إذن لديها 8 برتقالات و 2 تفاحة. نريد المتوسط 52 بعد إرجاع x برتقالة. 40×2 + 60(8-x) = 52(10-x) => 80+480-60x = 520-52x => 560-60x = 520-52x => 40 = 8x => x=5. الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 206,
+      "difficulty": "Hard",
+      "question": "A pharmaceutical company received $3 million in royalties on the first $20 million in sales of the generic equivalent of one of its products and then $9 million in royalties on the next $108 million in sales. By approximately what percent did the ratio of royalties to sales decrease from the first $20 million in sales to the next $108 million in sales?",
+      "options": {
+        "A": "8%",
+        "B": "15%",
+        "C": "45%",
+        "D": "52%",
+        "E": "56%"
+      },
+      "correct_answer": "C",
+      "explanation": "النسبة الأولى = 3/20 = 0.15. الثانية = 9/108 = 1/12 ≈ 0.0833. الانخفاض = (0.15-0.0833)/0.15 = 0.4444 ≈ 45%. الإجابة الصحيحة هي C."
+    },
+    {
+      "id": 207,
+      "difficulty": "Hard",
+      "question": "The light in a restroom operates with a 15-minute timer that is reset every time the door opens as a person goes in or out of the room. Thus, after someone enters or exits the room, the light remains on for only 15 minutes unless the door opens again and resets the timer for another 15 minutes. If the times listed above are the times at which the door opened from 8:00 to 10:00, approximately how many minutes during this two-hour period was the light off?",
+      "options": {
+        "A": "10",
+        "B": "25",
+        "C": "35",
+        "D": "40",
+        "E": "70"
+      },
+      "correct_answer": "B",
+      "explanation": "نحسب الفجوات بين الفتحات المتتالية التي تزيد عن 15 دقيقة: 8:31 إلى 8:54 (23 دقيقة) => الضوء مطفأ 8 دقائق. 9:11 إلى 9:29 (18 دقيقة) => مطفأ 3 دقائق. 9:31 إلى 10:00 (29 دقيقة) => مطفأ 14 دقيقة. المجموع = 8+3+14 = 25 دقيقة. الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 208,
+      "difficulty": "Hard",
+      "question": "If p is the product of the integers from 1 to 30, inclusive, what is the greatest integer k for which 3^k is a factor of p?",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "14",
+        "D": "16",
+        "E": "18"
+      },
+      "correct_answer": "C",
+      "explanation": "عدد العوامل 3 في الأعداد من 1 إلى 30: مضاعفات 3: 10 أعداد (3,6,...,30) تعطي 10 عوامل. مضاعفات 9: 3 أعداد (9,18,27) تعطي 3 عوامل إضافية. مضاعفات 27: عدد واحد (27) يعطي عامل إضافي. المجموع = 10+3+1=14. الإجابة الصحيحة هي C."
+    },
+    {
+      "id": 209,
+      "difficulty": "Hard",
+      "question": "If n = 3^8 - 2^8, which of the following is NOT a factor of n?",
+      "options": {
+        "A": "97",
+        "B": "65",
+        "C": "35",
+        "D": "13",
+        "E": "5"
+      },
+      "correct_answer": "C",
+      "explanation": "3^8 - 2^8 = (3^4 - 2^4)(3^4 + 2^4) = (81-16)(81+16) = 65×97 = 5×13×97. العوامل هي 5,13,65,97. 35 = 5×7، و7 ليس عاملاً. الإجابة الصحيحة هي C."
+    },
+    {
+      "id": 210,
+      "difficulty": "Hard",
+      "question": "Club X has more than 10 but fewer than 40 members. Sometimes the members sit at tables with 3 members at one table and 4 members at each of the other tables, and sometimes they sit at tables with 3 members at one table and 5 members at each of the other tables. If they sit at tables with 6 members at each table except one and fewer than 6 members at that one table, how many members will be at the table that has fewer than 6 members?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "E": "5"
+      },
+      "correct_answer": "E",
+      "explanation": "العدد N يترك باقي 3 عند القسمة على 4 وعلى 5، إذن N-3 يقبل القسمة على 20. N بين 10 و40، إذن N-3=20 => N=23. 23 = 3×6 + 5، إذن الباقي 5. الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 211,
+      "difficulty": "Hard",
+      "question": "In order to complete a reading assignment on time, Terry planned to read 90 pages per day. However, she read only 75 pages per day at first, leaving 690 pages to be read during the last 6 days before the assignment was to be completed. How many days in all did Terry have to complete the assignment on time?",
+      "options": {
+        "A": "15",
+        "B": "16",
+        "C": "25",
+        "D": "40",
+        "E": "46"
+      },
+      "correct_answer": "B",
+      "explanation": "نفرض عدد الأيام التي قرأت فيها 75 صفحة = d. عدد الصفحات الكلي = 75d + 690. إجمالي الأيام = d+6. المتوسط المطلوب = 90، إذن (75d+690)/(d+6) = 90 => 75d+690 = 90d+540 => 150 = 15d => d=10. الإجمالي = 10+6=16. الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 212,
+      "difficulty": "Hard",
+      "question": "If s > 0 and √(r/s) = s, what is r in terms of s?",
+      "options": {
+        "A": "1/s",
+        "B": "√s",
+        "C": "s√s",
+        "D": "s^3",
+        "E": "s^2 - s"
+      },
+      "correct_answer": "D",
+      "explanation": "√(r/s) = s => r/s = s² => r = s³. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 213,
+      "difficulty": "Hard",
+      "question": "If 3 < x < 100, for how many values of x is x/3 the square of a prime number?",
+      "options": {
+        "A": "Two",
+        "B": "Three",
+        "C": "Four",
+        "D": "Five",
+        "E": "Nine"
+      },
+      "correct_answer": "B",
+      "explanation": "x/3 = p² (p عدد أولي) => x=3p². 3<3p²<100 => 1<p²<33.33 => p²=4,9,25 => p=2,3,5. عدد القيم = 3. الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 214,
+      "difficulty": "Hard",
+      "question": "A researcher plans to identify each participant in a certain medical experiment with a code consisting of either a single letter or a pair of distinct letters written in alphabetical order. What is the least number of letters that can be used if there are 12 participants, and each participant is to receive a different code?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7",
+        "E": "8"
+      },
+      "correct_answer": "B",
+      "explanation": "مع n حروف، عدد الرموز = n + C(n,2). n=4 => 4+6=10 (أقل من 12). n=5 => 5+10=15 (يكفي). الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 215,
+      "difficulty": "Hard",
+      "question": "An object thrown directly upward is at a height of h feet after t seconds, where h = -16(t-3)^2 + 150. At what height, in feet, is the object 2 seconds after it reaches its maximum height?",
+      "options": {
+        "A": "6",
+        "B": "86",
+        "C": "134",
+        "D": "150",
+        "E": "166"
+      },
+      "correct_answer": "B",
+      "explanation": "الحد الأقصى عند t=3 (لأن (t-3)²=0). بعد ثانيتين = t=5. h(5) = -16(2)²+150 = -64+150 = 86. الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 216,
+      "difficulty": "Hard",
+      "question": "Which of the following is equivalent to the pair of inequalities x+6>10 and x-3≤5?",
+      "options": {
+        "A": "2 ≤ x < 16",
+        "B": "2 ≤ x < 4",
+        "C": "2 < x ≤ 8",
+        "D": "4 < x ≤ 8",
+        "E": "4 ≤ x < 16"
+      },
+      "correct_answer": "D",
+      "explanation": "x+6>10 => x>4. x-3≤5 => x≤8. إذن 4 < x ≤ 8. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 217,
+      "difficulty": "Hard",
+      "question": "David has d books, which is 3 times as many as Jeff and 1/2 as many as Paula. How many books do the three of them have altogether, in terms of d?",
+      "options": {
+        "A": "5/6 d",
+        "B": "7/3 d",
+        "C": "10/3 d",
+        "D": "7/2 d",
+        "E": "9/2 d"
+      },
+      "correct_answer": "C",
+      "explanation": "d = 3J => J = d/3. d = (1/2)P => P = 2d. المجموع = d + d/3 + 2d = 10d/3. الإجابة الصحيحة هي C."
+    },
+    {
+      "id": 218,
+      "difficulty": "Hard",
+      "question": "There are 8 teams in a certain league and each team plays each of the other teams exactly once. If each game is played by 2 teams, what is the total number of games played?",
+      "options": {
+        "A": "15",
+        "B": "16",
+        "C": "28",
+        "D": "56",
+        "E": "64"
+      },
+      "correct_answer": "C",
+      "explanation": "عدد المباريات = C(8,2) = 8×7/2 = 28. الإجابة الصحيحة هي C."
+    },
+    {
+      "id": 219,
+      "difficulty": "Hard",
+      "question": "At his regular hourly rate, Don had estimated the labor cost of a repair job as $336 and he was paid that amount. However, the job took 4 hours longer than he had estimated and, consequently, he earned $2 per hour less than his regular hourly rate. What was the time Don had estimated for the job, in hours?",
+      "options": {
+        "A": "28",
+        "B": "24",
+        "C": "16",
+        "D": "14",
+        "E": "12"
+      },
+      "correct_answer": "B",
+      "explanation": "نفرض الوقت المقدر = t، المعدل = 336/t. الوقت الفعلي = t+4، المعدل الفعلي = 336/(t+4). المعادلة: 336/t - 2 = 336/(t+4). بالحل: 336(t+4) - 2t(t+4) = 336t => 336t+1344-2t²-8t = 336t => 2t²+8t-1344=0 => t²+4t-672=0 => (t-24)(t+28)=0 => t=24. الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 220,
+      "difficulty": "Hard",
+      "question": "If p/q < 1, and p and q are positive integers, which of the following must be greater than 1?",
+      "options": {
+        "A": "√(p/q)",
+        "B": "p/q²",
+        "C": "p/2q",
+        "D": "q/p²",
+        "E": "q/p"
+      },
+      "correct_answer": "E",
+      "explanation": "p/q < 1 => q/p > 1. الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 221,
+      "difficulty": "Hard",
+      "question": "To mail a package, the rate is x cents for the first pound and y cents for each additional pound, where x > y. Two packages weighing 3 pounds and 5 pounds, respectively, can be mailed separately or combined as one package. Which method is cheaper, and how much money is saved?",
+      "options": {
+        "A": "Combined, with a savings of x-y cents",
+        "B": "Combined, with a savings of y-x cents",
+        "C": "Combined, with a savings of x cents",
+        "D": "Separately, with a savings of x-y cents",
+        "E": "Separately, with a savings of y cents"
+      },
+      "correct_answer": "A",
+      "explanation": "بشكل منفصل: 3 باوند = x+2y، 5 باوند = x+4y، المجموع = 2x+6y. معاً (8 باوند): x+7y. الفرق = (2x+6y)-(x+7y) = x-y > 0، إذن الشحن معاً أوفر بتوفير x-y سنتاً. الإجابة الصحيحة هي A."
+    },
+    {
+      "id": 222,
+      "difficulty": "Hard",
+      "question": "If money is invested at r percent interest, compounded annually, the amount of the investment will double in approximately 70/r years. If Pat's parents invested $5,000 in a long-term bond that pays 8 percent interest, compounded annually, what will be the approximate total amount of the investment 18 years later, when Pat is ready for college?",
+      "options": {
+        "A": "$20,000",
+        "B": "$15,000",
+        "C": "$12,000",
+        "D": "$10,000",
+        "E": "$9,000"
+      },
+      "correct_answer": "A",
+      "explanation": "معدل 8% يعني يتضاعف كل 70/8 ≈ 8.75 سنة. في 18 سنة يتضاعف مرتين تقريباً. 5000×2×2 = 20000. الإجابة الصحيحة هي A."
+    },
+    {
+      "id": 223,
+      "difficulty": "Hard",
+      "question": "On a recent trip, Cindy drove her car 290 miles, rounded to the nearest 10 miles, and used 12 gallons of gasoline, rounded to the nearest gallon. The actual number of miles per gallon that Cindy's car got on this trip must have been between",
+      "options": {
+        "A": "290/12.5 and 290/11.5",
+        "B": "295/12 and 285/11.5",
+        "C": "285/12 and 295/12",
+        "D": "285/12.5 and 295/11.5",
+        "E": "295/12.5 and 285/11.5"
+      },
+      "correct_answer": "D",
+      "explanation": "المسافة بين 285 و295 (لأنها قربت لأقرب 10 أميال). الغالونات بين 11.5 و12.5 (لأنها قربت لأقرب غالون). أقل قيمة = 285/12.5، وأعلى قيمة = 295/11.5. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 224,
+      "difficulty": "Hard",
+      "question": "Which of the following inequalities is an algebraic expression for the shaded part of the number line above?",
+      "options": {
+        "A": "|x| ≤ 3",
+        "B": "|x| ≤ 5",
+        "C": "|x-2| ≤ 3",
+        "D": "|x-1| ≤ 4",
+        "E": "|x+1| ≤ 4"
+      },
+      "correct_answer": "E",
+      "explanation": "الجزء المظلل من -5 إلى 3. مركزه = (-5+3)/2 = -1، ونصف الطول = 4. إذن |x - (-1)| ≤ 4 => |x+1| ≤ 4. الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 225,
+      "difficulty": "Hard",
+      "question": "In a small snack shop, the average (arithmetic mean) revenue was $400 per day over a 10-day period. During this period, if the average daily revenue was $360 for the first 6 days, what was the average daily revenue for the last 4 days?",
+      "options": {
+        "A": "$420",
+        "B": "$440",
+        "C": "$450",
+        "D": "$460",
+        "E": "$480"
+      },
+      "correct_answer": "D",
+      "explanation": "إجمالي الإيراد = 400×10 = 4000. إيراد الأيام الستة = 360×6 = 2160. إيراد الأربعة أيام = 4000-2160=1840. المتوسط = 1840/4 = 460. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 226,
+      "difficulty": "Hard",
+      "question": "If y is the smallest positive integer such that 3,150 multiplied by y is the square of an integer, then y must be",
+      "options": {
+        "A": "2",
+        "B": "5",
+        "C": "6",
+        "D": "7",
+        "E": "14"
+      },
+      "correct_answer": "E",
+      "explanation": "تحليل 3150 = 2×3²×5²×7. لكي يكون مربعاً كاملاً، يجب أن يكون الأسس زوجية. الأسس الحالية: 2¹, 3², 5², 7¹. نحتاج إلى 2 و7، إذن y=14. الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 227,
+      "difficulty": "Hard",
+      "question": "If [x] is the greatest integer less than or equal to x, what is the value of [-1.6] + [3.4] + [2.7]?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6",
+        "E": "7"
+      },
+      "correct_answer": "A",
+      "explanation": "[-1.6] = -2، [3.4]=3، [2.7]=2. المجموع = -2+3+2=3. الإجابة الصحيحة هي A."
+    },
+    {
+      "id": 228,
+      "difficulty": "Hard",
+      "question": "In the first week of the year, Nancy saved $1. In each of the next 51 weeks, she saved $1 more than she had saved in the previous week. What was the total amount that Nancy saved during the 52 weeks?",
+      "options": {
+        "A": "$1,326",
+        "B": "$1,352",
+        "C": "$1,378",
+        "D": "$2,652",
+        "E": "$2,756"
+      },
+      "correct_answer": "C",
+      "explanation": "المجموع = 1+2+3+...+52 = 52×53/2 = 26×53 = 1378. الإجابة الصحيحة هي C."
+    },
+    {
+      "id": 229,
+      "difficulty": "Hard",
+      "question": "In a certain sequence, the term x_n is given by the formula x_n = 2x_{n-1} - 1/2(x_{n-2}) for all n ≥ 2. If x_0 = 3 and x_1 = 2, what is the value of x_3?",
+      "options": {
+        "A": "2.5",
+        "B": "3.125",
+        "C": "4",
+        "D": "5",
+        "E": "6.75"
+      },
+      "correct_answer": "C",
+      "explanation": "x_2 = 2×2 - 0.5×3 = 4 - 1.5 = 2.5. x_3 = 2×2.5 - 0.5×2 = 5 - 1 = 4. الإجابة الصحيحة هي C."
+    },
+    {
+      "id": 230,
+      "difficulty": "Hard",
+      "question": "During a trip, Francine traveled x percent of the total distance at an average speed of 40 miles per hour and the rest of the distance at an average speed of 60 miles per hour. In terms of x, what was Francine's average speed for the entire trip?",
+      "options": {
+        "A": "(180-x)/2",
+        "B": "(x+60)/4",
+        "C": "(300-x)/5",
+        "D": "600/(115-x)",
+        "E": "12000/(x+200)"
+      },
+      "correct_answer": "E",
+      "explanation": "نفرض المسافة الكلية = 100. الزمن = x/40 + (100-x)/60 = (3x+200-2x)/120 = (x+200)/120. السرعة المتوسطة = 100 / [(x+200)/120] = 12000/(x+200). الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 231,
+      "difficulty": "Hard",
+      "question": "If n = (33)^43 + (43)^33, what is the units digit of n?",
+      "options": {
+        "A": "0",
+        "B": "2",
+        "C": "4",
+        "D": "6",
+        "E": "8"
+      },
+      "correct_answer": "A",
+      "explanation": "آحاد 33^43: دورة 3,9,7,1. 43 ÷ 4 = 10 والباقي 3 => 7. آحاد 43^33: دورة 3,9,7,1. 33 ÷ 4 = 8 والباقي 1 => 3. 7+3=10، آحاد 0. الإجابة الصحيحة هي A."
+    },
+    {
+      "id": 232,
+      "difficulty": "Hard",
+      "question": "Team A and Team B are competing against each other in a game of tug-of-war. Team A, consisting of 3 males and 3 females, decides to line up male, female, male, female, male, female. The lineup that Team A chooses will be one of how many different possible lineups?",
+      "options": {
+        "A": "9",
+        "B": "12",
+        "C": "15",
+        "D": "36",
+        "E": "720"
+      },
+      "correct_answer": "D",
+      "explanation": "3! × 3! = 6×6=36. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 233,
+      "difficulty": "Hard",
+      "question": "If d = 1/(2^3 × 5^7) is expressed as a terminating decimal, how many nonzero digits will d have?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Seven",
+        "E": "Ten"
+      },
+      "correct_answer": "B",
+      "explanation": "d = 1/(2^3×5^7) = 5^4/10^7? لا. أفضل طريقة: ضرب البسط والمقام في 2^4: d = 2^4/(2^7×5^7) = 16/10^7 = 0.0000016. الأرقام غير الصفرية: 1 و 6 (عددان). الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 234,
+      "difficulty": "Hard",
+      "question": "For any positive integer n, the sum of the first n positive integers equals n(n+1)/2. What is the sum of all the even integers between 99 and 301?",
+      "options": {
+        "A": "10,100",
+        "B": "20,200",
+        "C": "22,650",
+        "D": "40,200",
+        "E": "45,150"
+      },
+      "correct_answer": "B",
+      "explanation": "الأعداد الزوجية من 100 إلى 300. عددها = (300-100)/2 + 1 = 101. المجموع = (100+300)×101/2 = 400×101/2 = 200×101 = 20200. الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 235,
+      "difficulty": "Hard",
+      "question": "November 16, 2001, was a Friday. If each of the years 2004, 2008, and 2012 had 366 days, and the remaining years from 2001 through 2014 had 365 days, what day of the week was November 16, 2014?",
+      "options": {
+        "A": "Sunday",
+        "B": "Monday",
+        "C": "Tuesday",
+        "D": "Wednesday",
+        "E": "Thursday"
+      },
+      "correct_answer": "A",
+      "explanation": "عدد الأيام = 10×365 + 3×366 = 3650+1098 = 4748. 4748 ÷ 7 = 678 والباقي 2. إذن يوم 16 نوفمبر 2014 = Friday + 2 = Sunday. الإجابة الصحيحة هي A."
+    },
+    {
+      "id": 236,
+      "difficulty": "Hard",
+      "question": "How many prime numbers between 1 and 100 are factors of 7,150?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four",
+        "E": "Five"
+      },
+      "correct_answer": "D",
+      "explanation": "7150 = 715×10 = 5×143×2×5 = 2×5²×11×13. العوامل الأولية: 2,5,11,13 (4 عوامل). الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 237,
+      "difficulty": "Hard",
+      "question": "A sequence of numbers a1, a2, a3, ... is defined as follows: a1=3, a2=5, and every term in the sequence after a2 is the product of all terms in the sequence preceding it, e.g., a3=(a1)(a2) and a4=(a1)(a2)(a3). If a_n = t and n > 2, what is the value of a_{n+2} in terms of t?",
+      "options": {
+        "A": "4t",
+        "B": "t^2",
+        "C": "t^3",
+        "D": "t^4",
+        "E": "t^8"
+      },
+      "correct_answer": "D",
+      "explanation": "a_n = t = a1×a2×...×a_{n-1}. a_{n+1} = a_n×t = t². a_{n+2} = a_{n+1}×t² = t^4. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 238,
+      "difficulty": "Hard",
+      "question": "Last year the price per share of Stock X increased by k percent and the earnings per share of Stock X increased by m percent, where k is greater than m. By what percent did the ratio of price per share to earnings per share increase, in terms of k and m?",
+      "options": {
+        "A": "k/m %",
+        "B": "(k-m)%",
+        "C": "100(k-m)/(100+k)%",
+        "D": "100(k-m)/(100+m)%",
+        "E": "100(k-m)/(100+k+m)%"
+      },
+      "correct_answer": "D",
+      "explanation": "النسبة الأصلية = P/E. النسبة الجديدة = P(1+k/100) / E(1+m/100) = (P/E)×(100+k)/(100+m). الزيادة = [(100+k)/(100+m) - 1]×100 = [(k-m)/(100+m)]×100 = 100(k-m)/(100+m)%. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 239,
+      "difficulty": "Hard",
+      "question": "Of the 300 subjects who participated in an experiment using virtual-reality therapy to reduce their fear of heights, 40 percent experienced sweaty palms, 30 percent experienced vomiting, and 75 percent experienced dizziness. If all of the subjects experienced at least one of these effects and 35 percent of the subjects experienced exactly two of these effects, how many of the subjects experienced only one of these effects?",
+      "options": {
+        "A": "105",
+        "B": "125",
+        "C": "130",
+        "D": "180",
+        "E": "195"
+      },
+      "correct_answer": "D",
+      "explanation": "نفرض a = الذين عانوا من تأثير واحد، b = تأثيران، c = ثلاثة. a+b+c=300. b=0.35×300=105. مجموع النسب المئوية = 40+30+75=145%، وهذا يساوي a + 2b + 3c (معبراً عنه كنسبة). a+2b+3c = 0.45×300؟ لا. بالأعداد: 120+90+225=435. a+2b+3c=435. a+105+c=300 => a+c=195. a+210+3c=435 => a+3c=225. بالطرح: 2c=30 => c=15. a=180. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 240,
+      "difficulty": "Hard",
+      "question": "If m^-1 = -1/3, then m^-2 is equal to",
+      "options": {
+        "A": "-9",
+        "B": "-3",
+        "C": "-1",
+        "D": "1/9",
+        "E": "9"
+      },
+      "correct_answer": "D",
+      "explanation": "m^-1 = 1/m = -1/3 => m=-3. m^-2 = 1/m² = 1/9. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 241,
+      "difficulty": "Hard",
+      "question": "A photography dealer ordered 60 Model X cameras to be sold for $250 each, which represents a 20 percent markup over the dealer's initial cost for each camera. Of the cameras ordered, 6 were never sold and were returned to the manufacturer for a refund of 50 percent of the dealer's initial cost. What was the dealer's approximate profit or loss as a percent of the dealer's initial cost for the 60 cameras?",
+      "options": {
+        "A": "7% loss",
+        "B": "13% loss",
+        "C": "7% profit",
+        "D": "13% profit",
+        "E": "15% profit"
+      },
+      "correct_answer": "D",
+      "explanation": "التكلفة لكل كاميرا = 250/1.2 = 208.33. التكلفة الكلية = 60×208.33 = 12500. الإيراد = 54×250 + 6×0.5×208.33 = 13500 + 625 = 14125. الربح = 14125-12500=1625. النسبة = 1625/12500 = 0.13 = 13% ربح. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 242,
+      "difficulty": "Hard",
+      "question": "Seven pieces of rope have an average (arithmetic mean) length of 68 centimeters and a median length of 84 centimeters. If the length of the longest piece of rope is 14 centimeters more than 4 times the length of the shortest piece of rope, what is the maximum possible length, in centimeters, of the longest piece of rope?",
+      "options": {
+        "A": "82",
+        "B": "118",
+        "C": "120",
+        "D": "134",
+        "E": "152"
+      },
+      "correct_answer": "D",
+      "explanation": "نفرض الأطوال مرتبة: a,b,c,84,e,f,g. g=4a+14. لتعظيم g نعظم a. لجعل a كبر ما يمكن، نجعل b,c,e,f صغرى قدر الإمكان: a,a,a,84,84,84,4a+14. المتوسط = (3a+252+4a+14)/7 = (7a+266)/7 = a+38 = 68 => a=30. g=4×30+14=134. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 243,
+      "difficulty": "Hard",
+      "question": "What is the difference between the sixth and the fifth terms of the sequence 2, 4, 7, ... whose nth term is n + 2^(n-1)?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "6",
+        "D": "16",
+        "E": "17"
+      },
+      "correct_answer": "E",
+      "explanation": "الحد الخامس = 5+2^4=5+16=21. الحد السادس = 6+2^5=6+32=38. الفرق = 17. الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 244,
+      "difficulty": "Hard",
+      "question": "From the consecutive integers -10 to 10, inclusive, 20 integers are randomly chosen with repetitions allowed. What is the least possible value of the product of the 20 integers?",
+      "options": {
+        "A": "(-10)^20",
+        "B": "(-10)^10",
+        "C": "0",
+        "D": "(-10)^19",
+        "E": "(-10)^20"
+      },
+      "correct_answer": "D",
+      "explanation": "لتعظيم القيمة السالبة، نختار عدد فردي من (-10) والباقي 10. القيمة = (-10)^19 × 10 = -10^20؟ خطأ. الخيارات: (-10)^19 هو الأصغر لأن 10^19 موجب، والإشارة سالبة، وقيمته المطلقة أكبر من (-10)^10. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 245,
+      "difficulty": "Hard",
+      "question": "The letters D, G, I, I, and T can be used to form 5-letter strings such as DIGIT or DGIIT. Using these letters, how many 5-letter strings can be formed in which the two occurrences of the letter I are separated by at least one other letter?",
+      "options": {
+        "A": "12",
+        "B": "18",
+        "C": "24",
+        "D": "36",
+        "E": "48"
+      },
+      "correct_answer": "D",
+      "explanation": "عدد الطرق الكلية = 5!/2! = 60. عدد الطرق التي يكون فيها الـ I متجاورين = 4! = 24 (نعتبر II ككتلة واحدة). المطلوب = 60-24=36. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 246,
+      "difficulty": "Hard",
+      "question": "(0.99999999)/(1.0001) - (0.99999991)/(1.0003) =",
+      "options": {
+        "A": "10^-8",
+        "B": "3×10^-8",
+        "C": "3×10^-4",
+        "D": "2×10^-4",
+        "E": "10^-4"
+      },
+      "correct_answer": "D",
+      "explanation": "0.99999999 = 1 - 10^-8، 1.0001 = 1+10^-4. 0.99999991 = 1 - 9×10^-8، 1.0003 = 1+3×10^-4. باستخدام تقريب (1-a)/(1+b) ≈ 1-a-b، الفرق ≈ (1-10^-8-10^-4) - (1-9×10^-8-3×10^-4) = ( -10^-4 + 3×10^-4 ) + (-10^-8+9×10^-8) = 2×10^-4 + 8×10^-8 ≈ 2×10^-4. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 247,
+      "difficulty": "Hard",
+      "question": "Last Sunday a certain store sold copies of Newspaper A for $1.00 each and copies of Newspaper B for $1.25 each, and the store sold no other newspapers that day. If r percent of the store's revenue from newspaper sales was from Newspaper A and if p percent of the newspapers that the store sold were copies of Newspaper A, which of the following expresses r in terms of p?",
+      "options": {
+        "A": "100p/(125-p)",
+        "B": "150p/(250-p)",
+        "C": "300p/(375-p)",
+        "D": "400p/(500-p)",
+        "E": "500p/(625-p)"
+      },
+      "correct_answer": "D",
+      "explanation": "نفرض عدد الصحف الكلي = 100، عدد A = p، عدد B = 100-p. الإيراد من A = p، من B = 1.25(100-p). الإيراد الكلي = p + 125 - 1.25p = 125 - 0.25p. r = 100p/(125 - 0.25p) = 400p/(500-p). الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 248,
+      "difficulty": "Hard",
+      "question": "For the past n days, the average (arithmetic mean) daily production at a company was 50 units. If today's production of 90 units raises the average to 55 units per day, what is the value of n?",
+      "options": {
+        "A": "30",
+        "B": "18",
+        "C": "10",
+        "D": "9",
+        "E": "7"
+      },
+      "correct_answer": "E",
+      "explanation": "إجمالي الإنتاج في n أيام = 50n. بعد اليوم = 50n+90. المتوسط الجديد = (50n+90)/(n+1) = 55 => 50n+90 = 55n+55 => 35 = 5n => n=7. الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 249,
+      "difficulty": "Hard",
+      "question": "If a two-digit positive integer has its digits reversed, the resulting integer differs from the original by 27. By how much do the two digits differ?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6",
+        "E": "7"
+      },
+      "correct_answer": "A",
+      "explanation": "نفرض العدد = 10a+b، المقلوب = 10b+a. الفرق = |(10b+a)-(10a+b)| = |9(b-a)| = 27 => |b-a| = 3. الإجابة الصحيحة هي A."
+    },
+    {
+      "id": 250,
+      "difficulty": "Hard",
+      "question": "In an electric circuit, two resistors with resistances x and y are connected in parallel. In this case, if r is the combined resistance of these two resistors, then the reciprocal of r is equal to the sum of the reciprocals of x and y. What is r in terms of x and y?",
+      "options": {
+        "A": "xy",
+        "B": "x+y",
+        "C": "1/x+1/y",
+        "D": "xy/(x+y)",
+        "E": "(x+y)/xy"
+      },
+      "correct_answer": "D",
+      "explanation": "1/r = 1/x + 1/y = (x+y)/(xy) => r = xy/(x+y). الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 251,
+      "difficulty": "Hard",
+      "question": "Xavier, Yvonne, and Zelda each try independently to solve a problem. If their individual probabilities for success are 1/4, 1/2, and 5/8, respectively, what is the probability that Xavier and Yvonne, but not Zelda, will solve the problem?",
+      "options": {
+        "A": "11/8",
+        "B": "7/8",
+        "C": "9/64",
+        "D": "5/64",
+        "E": "3/64"
+      },
+      "correct_answer": "E",
+      "explanation": "احتمال نجاح Xavier و Yvonne = (1/4)×(1/2) = 1/8. احتمال فشل Zelda = 1 - 5/8 = 3/8. الاحتمال الكلي = (1/8)×(3/8) = 3/64. الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 252,
+      "difficulty": "Hard",
+      "question": "If 1/x - 1/(x+1) = 1/(x+4), then x could be",
+      "options": {
+        "A": "0",
+        "B": "-1",
+        "C": "-2",
+        "D": "-3",
+        "E": "-4"
+      },
+      "correct_answer": "C",
+      "explanation": "1/x - 1/(x+1) = (x+1-x)/(x(x+1)) = 1/(x(x+1)) = 1/(x+4) => x(x+1) = x+4 => x²+x = x+4 => x²=4 => x=±2. الخيارات تحتوي على -2. الإجابة الصحيحة هي C."
+    },
+    {
+      "id": 253,
+      "difficulty": "Hard",
+      "question": "(1/2)^-3 × (1/4)^-2 × (1/16)^-1 =",
+      "options": {
+        "A": "(1/2)^-48",
+        "B": "(1/2)^-11",
+        "C": "(1/2)^-6",
+        "D": "(1/8)^-11",
+        "E": "(1/2)^-6"
+      },
+      "correct_answer": "B",
+      "explanation": "(1/2)^-3 = 2^3، (1/4)^-2 = 4^2 = (2^2)^2 = 2^4، (1/16)^-1 = 16 = 2^4. المجموع = 2^(3+4+4) = 2^11 = (1/2)^-11. الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 254,
+      "difficulty": "Hard",
+      "question": "List T consists of 30 positive decimals, none of which is an integer, and the sum of the 30 decimals is S. The estimated sum of the 30 decimals, E, is defined as follows. Each decimal in T whose tenths digit is even is rounded up to the nearest integer, and each decimal in T whose tenths digit is odd is rounded down to the nearest integer; E is the sum of the resulting integers. If 1/3 of the decimals in T have a tenths digit that is even, which of the following is a possible value of E - S? I. -16 II. 6 III. 10",
+      "options": {
+        "A": "I only",
+        "B": "I and II only",
+        "C": "I and III only",
+        "D": "II and III only",
+        "E": "I, II, and III"
+      },
+      "correct_answer": "B",
+      "explanation": "10 أعداد ذات عشرات زوجية: كل منها يساهم بين 0.1 و 1 تقريباً (بالمعنى الموجب). 20 عدداً ذات عشرات فردية: كل منها يساهم بين -1 و -0.1 تقريباً. النطاق الكلي: 10×(0.1) + 20×(-1) = -19 إلى 10×1 + 20×(-0.1) = 8. إذن -19 < E-S < 8. القيم الممكنة: -16 و 6، ولكن 10 غير ممكنة. الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 255,
+      "difficulty": "Hard",
+      "question": "If 5 - 6/x = x, then x has how many possible values?",
+      "options": {
+        "A": "None",
+        "B": "One",
+        "C": "Two",
+        "D": "A finite number greater than two",
+        "E": "An infinite number"
+      },
+      "correct_answer": "C",
+      "explanation": "5 - 6/x = x => بضرب الطرفين في x: 5x - 6 = x² => x² - 5x + 6 = 0 => (x-2)(x-3)=0 => x=2 أو 3. عدد القيم = 2. الإجابة الصحيحة هي C."
+    },
+    {
+      "id": 256,
+      "difficulty": "Hard",
+      "question": "Seed mixture X is 40 percent ryegrass and 60 percent bluegrass by weight; seed mixture Y is 25 percent ryegrass and 75 percent fescue. If a mixture of X and Y contains 30 percent ryegrass, what percent of the weight of the mixture is X?",
+      "options": {
+        "A": "10%",
+        "B": "33 1/3%",
+        "C": "40%",
+        "D": "50%",
+        "E": "66 2/3%"
+      },
+      "correct_answer": "B",
+      "explanation": "نفرض كمية X = a، Y = b. كمية الريجراس = 0.4a + 0.25b = 0.3(a+b) => 0.4a+0.25b = 0.3a+0.3b => 0.1a = 0.05b => a/b = 0.5 = 1/2. نسبة X = a/(a+b) = 1/3 ≈ 33.33%. الإجابة الصحيحة هي B."
+    },
+    {
+      "id": 257,
+      "difficulty": "Hard",
+      "question": "How many of the integers that satisfy the inequality (x+2)(x+3)/(x-2) ≥ 0 are less than 5?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "E": "5"
+      },
+      "correct_answer": "D",
+      "explanation": "نقاط الصفر: x=-3, x=-2 (البسط =0)، x=2 (المقام =0 غير معرف). نختبر الفترات: x<-3: (-)(-)/(-) = سالبة/سالبة = موجبة؟ نعم. لكن x<-3 تشمل -4,-5,... الأعداد الصحيحة أقل من 5 ومنها -4,-5,... عدد غير محدود! لكن السؤال يطلب الأعداد الصحيحة التي تحقق المتباينة وتكون أقل من 5. الفترة (-∞,-3] ∪ [-2,2) ∪ (2,∞). الأعداد الصحيحة أقل من 5 في هذه الفترات: ..., -5,-4,-3, -2, 3,4. لكن الأعداد السالبة غير محدودة! إذاً السؤال يقصد الأعداد الصحيحة بين ... ربما يفترض x>-3؟ لكنه لم يقل. التحليل: (x+3)(x+2)/(x-2) ≥0. باستخدام خط الأعداد، الحلول: x≤-3، -2≤x<2، x>2. الأعداد الصحيحة الأقل من 5: من الفترة الأولى: -3، -4، -5، ... (غير محدودة). لكن في سياق GMAT، غالباً ما يقصدون الأعداد الصحيحة الموجبة أو ضمن نطاق معين. ولكن السؤال يقول "integers that satisfy ... are less than 5"، أي جميع الأعداد الصحيحة التي تحقق المتباينة وتكون أقل من 5. هذا يعطي عدداً لا نهائياً! لكن الخيارات محدودة، لذا لا بد أن هناك خطأ في فهم السؤال. في الواقع، السؤال الأصلي ربما كان مقيداً بـ x بين قيمتين. ولكن حسب النص المعطى، الإجابة الصحيحة هي 4 (الأعداد -3,-2,3,4) إذا افترضنا أننا نأخذ فقط الأعداد الصحيحة من -3 إلى 4. ولأن الخيارات صغيرة، الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 258,
+      "difficulty": "Hard",
+      "question": "Of the 150 houses in a certain development, 60 percent have air-conditioning, 50 percent have a sunporch, and 30 percent have a swimming pool. If 5 of the houses have all three of these amenities and 5 have none of them, how many of the houses have exactly two of these amenities?",
+      "options": {
+        "A": "10",
+        "B": "45",
+        "C": "50",
+        "D": "55",
+        "E": "65"
+      },
+      "correct_answer": "D",
+      "explanation": "باستخدام مبدأ التضمين والإقصاء: المجموع = 90+75+45 = 210 (هذا مجموع مرات ظهور كل ميزة). 5 منازل لا شيء، و5 منازل كل الثلاث (تظهر 3 مرات). إذا كان x عدد المنازل التي لها ميزتان بالضبط، فإن 210 = (عدد المنازل التي لها ميزة واحدة)×1 + x×2 + 5×3 + 0×5. أيضاً عدد المنازل الكلي = 150 = (ميزة واحدة) + x + 5 + 5. من المعادلة الثانية: ميزة واحدة = 140 - x. بالتعويض في الأولى: 210 = (140-x) + 2x + 15 => 210 = 155 + x => x=55. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 259,
+      "difficulty": "Hard",
+      "question": "The value of (2^-14 + 2^-15 + 2^-16 + 2^-17)/5 is how many times the value of 2^-17?",
+      "options": {
+        "A": "3/2",
+        "B": "5/2",
+        "C": "3",
+        "D": "4",
+        "E": "5"
+      },
+      "correct_answer": "C",
+      "explanation": "البسط = 2^-17(2^3 + 2^2 + 2^1 + 1) = 2^-17(8+4+2+1)=15×2^-17. القسمة على 5 = 3×2^-17. الإجابة الصحيحة هي C."
+    },
+    {
+      "id": 260,
+      "difficulty": "Hard",
+      "question": "Which of the following fractions has a decimal equivalent that is a terminating decimal?",
+      "options": {
+        "A": "10/189",
+        "B": "15/169",
+        "C": "16/225",
+        "D": "25/144",
+        "E": "39/128"
+      },
+      "correct_answer": "E",
+      "explanation": "الكسر العشري المنتهي يحدث إذا كان المقام بعد التبسيط لا يحتوي إلا على عوامل 2 و5. 128 = 2^7، إذن 39/128 منتهٍ. الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 261,
+      "difficulty": "Hard",
+      "question": "If (1/5)^m (1/4)^18 = 1/(2(10)^35), then m =",
+      "options": {
+        "A": "17",
+        "B": "18",
+        "C": "34",
+        "D": "35",
+        "E": "36"
+      },
+      "correct_answer": "D",
+      "explanation": "(1/5)^m × (1/2^2)^18 = 1/(5^m × 2^36). الطرف الأيمن = 1/(2×10^35) = 1/(2×2^35×5^35) = 1/(2^36×5^35). بالمقارنة: m=35. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 262,
+      "difficulty": "Hard",
+      "question": "From a group of 8 volunteers, including Andrew and Karen, 4 people are to be selected at random to organize a charity event. What is the probability that Andrew will be among the 4 volunteers selected and Karen will not?",
+      "options": {
+        "A": "3/7",
+        "B": "5/12",
+        "C": "27/70",
+        "D": "2/7",
+        "E": "9/35"
+      },
+      "correct_answer": "D",
+      "explanation": "عدد الطرق لاختيار 4 من 8 = C(8,4)=70. عدد الطرق التي تشمل Andrew ولا تشمل Karen = اختيار 3 من الـ 6 المتبقين = C(6,3)=20. الاحتمال = 20/70 = 2/7. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 263,
+      "difficulty": "Hard",
+      "question": "An investor purchased 100 shares of Stock X at 6 1/8 dollars per share and sold them all a year later at 24 dollars per share. If the investor paid a 2 percent brokerage fee on both the total purchase price and the total selling price, which of the following is closest to the investor's percent gain on this investment?",
+      "options": {
+        "A": "92%",
+        "B": "240%",
+        "C": "280%",
+        "D": "300%",
+        "E": "380%"
+      },
+      "correct_answer": "C",
+      "explanation": "سعر الشراء = 6.125×100 = 612.5. بعد العمولة = 612.5×1.02 = 624.75. سعر البيع = 24×100 = 2400. بعد العمولة = 2400×0.98 = 2352. الربح = 2352-624.75 = 1727.25. النسبة = 1727.25/624.75 ≈ 2.76 = 276% ≈ 280%. الإجابة الصحيحة هي C."
+    },
+    {
+      "id": 264,
+      "difficulty": "Hard",
+      "question": "If x is the product of the integers from 1 to 150, inclusive, and 5^y is a factor of x, what is the greatest possible value of y?",
+      "options": {
+        "A": "30",
+        "B": "34",
+        "C": "36",
+        "D": "37",
+        "E": "39"
+      },
+      "correct_answer": "D",
+      "explanation": "عدد العوامل 5 في 150! = floor(150/5)+floor(150/25)+floor(150/125) = 30+6+1=37. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 265,
+      "difficulty": "Hard",
+      "question": "The number of defects in the first five cars to come through a new production line are 9, 7, 10, 4, and 6, respectively. If the sixth car through the production line has either 3, 7, or 12 defects, for which of these values does the mean number of defects per car for the first six cars equal the median? I. 3 II. 7 III. 12",
+      "options": {
+        "A": "I only",
+        "B": "II only",
+        "C": "III only",
+        "D": "I and III only",
+        "E": "I, II, and III"
+      },
+      "correct_answer": "D",
+      "explanation": "جرب x=3: القائمة 3,4,6,7,9,10. المتوسط = 39/6=6.5، الوسيط = (6+7)/2=6.5 (يتساوى). x=7: 4,6,7,7,9,10. المتوسط=43/6≈7.17، الوسيط=7 (لا). x=12: 4,6,7,9,10,12. المتوسط=48/6=8، الوسيط=(7+9)/2=8 (يتساوى). الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 266,
+      "difficulty": "Hard",
+      "question": "A furniture dealer purchased a desk for $150 and then set the selling price equal to the purchase price plus a markup that was 40 percent of the selling price. If the dealer sold the desk at the selling price, what was the amount of the dealer's gross profit from the purchase and the sale of the desk?",
+      "options": {
+        "A": "$40",
+        "B": "$60",
+        "C": "$80",
+        "D": "$90",
+        "E": "$100"
+      },
+      "correct_answer": "E",
+      "explanation": "نفرض سعر البيع = S. S = 150 + 0.4S => 0.6S = 150 => S=250. الربح = 250-150=100. الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 267,
+      "difficulty": "Hard",
+      "question": "How many odd numbers between 10 and 1,000 are the squares of integers?",
+      "options": {
+        "A": "12",
+        "B": "13",
+        "C": "14",
+        "D": "15",
+        "E": "16"
+      },
+      "correct_answer": "C",
+      "explanation": "الأعداد الفردية المربعة هي مربعات الأعداد الفردية. من 5^2=25 إلى 31^2=961 (لأن 33^2=1089>1000). الأعداد الفردية من 5 إلى 31: (31-5)/2+1 = 14. الإجابة الصحيحة هي C."
+    },
+    {
+      "id": 268,
+      "difficulty": "Hard",
+      "question": "Three grades of milk are 1 percent, 2 percent, and 3 percent fat by volume. If x gallons of the 1 percent grade, y gallons of the 2 percent grade, and z gallons of the 3 percent grade are mixed to give x+y+z gallons of a 1.5 percent grade, what is x in terms of y and z?",
+      "options": {
+        "A": "y + 3z",
+        "B": "(y+z)/4",
+        "C": "2y + 3z",
+        "D": "3y + z",
+        "E": "3y + 4.5z"
+      },
+      "correct_answer": "A",
+      "explanation": "0.01x+0.02y+0.03z = 0.015(x+y+z) => بضرب 1000: 10x+20y+30z = 15x+15y+15z => 5x = 5y+15z => x = y+3z. الإجابة الصحيحة هي A."
+    },
+    {
+      "id": 269,
+      "difficulty": "Hard",
+      "question": "There are 8 books on a shelf, of which 2 are paperbacks and 6 are hardbacks. How many possible selections of 4 books from this shelf include at least one paperback?",
+      "options": {
+        "A": "40",
+        "B": "45",
+        "C": "50",
+        "D": "55",
+        "E": "60"
+      },
+      "correct_answer": "D",
+      "explanation": "إجمالي الاختيارات = C(8,4)=70. اختيارات بدون أي كتاب ورقي = C(6,4)=15. المطلوب = 70-15=55. الإجابة الصحيحة هي D."
+    },
+    {
+      "id": 270,
+      "difficulty": "Hard",
+      "question": "If M = √4 + ∛4 + ⁴√4, then the value of M is",
+      "options": {
+        "A": "less than 3",
+        "B": "equal to 3",
+        "C": "between 3 and 4",
+        "D": "equal to 4",
+        "E": "greater than 4"
+      },
+      "correct_answer": "E",
+      "explanation": "√4 = 2. ∛4 > 1 (لأن 1^3=1، 2^3=8). ⁴√4 = 4^(1/4) = (2^2)^(1/4) = 2^(1/2) = √2 ≈ 1.414. المجموع ≈ 2+1.587+1.414 = 5.001 > 4. الإجابة الصحيحة هي E."
+    },
+    {
+      "id": 271,
+      "difficulty": "Hard",
+      "question": "When a certain tree was first planted, it was 4 feet tall, and the height of the tree increased by a constant amount each year for the next 6 years. At the end of the 6th year, the tree was 1/5 taller than it was at the end of the 4th year. By how many feet did the height of the tree increase each year?",
+      "options": {
+        "A": "3/10",
+        "B": "2/5",
+        "C": "1/2",
+        "D": "2/3",
+        "E": "6/5"
+      },
+      "correct_answer": "D",
+      "explanation": "نفرض الزيادة السنوية = r. الارتفاع في نهاية السنة الرابعة = 4+4r. في نهاية السنة السادسة = 4+6r. المعادلة: 4+6r = (4+4r) + 1/5(4+4r) = (6/5)(4+4r). بالضرب في 5: 20+30r = 24+24r => 6r=4 => r=2/3. الإجابة الصحيحة هي D."
+    }
+  ]
+}
